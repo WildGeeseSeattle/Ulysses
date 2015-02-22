@@ -27,6 +27,8 @@ vnoremap <buffer> <silent> ;I u`>a}<Esc>`<i\irish{<Esc>
 vnoremap <buffer> <silent> ;t u`>a}<Esc>`<i\Title{<Esc>
 " ;v => selection -> \begin{verse}\rselection\r\end{verse}
 vnoremap <buffer> <silent> ;v <Esc>`>o<C-D>\end{verse}<Esc>`<O<C-D>\begin{verse}<Esc>
+" ;z => selection -> \sout{selection}
+vnoremap <buffer> <silent> ;z <Esc>`>a}<Esc>`<i\sout{<Esc>
 
 " | => append " |" to line
 nnoremap <buffer> <silent> \| A \|<Esc>
@@ -41,9 +43,8 @@ nnoremap <buffer> <silent> ;N 0i\<Esc>2lguwf xlguw
 " ;r => reformat \SomeName: to \newcommand{\SomeName}{\role{SomeName}}
 nnoremap <buffer> <silent> ;r $x0lywI\newcommand{<Esc>A}{\role{}}<Esc>hPb
 
-" ;d => puts previous \gab+10 after current line
-" nnoremap <buffer> <silent> ;d ma?\\gab<Cr>yy'ap2w10<C-A>zz
-nnoremap <buffer> <silent> ;d mas<CR><Esc>?\\gab<Cr>yy'ap2w10<C-A>zz
+" ;D => puts previous \gab+10 after current line
+nnoremap <buffer> <silent> ;D ma?\\gab<Cr>yy'ap2w10<C-A>zz
 
 " ;1 => Change current \Name: to \Name[1]:
 nnoremap <buffer> <silent> ;1 $i[1]<Esc>
@@ -92,8 +93,16 @@ nnoremap <silent> ;aa 0i\A:<CR><Esc>
 nnoremap <silent> ;qq 0i\Q:<CR><Esc>
 nnoremap <silent> ;q1 0i\Q1:<CR><Esc>
 nnoremap <silent> ;q2 0i\Q2:<CR><Esc>
-nnoremap <silent> ;al 02x0i\All:<CR><Esc>
-nnoremap <silent> ;bi 02x0i\BloomInt:<CR><Esc>
+nnoremap <silent> ;al 0i\All:<CR><Esc>
+nnoremap <silent> ;si 0i<CR>\StephenInt:<CR><Esc>
+
+nnoremap <silent> ;sd 02xi\Stephen:<CR><Esc>
+nnoremap <silent> ;am 02xi\armstrong:<CR><Esc>
+nnoremap <silent> ;dy 02xi\deasy:<CR><Esc>
+nnoremap <silent> ;ch 02xi\cochrane:<CR><Esc>
+nnoremap <silent> ;cm 02xi\comyn:<CR><Esc>
+nnoremap <silent> ;sg 02xi\sargent:<CR><Esc>
+nnoremap <silent> ;tl 02xi\talbot:<CR><Esc>
 
 nnoremap <silent> ;ac 0i\acting{<C-R>*}<CR><CR><Esc>
 "nnoremap <silent> ;bl 0C\Bloom<Esc>
@@ -104,7 +113,3 @@ nnoremap <silent> ;h  A \|<Esc>j2dd
 
 nnoremap <silent> ;(  i\paren{<Esc>l%a}<Esc>l
 nnoremap <silent> ;{  i<CR>\paren{<Esc>l%a}<Esc>l
-
-nnoremap <silent> ;bl a [\bloom]<Esc>
-nnoremap <silent> ;bo a [\boylan]<Esc>
-nnoremap <silent> ;sd a [\stephen]<Esc>
