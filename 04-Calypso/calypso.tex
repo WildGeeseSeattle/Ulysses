@@ -1,0 +1,56 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\input{defs}
+% \input{largeprint} \renewcommand{\gab}[1]{\marginpar[\tiny\raggedleft #1]{\tiny #1}}
+
+\title{\Huge Calypso}
+\author{George~V. Reilly\\
+\\
+{\small for the}\\
+Wild Geese Players of Seattle\\
+{\emph{www.WildGeeseSeattle.org}}\\
+\\
+{\small Chapter~4 of \emph{Ulysses} by James Joyce}\\
+{\small Adapted from the 1922~edition at Project Gutenberg}
+\\
+\\
+{\small First Draft}}
+\date{March \nth{8}, 2014}
+\raggedbottom
+
+\begin{document}
+
+% Page i, Title Page
+\maketitle
+\thispagestyle{empty}
+\pagebreak
+
+% Page ii, Cast
+\begin{tabular}{lp{10cm}}
+    \multicolumn{2}{c}{\Large \textsc{The Cast}} \\
+\\
+    \multicolumn{2}{c}{\large \textit{TBD}} \\
+Leopold Bloom \\
+Molly Bloom \\
+N1 \\
+N2 \\
+Cat \\
+O'Rourke \\
+Next Door Girl \\
+Dlugacz \\
+Milly Bloom \\
+\end{tabular}
+
+\thispagestyle{empty}
+\newpage
+
+
+% Page 1, first page of script proper
+\setcounter{page}{1}
+
+\input{calypso-1}
+\input{calypso-2}
+\input{calypso-3}
+
+\end{document}

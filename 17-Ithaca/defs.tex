@@ -1,0 +1,97 @@
+% Ithaca commands
+
+\documentclass[12pt,twoside]{article}
+\usepackage{ifthen}
+
+% TODO: eat the preceding line ending
+% Gabler edition line number
+\newcommand{\gab}[1]{\marginpar[\small\raggedleft #1]{\small #1}}
+
+\newcommand{\stage}[1]{{\hskip 0.25em\sffamily[{\itshape{#1}\/}]\hskip 0.25em}}
+\newcommand{\histstyle}[1]{\bigskip\centerline{--- \emph{{[}#1{]}} ---}\smallskip}
+
+\newcommand{\song}[1]{\emph{#1}}
+\newcommand{\Title}[1]{\emph{#1}}
+
+\newcommand{\latin}[1]{\emph{#1}}
+\newcommand{\french}[1]{\emph{#1}}
+\newcommand{\german}[1]{\emph{#1}}
+\newcommand{\greek}[1]{\emph{#1}}
+\newcommand{\italian}[1]{\emph{#1}}
+\newcommand{\spanish}[1]{\emph{#1}}
+\newcommand{\irish}[1]{\emph{#1}}
+\newcommand{\yiddish}[1]{\emph{#1}}
+\newcommand{\hebrew}[1]{\emph{#1}}
+\newcommand{\russian}[1]{\emph{#1}}
+
+%\newcommand{\role}[1]{{\pagebreak[1]\smallskip\textsc{#1}\char58~}}
+\newcommand{\role}[1]{{\pagebreak[1]\smallskip\textbf{#1}\char58~}}
+\newcommand{\narr}[1]{\role{N#1}}
+\newcommand{\nrole}[2]{\narr{#1}: #2.\par\role{#2}}
+\newcommand{\optrole}[2][0]{\ifthenelse {#1>0} {\nrole{#1}{#2}} {\role{#2}}}
+
+\newcounter{questions}
+
+% Narrators 0-9
+\newcommand{\N}[1]              {\narr{#1}}
+\newcommand{\Q}[1]              {\addtocounter{questions}{1}%
+\pagebreak[2]\bigskip\textbf{Q#1~~$\langle$\arabic{questions}$\rangle$\char58~}}
+\newcommand{\A}                 {\role{\textbf{A}}}
+\newcommand{\All}[1][0]         {\optrole[#1]{All}}
+\newcommand{\Bloom}[1][0]       {\optrole[#1]{Bloom}}
+\newcommand{\BloomInt}[1][0]    {\optrole[#1]{Bloom \emph{(int.)}}}
+\newcommand{\Molly}[1][0]       {\optrole[#1]{Molly}}
+\newcommand{\Stephen}[1][0]     {\optrole[#1]{Stephen}}
+
+\newcommand{\Factual}[1][]      {\role{Factual#1}}
+\newcommand{\Household}[1][]    {\role{Household#1}}
+\newcommand{\Memories}[1][]     {\role{Memories#1}}
+\newcommand{\Philosophy}[1][]   {\role{Philosophy#1}}
+\newcommand{\Places}[1][]       {\role{Places#1}}
+\newcommand{\Poetry}[1][]       {\role{Poetry#1}}
+\newcommand{\Religious}[1][]    {\role{Religious#1}}
+\newcommand{\Science}[1][]      {\role{Science#1}}
+
+\newcommand{\Adverts}[1][]      {\role{Adverts#1}}
+\newcommand{\Beggar}[1][]       {\role{Beggar#1}}
+\newcommand{\Roger}[1][]        {\role{Roger#1}}
+\newcommand{\Theater}[1][]      {\role{Theater#1}}
+\newcommand{\Turns}[1][]        {\role{Turns#1}}
+
+\newcommand{\slfrac}[2]{\left.#1\middle/#2\right.}
+
+%---------------------------------------------
+
+\usepackage[super]{nth}
+\usepackage{geometry}
+\geometry{letterpaper}
+
+\usepackage{fontspec,xltxtra,xunicode}
+\usepackage{fancybox}
+\defaultfontfeatures{Mapping=tex-text}
+
+%\setmainfont[Mapping=tex-text,Numbers=OldStyle]{Poly}
+\setmainfont[Mapping=tex-text,Numbers=OldStyle]{Constantia}
+\newfontfamily{\examplefont}{Candara}
+
+% Framed box
+\newcommand{\fb}[1]{
+  \begin{center}
+    \fbox{\parbox{.9\textwidth}{\setlength\parindent{1em}#1}}
+  \end{center}
+}
+
+\newcommand{\commentary}[1]{\bigskip\pagebreak[2]\fb{\centering #1}}
+
+% Parenthetical remarks
+\newcommand{\paren}[1]{\hskip 0.75em{\examplefont \emph{#1}}\hskip 0.75em}
+
+\newcommand{\acting}[1]{\commentary{#1}\nobreak}
+
+% Define | as magic separator (cadence bars)
+\catcode`|=\active
+\protected\def|{{\hskip 0.1em plus 0.25em\small$\wr$\hskip 0.1em plus 0.1em minus 0.05em\relax}}
+
+% Define : as oversized colon (a more visually forceful stop)
+\catcode`:=\active
+\protected\def:{{\nobreak\hskip 0.1em plus 0.25em\Large\char58\hskip 0.1em plus 0.1em minus 0.05em\relax}}

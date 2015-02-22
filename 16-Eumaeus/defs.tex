@@ -1,0 +1,76 @@
+% Eumaes commands
+
+\documentclass[12pt,twoside]{article}
+\usepackage{ifthen}
+
+% TODO: eat the preceding line ending
+\newcommand{\gab}[1]{\marginpar[\small\raggedleft #1]{\small #1}} % Gabler edition line number
+
+\newcommand{\stage}[1]{{\hskip 0.25em\sffamily[{\itshape{#1}\/}]\hskip 0.25em}}
+\newcommand{\histstyle}[1]{\bigskip\centerline{--- \emph{{[}#1{]}} ---}\smallskip}
+
+\newcommand{\song}[1]{\emph{#1}}
+\newcommand{\Title}[1]{\emph{#1}}
+
+\newcommand{\latin}[1]{\emph{#1}}
+\newcommand{\french}[1]{\emph{#1}}
+\newcommand{\german}[1]{\emph{#1}}
+\newcommand{\greek}[1]{\emph{#1}}
+\newcommand{\italian}[1]{\emph{#1}}
+\newcommand{\spanish}[1]{\emph{#1}}
+\newcommand{\irish}[1]{\emph{#1}}
+\newcommand{\yiddish}[1]{\emph{#1}}
+\newcommand{\hebrew}[1]{\emph{#1}}
+\newcommand{\russian}[1]{\emph{#1}}
+
+\newcommand{\role}[1]{{\pagebreak[1]\smallskip\textsc{#1}}}
+\newcommand{\narr}[1]{\role{N#1}}
+\newcommand{\nrole}[2]{\narr{#1}: #2.\par\role{#2}}
+\newcommand{\optrole}[2][0]{\ifthenelse {#1>0} {\nrole{#1}{#2}} {\role{#2}}}
+
+% Narrators 0-9
+\newcommand{\N}[1]{\narr{#1}}
+
+\newcommand{\Italian}[1]{\role{Italian \##1}}
+
+\newcommand{\All}[1][0]  {\optrole[#1]{All}}
+\newcommand{\Bloom}[1][0]  {\optrole[#1]{Bloom}}
+\newcommand{\BloomInt}[1][0]  {\optrole[#1]{Bloom \emph{(int.)}}}
+\newcommand{\Stephen}[1][0]  {\optrole[#1]{Stephen}}
+
+\newcommand{\Campbell}[1][0]  {\optrole[#1]{Campbell}}
+\newcommand{\Loafer}[1]  {\role{Loafer \##1}}
+\newcommand{\LordJohnCorley}[1][0]  {\optrole[#1]{Lord John Corley}}
+\newcommand{\Jarvey}[1][0]  {\optrole[#1]{Jarvey}}
+\newcommand{\Murphy}[1][0]  {\optrole[#1]{Murphy}}
+\newcommand{\OldSpecimen}[1][0]  {\optrole[#1]{Old Specimen}}
+\newcommand{\SkinTheGoat}[1][0]  {\optrole[#1]{Skin-the-Goat}}
+\newcommand{\Someone}[1][0]  {\optrole[#1]{Someone}}
+
+
+%---------------------------------------------
+
+\usepackage[super]{nth}
+\usepackage{units}
+\usepackage{geometry}
+\geometry{letterpaper}
+
+\usepackage{fontspec,xltxtra,xunicode}
+\usepackage{fancybox}
+\defaultfontfeatures{Mapping=tex-text}
+\setmainfont[Mapping=tex-text, Numbers=OldStyle]{Hoefler Text}
+\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Gill Sans}
+\setmonofont[Scale=MatchLowercase]{Andale Mono}
+
+% Framed box
+\newcommand{\fb}[1]{
+  \begin{center}
+    \fbox{\parbox{.9\textwidth}{\setlength\parindent{1em}#1}}
+  \end{center}
+}
+
+\newcommand{\commentary}[1]{\bigskip\pagebreak[2]\fb{\centering #1}}
+
+% Define | as magic separator
+\catcode`|=\active
+\protected\def|{{\hskip 0.1em plus 0.25em\large$\mid$\hskip 0.1em plus 0.1em minus 0.05em\relax}}

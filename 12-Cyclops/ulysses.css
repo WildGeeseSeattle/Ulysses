@@ -1,0 +1,69 @@
+body, table {
+    font-family:    Verdana,Arial,Helvetica;
+    font-size:      small;
+}
+
+div.speaker, div.narrator, div.narrator1, div.narrator2, div.narrator3 {
+	margin-top:     0.35ex;
+    text-indent:    -1.5em;
+    margin-left:    1.5em;
+}
+
+div.speaker-int {
+    font-family:    Book Antiqua;
+    font-size:      larger;
+    text-indent:    -2em;
+    margin-left:    2.5em;
+}
+
+div.narrator2, div.narrator3 {
+    margin:         0.5ex 0px 0.5ex 1.5em;
+}
+
+div.narrator2 {
+    font-family:    Georgia,Times;
+}
+
+div.narrator3 {
+    font-family:    Trebuchet MS,Arial;
+    margin-left:    2.5em;
+}
+
+div.song {
+	font-style:     italic;
+    text-indent:    0;
+    margin-left:    4em;
+}
+
+span.speaker {
+	font-weight:    bold;
+    font-variant:   small-caps;
+}
+
+span.narrator, span.narrator1, span.narrator2, span.narrator3 {
+	font-weight:    bolder;
+    font-style:     italic;
+}
+
+span.language {
+	font-style:     italic;
+}
+
+span.walk {
+	font-weight:    bolder;
+}
+
+span.title {
+	font-style:     italic;
+}
+
+span.stage {
+    font-family:    georgia,times;
+	font-style:     italic;
+}
+
+@media print {
+    hr.rock  {
+        page-break-after: always;
+    }
+}

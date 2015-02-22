@@ -1,0 +1,2470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sirens.xsl"?>
+
+<!-- Chapter 11, Sirens of Ulysses by James Joyce --> 
+<!-- Script converted to XML by George V. Reilly --> 
+
+<xml>
+
+<!--
+<n1>in eternum omnia iuidicia iustiitiæ tuæ.</n1>
+<n1>Eppoi me sono convinto che il mondo è una bestia. &#200; peccato</n1>
+<n1>Ci rifletterò.</n1>
+<n1>Wandering Ængus I call him.</n1>
+-->
+
+<!-- ============================================================== -->
+
+<n1>Bronze by gold heard the hoofirons, steelyringing
+Imperthnthn thnthnthn.</n1>
+
+<n3>Chips, picking chips off rocky thumbnail,</n3>
+
+<bloom>chips.</bloom>
+
+<bloom>Horrid! And gold flushed more.</bloom>
+
+<n1>A husky fifenote blew.</n1>
+
+<bloom>Blew. Blue bloom is on the.</bloom>
+
+<n1>Goldpinnacled hair.</n1>
+
+<bloom>A jumping rose on satiny breast of satin, rose of Castile.</bloom>
+
+<bloom>Trilling, trilling: Idolores.</bloom>
+
+<bloom>Peep! Who's in the ... peepofgold?</bloom>
+
+<n1>Tink cried to bronze in pity.</n1>
+
+<n1>And a call, pure, long and throbbing.</n1>
+
+<bloom>Longindying call.</bloom>
+
+<bloom>Decoy. Soft word. But look: the bright stars fade. Notes chirruping
+answer.</bloom>
+
+<bloom>O rose! Castile. The morn is breaking.</bloom>
+
+<bloom>Jingle jingle jaunted jingling.</bloom>
+
+<bloom>Coin rang. Clock clacked.</bloom>
+
+<bloom>Avowal. <french>Sonnez</french>. I could. Rebound of garter.
+Not leave thee. Smack.
+<french>La cloche!</french> Thigh smack. Avowal. Warm.
+Sweetheart, goodbye!</bloom>
+
+<bloom>Jingle.</bloom>
+
+<bloom>Bloo.</bloom>
+
+<n1>Boomed crashing chords.</n1>
+
+<bloom>When love absorbs. War! War!
+The tympanum.</bloom>
+
+<bloom>A sail! A veil awave upon the waves.</bloom>
+
+<bloom>Lost. Throstle fluted. All is lost now.</bloom>
+
+<bloom>Horn.</bloom>
+
+<n1>Hawhorn.</n1>
+
+<n1>When first he saw.</n1>
+
+<bloom>Alas!</bloom>
+
+<bloom>Full tup. Full throb.</bloom>
+
+<n1>Warbling.</n1>
+
+<bloom>Ah, lure! Alluring.</bloom>
+
+<bloom>Martha! Come!</bloom>
+
+<n1>Clapclap. Clipclap. Clappyclap.</n1>
+
+<bloom>Goodgod henev erheard inall.</bloom>
+
+<n1>Deaf bald Pat brought pad knife took up.</n1>
+
+<bloom>A moonlit nightcall: far, far.</bloom>
+
+<bloom>I feel so sad. P. S. So lonely blooming.</bloom>
+
+<n1>Listen!</n1>
+
+<bloom>The spiked and winding cold seahorn. Have you the? Each, and for other,
+plash and silent roar.</bloom>
+
+<bloom>Pearls: when she. Liszt's rhapsodies.</bloom>
+
+<n1>Hissss.</n1>
+
+<bloom>You don't?</bloom>
+
+<bloom>Did not: no, no: believe: Lidlyd.</bloom>
+
+<n1>With a cock with a carra.</n1>
+
+<bloom>Black. Deepsounding. Do, Ben, do.</bloom>
+
+<bloom>Wait while you wait. Hee hee. Wait while you hee.</bloom>
+
+<bloom>But wait!</bloom>
+
+<bloom>Low in dark middle earth. Embedded ore.</bloom>
+
+<bloom><latin>Naminedamine.</latin> Preacher is he:</bloom>
+
+<bloom>All gone. All fallen.</bloom>
+
+<bloom>Tiny, her tremulous fernfoils of maidenhair.</bloom>
+
+<n1>Amen! He gnashed in fury.</n1>
+
+<n1>Fro. To, fro. A baton cool protruding.</n1>
+
+<bloom>Bronzelydia by Minagold.</bloom>
+
+<n1>By bronze, by gold, in oceangreen of shadow. Bloom. Old Bloom.</n1>
+
+<n1>One rapped, one tapped, with a carra, with a cock.</n1>
+
+<bloom>Pray for him! Pray, good people!</bloom>
+
+<n1>His gouty fingers nakkering.</n1>
+
+<bloom>Big Benaben. Big Benben.</bloom>
+
+<bloom>Last rose Castile of summer left bloom I feel so sad alone.</bloom>
+
+<bloom>Pwee! Little wind piped wee.</bloom>
+
+<bloom>True men. Lid Ker Cow De and Doll. Ay, ay. Like you men. Will lift your
+tschink with tschunk.</bloom>
+
+<n1>Fff! Oo!</n1>
+
+<bloom>Where bronze from anear? Where gold from afar? Where hoofs?</bloom>
+
+<n1>Rrrpr. Kraa. Kraandl.</n1>
+
+<bloom>Then not till then. My eppripfftaph. Be pfrwritt.</bloom>
+
+<bloom>Done.</bloom>
+
+<bloom>Begin!</bloom>
+
+<br />
+
+
+<!--
+<MissD> = Bronze</MissD>
+<MissK> = Gold</MissK>
+-->
+
+<br />
+
+<n3>Bronze by gold, miss Douce's head by miss Kennedy's head, over the
+crossblind of the Ormond bar heard the viceregal hoofs go by, ringing
+steel.</n3>
+
+<MissK>Is that her?</MissK>
+<n2>asked miss Kennedy.</n2>
+
+<n2>Miss Douce said</n2>
+
+<MissD>yes, sitting with his ex, pearl grey and
+<french>eau de Nil</french>.</MissD>
+
+<MissK>Exquisite contrast.</MissK>
+
+<n2>When all agog miss Douce said eagerly:</n2>
+
+<MissD>Look at the fellow in the tall silk.</MissD>
+
+<MissK>Who? Where?</MissK>
+<n2>gold asked more eagerly.</n2>
+
+<MissD>In the second carriage.</MissD>
+<n2>miss Douce's wet lips said, laughing in the sun.</n2>
+
+<MissD>He's looking. Mind till I see.</MissD>
+
+<n2>She darted, bronze, to the backmost corner, flattening her face
+against the pane in a halo of hurried breath.</n2>
+
+<n2>Her wet lips tittered:</n2>
+
+<MissD>He's killed looking back.</MissD>
+
+<MissD> <stage>laughs</stage>
+O wept! Aren't men frightful idiots?</MissD>
+
+<n1>With sadness.</n1>
+
+<n2>Miss Kennedy sauntered sadly from bright light, twining a loose hair
+behind an ear. Sauntering sadly, gold no more, she twisted twined
+a hair.</n2>
+
+<n2>Sadly she twined in sauntering gold hair behind a curving ear.</n2>
+
+<MissK>It's them has the fine times,</MissK>
+<n2>sadly then she said.</n2>
+
+<n1>A man.</n1>
+
+<n1>Bloowho went by by Moulang's pipes bearing in his breast the sweets
+of sin, by Wine's antiques, in memory bearing sweet sinful words, by
+Carroll's dusky battered plate, for Raoul.</n1>
+
+<n2>The boots to them, them in the bar, them barmaids came. For them
+unheeding him he banged on the counter his tray of chattering china.
+And</n2>
+
+<boots>There's your teas.</boots>
+
+<n2>Miss Kennedy with manners transposed the teatray down to an
+upturned lithia crate, safe from eyes, low.</n2>
+
+<boots>What is it?</boots>
+<n2>loud boots unmannerly asked.</n2>
+
+<MissD>Find out,</MissD>
+<n2>miss Douce retorted, leaving her spyingpoint.</n2>
+
+<boots>Your beau, is it?</boots>
+
+<n2>A haughty bronze replied:</n2>
+
+<MissD>I'll complain to Mrs de Massey on you if I hear any more of your
+impertinent insolence.</MissD>
+
+<boots>Imperthnthn thnthnthn,</boots>
+<n2>bootssnout sniffed rudely, as he retreated as she
+threatened as he had come.</n2>
+
+<n1>Bloom.</n1>
+
+<n2>On her flower frowning miss Douce said:</n2>
+
+<MissD>Most aggravating that young brat is. If he doesn't conduct himself
+I'll wring his ear for him a yard long.</MissD>
+
+<n2>Ladylike in exquisite contrast.</n2>
+
+<MissK>Take no notice,</MissK>
+<n2>miss Kennedy rejoined.</n2>
+
+<n2>She poured in a teacup tea, then back in the teapot tea. They cowered
+under their reef of counter, waiting on footstools, crates upturned,
+waiting for their teas to draw. They pawed their blouses, both of black
+satin, two and nine a yard, waiting for their teas to draw, and two and
+seven.</n2>
+
+<n3>Yes, bronze from anear, by gold from afar, heard steel from anear,
+hoofs ring from afar, and heard steelhoofs ringhoof ringsteel.</n3>
+
+<MissD>Am I awfully sunburnt?</MissD>
+
+<n2>Miss bronze unbloused her neck.</n2>
+
+<MissK>No. It gets brown after. Did you try the borax with
+the cherry laurel water?</MissK>
+
+<n2>Miss Douce halfstood to see her skin askance in the barmirror
+gildedlettered where hock and claret glasses shimmered and in their midst
+a shell.</n2>
+
+<MissD>And leave it to my hands.</MissD>
+
+<MissK>Try it with the glycerine.</MissK>
+
+<n2>Bidding her neck and hands adieu miss Douce</n2>
+
+<MissD>Those things only bring out a rash,</MissD>
+
+<n2>replied, reseated.</n2>
+
+<MissD>I asked that
+old fogey in Boyd's for something for my skin.</MissD>
+
+<n2>Miss Kennedy, pouring now a fulldrawn tea, grimaced and prayed:</n2>
+
+<MissK>O, don't remind me of him for mercy' sake!</MissK>
+
+<MissD>But wait till I tell you.</MissD>
+<n2>miss Douce entreated.</n2>
+
+<MissK>Sweet tea</MissK>
+<n2>miss Kennedy having poured with milk plugged both two
+ears with little fingers.</n2>
+
+<MissK>No, don't.</MissK>
+
+<MissK>I won't listen.</MissK>
+
+<n1>But Bloom?</n1>
+
+<n2>Miss Douce grunted in snuffy fogey's tone:</n2>
+
+<MissD>For your what?</MissD>
+
+<n2>Miss Kennedy unplugged her ears to hear, to speak: but said, but
+prayed again:</n2>
+
+<MissK>Don't let me think of him or I'll expire. The hideous old wretch! That
+night in the Antient Concert Rooms.</MissK>
+
+<n2>She sipped distastefully her brew, hot tea, a sip, sipped,
+sweet tea.</n2>
+
+<MissD>Here he was.</MissD>
+<n2>miss Douce said, cocking her bronze head three quarters,
+ruffling her nosewings.</n2>
+<MissD>Hufa! Hufa!</MissD>
+
+<n2>Shrill shriek of laughter sprang from miss Kennedy's throat. Miss
+Douce huffed and snorted down her nostrils that quivered imperthnthn like
+a snout in quest.</n2>
+
+<MissK>O! <stage>shrieking</stage>
+Will you ever forget his goggle eye?</MissK>
+
+<n2>Miss Douce chimed in in deep bronze laughter, shouting:</n2>
+
+<MissD>And your other eye!</MissD>
+
+<n1>Bloowhose dark eye read Aaron Figatner's name.</n1>
+
+<bloom>Why do I always
+think Figather? Gathering figs, I think. And Prosper Lore's huguenot
+name.</bloom>
+
+<n1>By Bassi's blessed virgins Bloom's dark eyes went by.</n1>
+
+<bloom>Bluerobed, white
+under, come to me. God they believe she is: or goddess. Those today. I
+could not see. That fellow spoke. A student. After with Dedalus' son. He
+might be Mulligan. All comely virgins. That brings those rakes of fellows
+in: her white.</bloom>
+
+<n1>By went his eyes.</n1>
+<bloom>The sweets of sin. Sweet are the sweets.</bloom>
+
+<bloom>Of sin.</bloom>
+
+<n2>In a giggling peal young goldbronze voices blended, Douce with
+Kennedy</n2>
+
+<MissK>your other eye.</MissK>
+
+<n2>They threw young heads back, bronze gigglegold,
+to let freefly their laughter, screaming, your other, signals to each
+other,  high piercing notes.</n2>
+
+<n3>Ah, panting, sighing, sighing, ah, fordone,
+their mirth died down.</n3>
+
+<n2>Miss Kennedy lipped her cup again, raised, drank a sip and
+gigglegiggled. Miss Douce, bending over the teatray, ruffled again her
+nose and rolled droll fattened eyes. Again Kennygiggles, stooping, her
+fair pinnacles of hair, stooping, her tortoise napecomb showed, spluttered
+out of her mouth her tea, choking in tea and laughter, coughing with
+choking, crying:</n2>
+
+<MissK>O greasy eyes! Imagine being married to a man like that!
+With his bit of beard!</MissK>
+
+<n2>Douce gave full vent to a splendid yell, a full yell of full woman,
+delight, joy, indignation.</n2>
+
+<MissD>Married to the greasy nose!</MissD>
+<omit>she yelled.</omit>
+
+<n3>Shrill, with deep laughter, after, gold after bronze, they urged each
+each to peal after peal, ringing in changes, bronzegold, goldbronze,
+shrilldeep, to laughter after laughter. And then laughed more.</n3>
+
+<MissK>Greasy I knows.</MissK>
+
+<n3>Exhausted, breathless, their shaken heads they laid, braided and
+pinnacled by glossycombed, against the counterledge. All flushed</n3>
+
+<MissesDK>(O!),</MissesDK>
+
+<n3>panting, sweating</n3>
+
+<MissesDK>(O!),</MissesDK>
+
+<n3>all breathless.</n3>
+
+<MissK>Married to Bloom, to greaseabloom.</MissK>
+
+<MissD>O saints above!</MissD>
+<n2>miss Douce said, sighed above her jumping rose.</n2>
+<MissD>I wished I hadn't laughed so much. I feel all wet.</MissD>
+
+<MissK>O, miss Douce!
+<omit>miss Kennedy protested.</omit>
+You horrid thing!</MissK>
+
+<n2>And flushed yet more</n2>
+<MissK>(you horrid!)</MissK>
+<n2>more goldenly.</n2>
+
+<n1>By Cantwell's offices roved Greaseabloom, by Ceppi's virgins, bright
+of their oils.</n1>
+<bloom>Nannetti's father hawked those things about, wheedling at
+doors as I. Religion pays. Must see him for that par. Eat first. I want.
+Not yet. At four, she said. Time ever passing. Clockhands turning. On.
+Where eat? The Clarence, Dolphin. On. For Raoul. Eat. If I net five
+guineas with those ads. The violet silk petticoats. Not yet. The sweets
+of sin.</bloom>
+
+<n2>Flushed less, still less, goldenly paled.</n2>
+
+<n1>Into their bar strolled Mr Dedalus.</n1>
+
+<n3>Chips, picking chips off one of his rocky thumbnails. Chips.</n3>
+
+<n1>He strolled.</n1>
+
+<simon>O, welcome back, miss Douce.</simon>
+
+<n3>He held her hand. Enjoyed her holidays?</n3>
+
+<MissD>Tiptop.</MissD>
+
+<n3>He hoped she had nice weather in Rostrevor.</n3>
+
+<MissD>Gorgeous. Look at the holy show I am. Lying out on the strand
+all day.</MissD>
+
+<n2>Bronze whiteness.</n2>
+
+<simon>That was exceedingly naughty of you.</simon>
+<n3>Mr Dedalus told her and pressed her hand indulgently.</n3>
+<simon>Tempting poor simple males.</simon>
+
+<n2>Miss Douce of satin douced her arm away.</n2>
+
+<MissD>O go away! You're very simple, I don't think.</MissD>
+
+<n3>He was.</n3>
+
+<simon>Well now I am. <omit>he mused.</omit>
+I looked so simple in the cradle they christened
+me simple Simon.</simon>
+
+<MissD>You must have been a doaty.
+<omit>miss Douce made answer.</omit>
+And what did the doctor order today?</MissD>
+
+<simon>Well now.
+<omit>he mused.</omit>
+whatever you say yourself. I think I'll trouble you
+for some fresh water and a half glass of whisky.</simon>
+
+<n1>Jingle.</n1>
+
+<MissD>With the greatest alacrity.</MissD>
+<n2>miss Douce agreed.</n2>
+
+<n2>With grace of alacrity towards the mirror gilt Cantrell and
+Cochrane's she turned herself. With grace she tapped a measure of gold
+whisky from her crystal keg. Forth from the skirt of his coat Mr Dedalus
+brought pouch and pipe. Alacrity she served. He blew through the flue two
+husky fifenotes.</n2>
+
+<simon>By Jove.</simon>
+<n3>he mused.</n3>
+<simon>I often wanted to see the Mourne mountains. Must be
+a great tonic in the air down there. But a long threatening comes at last,
+they say. Yes. Yes.</simon>
+
+<n3>Yes. He fingered shreds of hair, her maidenhair, her mermaid's, into
+the bowl. Chips. Shreds. Musing. Mute.</n3>
+
+<bloom>None nought said nothing. Yes.</bloom>
+
+<n2>Gaily miss Douce polished a tumbler, trilling:</n2>
+
+<MissD><song>O, Idolores, queen of the eastern seas!</song></MissD>
+
+<lenehan>Was Mr Lidwell in today?</lenehan>
+
+<n3>In came Lenehan. Round him peered Lenehan.</n3>
+
+<n1>Mr Bloom reached Essex bridge.
+Yes, Mr Bloom crossed bridge of Yessex.</n1>
+<bloom>To Martha I must write. Buy paper.
+Daly's. Girl there civil. Bloom. Old Bloom.
+Blue bloom is on the rye.</bloom>
+
+<MissD>He was in at lunchtime.</MissD>
+
+<n3>Lenehan came forward.</n3>
+
+<lenehan>Was Mr Boylan looking for me?</lenehan>
+
+<omit>He asked. She answered:</omit>
+
+<MissD>Miss Kennedy, was Mr Boylan in while I was upstairs?</MissD>
+
+<n2>She asked. Miss voice of Kennedy answered, a second teacup poised,
+her gaze upon a page:</n2>
+
+<MissK>No. He was not.</MissK>
+
+<n2>Miss gaze of Kennedy, heard, not seen, read on.</n2>
+
+<n3>Lenehan round the
+sandwichbell wound his round body round.</n3>
+
+<lenehan>Peep! Who's in the corner?</lenehan>
+
+<n3>No glance of Kennedy rewarding him he yet made overtures. To mind
+her stops. To read only the black ones: round o and crooked ess.</n3>
+
+<n1>Jingle jaunty jingle.</n1>
+
+<n2>Girlgold she read and did not glance.</n2>
+<MissK>Take no notice.</MissK>
+<n2>She took no
+notice while he read by rote a solfa fable for her, plappering flatly:</n2>
+
+<lenehan>Ah fox met ah stork. Said thee fox too thee stork: Will you put your
+bill down inn my troath and pull upp ah bone?</lenehan>
+
+<n3>He droned in vain. Miss Douce turned to her tea aside.</n3>
+
+<n3>He sighed aside:</n3>
+
+<lenehan>Ah me! O my!</lenehan>
+
+<n3>He greeted Mr Dedalus and got a nod.</n3>
+
+<lenehan>Greetings from the famous son of a famous father.</lenehan>
+
+<simon>Who may he be?</simon>
+<omit>Mr Dedalus asked.</omit>
+
+<n3>Lenehan opened most genial arms.</n3>
+<lenehan>Who?</lenehan>
+
+<lenehan>Who may he be? Can you ask? Stephen, the youthful bard.</lenehan>
+
+<n2>Dry.</n2>
+
+<n3>Mr Dedalus, famous father, laid by his dry filled pipe.</n3>
+
+<simon>I see. I didn't recognise him for the moment. I hear he is
+keeping very select company. Have you seen him lately?</simon>
+
+<n3>He had.</n3>
+
+<lenehan>I quaffed the nectarbowl with him this very day. In
+Mooney's <french>en ville</french> and in Mooney's <french>sur mer</french>.
+He had received the rhino for the labour of his muse.</lenehan>
+
+<n3>He smiled at bronze's teabathed lips, at listening lips and eyes:</n3>
+
+<lenehan>The <french>élite</french> of Erin hung upon his lips.
+The ponderous pundit, Hugh
+MacHugh, Dublin's most brilliant scribe and editor and that minstrel boy
+of the wild wet west who is known by the euphonious appellation of the
+O'Madden Burke.</lenehan>
+
+<n3>After an interval Mr Dedalus raised his grog and</n3>
+
+<simon>That must have been highly diverting. I see.</simon>
+
+<n3>He see.</n3>
+
+<n1>He drank.</n1>
+
+<n3>With faraway mourning mountain eye. Set down his glass.</n3>
+
+<n2>He looked towards the saloon door.</n2>
+
+<simon>I see you have moved the piano.</simon>
+
+<MissD>The tuner was in today.</MissD>
+<omit>miss Douce replied,</omit>
+<MissD>tuning it for the smoking
+concert and I never heard such an exquisite player.</MissD>
+
+<simon>Is that a fact?</simon>
+
+<MissD>Didn't he, miss Kennedy? The real classical, you know. And blind too,
+poor fellow. Not twenty I'm sure he was.</MissD>
+
+<simon>Is that a fact?</simon>
+<omit>Mr Dedalus said.</omit>
+
+<n3>He drank and strayed away.</n3>
+
+<MissD>So sad to look at his face.</MissD>
+<n2>miss Douce condoled.</n2>
+
+<stripling>God's curse on bitch's bastard.</stripling>
+
+<n1>Tink to her pity cried a diner's bell. To the door of the bar and
+diningroom came bald Pat, came bothered Pat, came Pat, waiter of
+Ormond. Lager for diner. Lager without alacrity she served.</n1>
+
+<stage>Enter Pat</stage>
+
+<n3>With patience Lenehan waited for Boylan with impatience, for
+jinglejaunty blazes boy.</n3>
+
+<n1>Upholding the lid he (who?) gazed in the coffin (coffin?) at the
+oblique triple (piano!) wires. He pressed (the same who pressed
+indulgently her hand), soft pedalling, a triple of keys to see the
+thicknesses of felt advancing, to hear the muffled hammerfall in action.</n1>
+
+<bloom>Two sheets cream vellum paper one reserve two envelopes when I was
+in Wisdom Hely's</bloom>
+<n1>wise Bloom in Daly's Henry Flower bought.</n1>
+<bloom>Are you not
+happy in your home? Flower to console me and a pin cuts lo. Means
+something, language of flow. Was it a daisy? Innocence that is.
+Respectable girl meet after mass. Thanks awfully muchly.</bloom>
+<n1>Wise Bloom eyed
+on the door a poster, a swaying mermaid smoking mid nice waves.</n1>
+<bloom>Smoke mermaids, coolest whiff of all. Hair streaming: lovelorn.
+For some man.
+For Raoul.</bloom>
+<n1>He eyed and saw afar on Essex bridge a gay hat riding on a
+jaunting car.</n1>
+<bloom>It is. Again. Third time. Coincidence.</bloom>
+
+<n1>Jingling on supple rubbers it jaunted from the bridge to
+Ormond quay.</n1>
+<bloom>Follow. Risk it. Go quick. At four. Near now. Out.</bloom>
+
+<shopgirl>Twopence, sir.</shopgirl>
+<n1>the shopgirl dared to say.</n1>
+
+<bloom-aloud>Aha ... I was forgetting ... Excuse ...</bloom-aloud>
+
+<shopgirl>And four.</shopgirl>
+
+<bloom>At four she. Winsomely she on Bloohimwhom smiled. Bloo smi qui go.
+Ternoon.</bloom>
+
+<bloom>Think you're the only pebble on the beach? Does that to all.</bloom>
+
+<bloom>For men.</bloom>
+
+<n2>In drowsy silence gold bent on her page.</n2>
+
+<n1>From the saloon a call came, long in dying. That was a tuningfork the
+tuner had that he forgot that he now struck. A call again. That he now
+poised that it now throbbed. You hear? It throbbed, pure, purer, softly
+and softlier, its buzzing prongs. Longer in dying call.</n1>
+
+<n2>Pat paid for diner's popcorked bottle: and over tumbler, tray and
+popcorked bottle ere he went he whispered, bald and bothered, with Miss
+Douce.</n2>
+
+<stage>Pat and other voice</stage>
+<song>The bright stars fade ...</song>
+
+<n3>A voiceless song sang from within, singing:</n3>
+
+<stage>other voice</stage>
+<song>... the morn is breaking.</song>
+
+<n2>A duodene of birdnotes chirruped bright treble answer under sensitive
+hands. Brightly the keys, all twinkling, linked, all harpsichording,
+called to a voice to sing the strain of dewy morn, of youth, of love's
+leavetaking, life's, love's morn.</n2>
+
+<stage>other voice</stage>
+<song>the dewdrops pearl ...</song>
+
+<n3>Lenehan's lips over the counter lisped a low whistle of decoy.</n3>
+
+<lenehan>But look this way, rose of Castile.</lenehan>
+
+<n1>Jingle jaunted by the curb and stopped.</n1>
+
+<n2>She rose and closed her reading, rose of Castile: fretted, forlorn,
+dreamily rose.</n2>
+
+<lenehan>Did she fall or was she pushed?
+<omit>he asked her.</omit></lenehan>
+
+<n2>She answered, slighting:</n2>
+
+<MissK>Ask no questions and you'll hear no lies.</MissK>
+
+<n2>Like lady, ladylike.</n2>
+
+<n1>Blazes Boylan's smart tan shoes creaked on the barfloor where he
+strode.</n1>
+
+<n3>Yes, gold from anear by bronze from afar.</n3>
+
+<n3>Lenehan heard and knew and hailed him:</n3>
+
+<lenehan>See the conquering hero comes.</lenehan>
+
+<n1>Between the car and window, warily walking, went Bloom,
+unconquered hero.</n1>
+<bloom>See me he might. The seat he sat on: warm.</bloom>
+<n1>Black wary hecat walked towards Richie Goulding's legal bag,
+lifted aloft, saluting.</n1>
+
+<stage>other voice</stage>
+<song>And I from thee ...</song>
+
+<boylan>I heard you were round,</boylan>
+<n2>said Blazes Boylan.</n2>
+
+<n2>He touched to fair miss Kennedy a rim of his slanted straw. She
+smiled on him. But sister bronze outsmiled her, preening for him her
+richer hair, a bosom and a rose.</n2>
+
+<n2>Smart Boylan bespoke potions.</n2>
+
+<boylan>What's your cry? Glass of bitter? Glass of bitter, please,
+and a sloegin for me. Wire in yet?</boylan>
+
+<MissD>Not yet.</MissD>
+
+<bloom>At four she. Who said four?</bloom>
+
+<n1>Cowley's red lugs and bulging apple in the door of the
+sheriff's office.</n1>
+
+<bloom>Avoid. Goulding a chance. What is he doing in the Ormond?
+Car waiting.</bloom>
+
+<bloom>Wait.</bloom>
+
+<bloom>Hello.</bloom>
+<goulding>Where off to?</goulding>
+<bloom>Something to eat?</bloom>
+<goulding>I too was just.</goulding>
+<bloom>In here.</bloom>
+<goulding>What, Ormond?</goulding>
+<bloom>Best value in Dublin.</bloom>
+<goulding>Is that so?</goulding>
+<bloom>Diningroom.</bloom>
+<bloom>Sit tight there.</bloom>
+<bloom>See, not be seen.</bloom>
+<goulding>I think I'll join you.</goulding>
+<goulding>Come on.</goulding>
+<n1>Richie led on.
+Bloom followed bag.</n1>
+<bloom>Dinner fit for a prince.</bloom>
+
+<n2>Miss Douce reached high to take a flagon, stretching her satin arm,
+her bust, that all but burst, so high.</n2>
+
+<lenehan>O! O!</lenehan>
+<n3>jerked Lenehan, gasping at each stretch.</n3>
+<lenehan>O!</lenehan>
+
+<n2>But easily she seized her prey and led it low in triumph.</n2>
+
+<boylan>Why don't you grow?
+<omit>asked Blazes Boylan.</omit></boylan>
+
+<n2>Shebronze, dealing from her oblique jar thick syrupy liquor for his
+lips, looked as it flowed</n2>
+<bloom>(flower in his coat: who gave him?),</bloom>
+<n2>and syrupped with her voice:</n2>
+
+<MissD>Fine goods in small parcels.</MissD>
+
+<n2>That is to say she. Neatly she poured slowsyrupy sloe.</n2>
+
+<boylan>Here's fortune.</boylan>
+
+<n2>He pitched a broad coin down. Coin rang.</n2>
+
+<lenehan>Hold on, till I ...</lenehan>
+
+<lenehan>Fortune.</lenehan>
+<n2>he wished, lifting his bubbled ale.</n2>
+
+<lenehan>Sceptre will win in a canter.</lenehan>
+
+<boylan>I plunged a bit,</boylan>
+<n2>said Boylan winking and drinking.</n2>
+<boylan>Not on my own, you know. Fancy of a friend of mine.</boylan>
+
+<n3>Lenehan still drank and grinned at his tilted ale and at
+miss Douce's lips that all but hummed, not shut,
+the oceansong her lips had trilled.</n3>
+
+<MissD><song>Idolores. The eastern seas.</song></MissD>
+
+<n2>Clock whirred. Miss Kennedy passed their way</n2>
+
+<bloom>(flower, wonder who gave),</bloom>
+
+<n2>bearing away teatray.</n2>
+
+<n1>Clock clacked.</n1>
+
+<n2>Miss Douce took Boylan's coin, struck boldly the cashregister.</n2>
+
+<n3>It clanged.</n3>
+
+<n1>Clock clacked.</n1>
+
+<n2>Fair one of Egypt teased and sorted in the till
+and hummed and handed coins in change.</n2>
+
+<bloom>Look to the west.</bloom>
+
+<n1>A clack.</n1>
+
+<bloom>For me.</bloom>
+
+<boylan>What time is that? Four?</boylan>
+
+<n2>O'clock.</n2>
+
+<n3>Lenehan, small eyes ahunger on her humming, bust ahumming,
+tugged Blazes Boylan's elbowsleeve.</n3>
+
+<lenehan>Let's hear the time.</lenehan>
+
+
+<n1>The bag of Goulding, Collis, Ward led Bloom by ryebloom flowered
+tables. Aimless he chose with agitated aim, bald Pat attending, a table
+near the door.</n1>
+<bloom>Be near. At four. Has he forgotten? Perhaps a trick. Not
+come: whet appetite. I couldn't do. Wait, wait.</bloom>
+<n1>Pat, waiter, waited.</n1>
+
+<n2>Sparkling bronze azure eyed Blazure's skyblue bow and eyes.</n2>
+
+<lenehan>Go on,</lenehan>
+<n3>pressed Lenehan.</n3>
+<lenehan>There's no-one. He never heard.</lenehan>
+
+<stage>other voice</stage>
+<song>... to Flora's lips did hie.</song>
+
+<n3>High, a high note pealed in the treble clear.</n3>
+
+<n2>Bronzedouce communing with her rose that sank and rose sought
+Blazes Boylan's flower and eyes.</n2>
+
+<boylan>Please, please.</boylan>
+
+<n2>He pleaded over returning phrases of avowal.</n2>
+
+<stage>other voice</stage>
+<song>I could not leave thee ...</song>
+
+<MissD>Afterwits,</MissD>
+<n2>Miss Douce promised coyly.</n2>
+
+<lenehan>No, now,</lenehan>
+<n3>urged Lenehan.</n3>
+<lenehan><french>Sonnez la cloche!</french> O do! There's no-one.</lenehan>
+
+<n2>She looked. Quick. Miss Kenn out of earshot. Sudden bent. Two
+kindling faces watched her bend.</n2>
+
+<n3>Quavering the chords strayed from the air, found it again, lost chord,
+and lost and found it, faltering.</n3>
+
+<lenehan>Go on! Do! <french>Sonnez!</french></lenehan>
+
+<n2>Bending, she nipped a peak of skirt above her knee. Delayed. Taunted
+them still, bending, suspending, with wilful eyes.</n2>
+
+<lenehan><french>Sonnez!</french></lenehan>
+
+<n1>Smack. She set free sudden in rebound her nipped elastic garter
+smackwarm against her smackable a woman's warmhosed thigh.</n1>
+
+<lenehan><french>La cloche!</french></lenehan>
+<n3>cried gleeful Lenehan.</n3>
+<lenehan>Trained by owner. No sawdust there.</lenehan>
+
+<n2>She smilesmirked supercilious (wept! aren't men?), but, lightward
+gliding, mild she smiled on Boylan.</n2>
+
+<MissD>You're the essence of vulgarity,</MissD>
+<n2>she in gliding said.</n2>
+
+<n1>Boylan, eyed, eyed. Tossed to fat lips his chalice, drank off his
+chalice tiny, sucking the last fat violet syrupy drops.
+His spellbound eyes went after, after her gliding head
+as it went down the bar by mirrors, gilded
+arch for ginger ale, hock and claret glasses shimmering, a spiky shell,
+where it concerted, mirrored, bronze with sunnier bronze.</n1>
+
+<n3>Yes, bronze from anearby.</n3>
+
+<stage>other voice</stage>
+<song>... sweetheart, goodbye!</song>
+
+<boylan>I'm off,</boylan>
+<n2>said Boylan with impatience.</n2>
+
+<n1>He slid his chalice brisk away, grasped his change.</n1>
+
+<lenehan>Wait a shake,</lenehan>
+<n3>begged Lenehan, drinking quickly.</n3>
+<lenehan>I wanted to tell you.
+Tom Rochford ...</lenehan>
+
+<boylan>Come on to blazes,</boylan>
+<n2>said Blazes Boylan, going.</n2>
+
+<n3>Lenehan gulped to go.</n3>
+
+<lenehan>Got the horn or what? Wait. I'm coming.</lenehan>
+
+<n3>He followed the hasty creaking shoes but stood by nimbly by the
+threshold, saluting forms, a bulky with a slender.</n3>
+
+<lenehan>How do you do, Mr Dollard?</lenehan>
+
+<dollard>Eh? How do? How do?</dollard>
+<n3>Ben Dollard's vague bass answered, turning an
+instant from Father Cowley's woe.</n3>
+<dollard>He won't give you any trouble, Bob. Alf
+Bergan will speak to the long fellow. We'll put a barleystraw in that
+Judas Iscariot's ear this time.</dollard>
+
+<n3>Sighing Mr Dedalus came through the saloon, a finger soothing an
+eyelid.</n3>
+
+<dollard>Hoho, we will,</dollard>
+<n3>Ben Dollard yodled jollily.</n3>
+<dollard>Come on, Simon. Give us a
+ditty. We heard the piano.</dollard>
+
+<n1>Bald Pat, bothered waiter, waited for drink orders. Power for Richie.
+And Bloom?</n1>
+<bloom>Let me see. Not make him walk twice. His corns. Four now.
+How warm this black is. Course nerves a bit. Refracts (is it?) heat. Let
+me see. Cider. Yes, bottle of cider.</bloom>
+
+<simon>What's that?</simon>
+<n3>Mr Dedalus said.</n3>
+<simon>I was only vamping, man.</simon>
+
+<dollard>Come on, come on.
+<omit>Ben Dollard called.</omit>
+Begone dull care. Come, Bob.</dollard>
+
+<n3>He ambled Dollard, bulky slops, before them</n3>
+
+<simon>(hold that fellow with the:</simon>
+
+<dollard>hold him now)</dollard>
+
+<n3>into the saloon. He plumped him Dollard on the stool.
+His gouty paws plumped chords. Plumped, stopped abrupt.</n3>
+
+<n1>Bald Pat in the doorway met tealess gold returning. Bothered, he
+wanted Power and cider. Bronze by the window, watched, bronze from
+afar.</n1>
+
+<n1>Jingle a tinkle jaunted.</n1>
+
+<n1>Bloom heard a jing, a little sound.</n1>
+<bloom>He's off.</bloom>
+<n1>Light sob of breath Bloom sighed on the silent bluehued flowers.
+Jingling.</n1>
+<bloom>He's gone.</bloom>
+<n1>Jingle.</n1>
+<bloom>Hear.</bloom>
+
+<simon><title>Love and War</title>, Ben,</simon>
+<n3>Mr Dedalus said.</n3>
+<simon>God be with old times.</simon>
+
+<n2>Miss Douce's brave eyes, unregarded, turned from the crossblind,
+smitten by sunlight. Gone. Pensive (who knows?), smitten (the smiting
+light), she lowered the dropblind with a sliding cord. She drew down
+pensive (why did he go so quick when I?) about her bronze, over the bar
+where bald stood by sister gold, inexquisite contrast, contrast
+inexquisite nonexquisite, slow cool dim seagreen sliding depth of shadow,
+<french>eau de Nil</french>.</n2>
+
+<cowley>Poor old Goodwin was the pianist that night,</cowley>
+<n1>Father Cowley reminded them.</n1>
+<cowley>There was a slight difference of opinion between himself and the
+Collard grand.</cowley>
+
+<n1>There was.</n1>
+
+<simon>A symposium all his own,</simon>
+<n3>Mr Dedalus said.</n3>
+<simon>The devil wouldn't stop him.
+He was a crotchety old fellow in the primary stage of drink.</simon>
+
+<dollard>God, do you remember?</dollard>
+<n3>Ben bulky Dollard said, turning from the punished keyboard.</n3>
+<dollard>And by Japers I had no wedding garment.</dollard>
+
+<n1>They laughed all three.</n1>
+<simon>He had no wed.</simon>
+<n3>All trio laughed.</n3>
+<dollard>No wedding garment.</dollard>
+
+<simon>Our friend Bloom turned in handy that night. Where's
+my pipe, by the way?</simon>
+
+<n3>He wandered back to the bar to the lost chord pipe.</n3>
+
+<n1>Bald Pat carried
+two diners' drinks, Richie and Poldy. And Father Cowley laughed again.</n1>
+
+<cowley>I saved the situation, Ben, I think.</cowley>
+
+<dollard>You did,</dollard>
+<n3>averred Ben Dollard.</n3>
+<dollard>I remember those tight trousers too.
+That was a brilliant idea, Bob.</dollard>
+
+<n1>Father Cowley blushed to his brilliant purply lobes.</n1>
+<cowley>He saved the
+situa. Tight trou. Brilliant ide.</cowley>
+
+<cowley>I knew he was on the rocks. The wife was playing the piano in
+the coffee palace on Saturdays for a very trifling consideration and who
+was it gave me the wheeze she was doing the other business? Do you
+remember? We had to search all Holles street to find them till the chap in
+Keogh's gave us the number. Remember?</cowley>
+<n3>Ben remembered, his broad visage wondering.</n3>
+
+<dollard>By God, she had some luxurious operacloaks
+and things there.</dollard>
+
+<n3>Mr Dedalus wandered back, pipe in hand.</n3>
+
+<dollard>Merrion square style. Balldresses, by God, and court dresses. He
+wouldn't take any money either. What? Any God's quantity of cocked hats
+and boleros and trunkhose. What?</dollard>
+
+<simon>Ay, ay,</simon>
+<n3>Mr Dedalus nodded.</n3>
+<simon>Mrs Marion Bloom has left off clothes of all descriptions.</simon>
+
+<n1>Jingle jaunted down the quays. Blazes sprawled on bounding tyres.</n1>
+
+<bloom>Liver and bacon. Steak and kidney pie. Right, sir. Right, Pat.</bloom>
+
+<bloom>Mrs Marion. Met him pike hoses. Smell of burn. Of Paul de Kock.
+Nice name he.</bloom>
+
+<dollard>What's this her name was? A buxom lassy. Marion ...</dollard>
+
+<simon>Tweedy.</simon>
+
+<dollard>Yes. Is she alive?</dollard>
+
+<simon>And kicking.</simon>
+
+<dollard>She was a daughter of ...</dollard>
+
+<simon>Daughter of the regiment.</simon>
+
+<dollard>Yes, begad. I remember the old drummajor.</dollard>
+
+<n3>Mr Dedalus struck, whizzed, lit, puffed savoury puff after</n3>
+
+<dollard>Irish? I don't know, faith. Is she, Simon?</dollard>
+
+<n3>Puff after stiff, a puff, strong, savoury, crackling.</n3>
+
+<simon>Buccinator muscle is ... What? ... Bit rusty ... O, she is ... My
+Irish Molly, O.</simon>
+
+<n3>He puffed a pungent plumy blast.</n3>
+
+<simon>From the rock of Gibraltar... all the way.</simon>
+
+<n2>They pined in depth of ocean shadow, gold by the beerpull, bronze by
+maraschino, thoughtful all two. Mina Kennedy, 4 Lismore terrace,
+Drumcondra with Idolores, a queen, Dolores, silent.</n2>
+
+<n1>Pat served, uncovered dishes. Leopold cut liverslices.
+As said before he ate with relish the inner organs,
+nutty gizzards, fried cods' roes while
+Richie Goulding, Collis, Ward ate steak and kidney, steak then kidney,
+bite by bite of pie he ate Bloom ate they ate.</n1>
+
+<n1>Bloom with Goulding, married in silence, ate.
+Dinners fit for princes.</n1>
+
+<n1>By Bachelor's walk jogjaunty jingled Blazes Boylan, bachelor, in sun
+in heat, mare's glossy rump atrot, with flick of whip, on bounding tyres:
+sprawled, warmseated, Boylan impatience, ardentbold. Horn. Have you
+the? Horn. Have you the? Haw haw horn.</n1>
+
+<n3>Over their voices Dollard bassooned attack, booming over bombarding
+chords:</n3>
+
+<stage>other voice</stage>
+<song>When love absorbs my ardent soul ...</song>
+
+<n3>Roll of Bensoulbenjamin rolled to the
+quivery loveshivery roofpanes.</n3>
+
+<cowley>War! War!</cowley>
+<n1>cried Father Cowley.</n1>
+<cowley>You're the warrior.</cowley>
+
+<dollard>So I am,</dollard>
+<n3>Ben Warrior laughed.</n3>
+<dollard>I was thinking of your landlord. Love or money.</dollard>
+
+<n3>He stopped. He wagged huge beard,
+huge face over his blunder huge.</n3>
+
+<simon>Sure, you'd burst the tympanum of her ear, man,</simon>
+<n3>Mr Dedalus said through smoke aroma,</n3>
+<simon>with an organ like yours.</simon>
+
+<n3>In bearded abundant laughter Dollard shook upon the keyboard.
+He would.</n3>
+
+<cowley>Not to mention another membrane,</cowley>
+<n1>Father Cowley added.</n1>
+<cowley>Half time, Ben. <italian>Amoroso ma non troppo.</italian>
+Let me there.</cowley>
+
+<n2>Miss Kennedy served two gentlemen with tankards of cool stout. She
+passed a remark. It was indeed, first gentleman said, beautiful weather.
+They drank cool stout. Did she know where the lord lieutenant was going?
+And heard steelhoofs ringhoof ring. No, she couldn't say. But it would be
+in the paper. O, she need not trouble. No trouble. She waved about her
+outspread <title>Independent</title>, searching,
+the lord lieutenant, her pinnacles of
+hair slowmoving, lord lieuten. Too much trouble, first gentleman said. O,
+not in the least. Way he looked that. Lord lieutenant. Gold by bronze
+heard iron steel.</n2>
+
+<stage>Other voice? Dollard?</stage>
+<song>............ my ardent soul
+    I care not foror the morrow.</song>
+
+<n1>In liver gravy Bloom mashed mashed potatoes.</n1>
+<bloom><title>Love and War</title>
+someone is. Ben Dollard's famous. Night he ran round to us to borrow a
+dress suit for that concert. Trousers tight as a drum on him. Musical
+porkers. Molly did laugh when he went out. Threw herself back across the
+bed, screaming, kicking. With all his belongings on show. O saints above,
+I'm drenched! O, the women in the front row! O, I never laughed so many!
+Well, of course that's what gives him the base barreltone. For instance
+eunuchs. Wonder who's playing. Nice touch. Must be Cowley. Musical.
+Knows whatever note you play. Bad breath he has, poor chap. Stopped.</bloom>
+
+<n2>Miss Douce, engaging, Lydia Douce, bowed to suave solicitor, George
+Lidwell, gentleman, entering.</n2>
+<lidwell>Good afternoon.</lidwell>
+<n2>She gave her moist (a lady's) hand to his firm clasp.</n2>
+<MissD>Afternoon.</MissD>
+<n2>Yes, she was back. To the old dingdong again.</n2>
+
+<MissD>Your friends are inside, Mr Lidwell.</MissD>
+
+<n2>George Lidwell, suave, solicited, held a lydiahand.</n2>
+
+<n1>Bloom ate liv as said before.</n1>
+<bloom>Clean here at least. That chap in the
+Burton, gummy with gristle. No-one here: Goulding and I. Clean tables,
+flowers, mitres of napkins. Pat to and fro. Bald Pat. Nothing to do. Best
+value in Dub.</bloom>
+
+<bloom>Piano again. Cowley it is. Way he sits in to it, like one together,
+mutual understanding. Tiresome shapers scraping fiddles, eye on the
+bowend, sawing the cello, remind you of toothache. Her high long snore.
+Night we were in the box. Trombone under blowing like a grampus,
+between the acts, other brass chap unscrewing, emptying spittle.
+Conductor's legs too, bagstrousers, jiggedy jiggedy. Do right to hide
+them.</bloom>
+
+<n1>Jiggedy jingle jaunty jaunty.</n1>
+
+<bloom>Only the harp. Lovely. Gold glowering light. Girl touched it. Poop of
+a lovely. Gravy's rather good fit for a. Golden ship. Erin. The harp that
+once or twice. Cool hands. Ben Howth, the rhododendrons. We are their
+harps. I. He. Old. Young.</bloom>
+
+<simon>Ah, I couldn't, man,</simon>
+<n3>Mr Dedalus said, shy, listless.</n3>
+
+<n3>Strongly.</n3>
+
+<dollard> <stage>growling</stage> Go on, blast you!</dollard>
+<omit>Ben Dollard growled.</omit>
+<dollard>Get it out in bits.</dollard>
+
+<cowley><italian>M'appari</italian>, Simon.</cowley>
+
+<n1>Down stage he strode some paces, grave, tall in affliction, his long
+arms outheld. Hoarsely the apple of his throat hoarsed softly. Softly he
+sang to a dusty seascape there:</n1>
+
+<simon><song>A Last Farewell</song></simon>
+
+<n3>A headland, a ship, a
+sail upon the billows.</n3>
+
+<simon><stage>?</stage>Farewell.</simon>
+
+<n3>A lovely girl, her veil awave upon the
+wind upon the headland, wind around her.</n3>
+
+<n1>Cowley sang:</n1>
+
+<cowley><italian>M'appari tutt'amor:
+Il mio sguardo l'incontr ...</italian></cowley>
+
+<n2>She waved, unhearing Cowley, her veil, to one departing, dear one, to
+wind, love, speeding sail, return.</n2>
+
+<dollard>Go on, Simon.</dollard>
+
+<simon>Ah, sure, my dancing days are done, Ben ... Well ...</simon>
+
+<n3>Mr Dedalus laid his pipe to rest beside the tuningfork and, sitting,
+touched the obedient keys.</n3>
+
+<cowley>No, Simon,</cowley>
+<n1>Father Cowley turned.</n1>
+<cowley>Play it in the original. One flat.</cowley>
+
+<n3>The keys, obedient, rose higher, told, faltered,
+confessed, confused.</n3>
+
+<n1>Up stage strode Father Cowley.</n1>
+
+<cowley>Here, Simon, I'll accompany you. Get up.</cowley>
+
+<n1>By Graham Lemon's pineapple rock, by Elvery's elephant jingly
+jogged. Steak, kidney, liver, mashed, at meat fit for princes sat princes
+Bloom and Goulding. Princes at meat they raised and drank, Power and
+cider.</n1>
+
+<goulding>Most beautiful tenor air ever written,</goulding>
+
+<n1>Richie said:</n1>
+<goulding><italian>Sonnambula</italian>.</goulding>
+
+<bloom>He heard Joe Maas sing that one night. Ah, what M'Guckin!
+Yes. In his way. Choirboy style.</bloom>
+
+<goulding>Maas was the boy.</goulding>
+
+<bloom>Massboy. A lyrical tenor if you like.
+Never forget it.
+<stage>+ Goulding</stage>Never.</bloom>
+
+<n1>Tenderly Bloom over liverless bacon saw
+the tightened features strain.</n1>
+<bloom>Backache he. Bright's bright eye. Next item on the programme. Paying the
+piper. Pills, pounded bread, worth a guinea a box. Stave it off awhile.
+Sings too: <song>Down among the dead men.</song>
+Appropriate. Kidney pie. Sweets to
+the. Not making much hand of it. Best value in. Characteristic of him.
+Power. Particular about his drink. Flaw in the glass, fresh Vartry water.
+Fecking matches from counters to save. Then squander a sovereign in dribs
+and drabs. And when he's wanted not a farthing. Screwed refusing to pay
+his fare. Curious types.</bloom>
+
+<n1>Never would Richie forget that night. As long as he lived: never. In
+the gods of the old Royal with little Peake. And when the first note.</n1>
+
+<n1>Speech paused on Richie's lips.</n1>
+
+<bloom>Coming out with a whopper now. Rhapsodies about damn all.</bloom>
+
+<bloom>Believes his own lies. Does really. Wonderful liar. But want a good
+memory.</bloom>
+
+<bloom-aloud>Which air is that?</bloom-aloud>
+<n1>asked Leopold Bloom.</n1>
+
+<song><stage>female voice</stage>All is lost now.</song>
+
+<n1>Richie cocked his lips apout. A low incipient note sweet banshee murmured:
+all.</n1>
+<goulding>A thrush. A throstle.</goulding>
+<bloom>His breath, birdsweet, good teeth he's
+proud of, fluted with plaintive woe. Is lost. Rich sound. Two notes in one
+there. Blackbird I heard in the hawthorn valley. Taking my motives he
+twined and turned them. All most too new call is lost in all.
+<stage>with Goulding</stage> <em>Echo.</em>
+How sweet the answer. How is that done? All lost now. Mournful he whistled.
+Fall, surrender, lost.</bloom>
+
+<n1>Bloom bent leopold ear, turning a fringe of doyley down under the
+vase.</n1>
+<bloom>Order. Yes, I remember. Lovely air. In sleep she went to him.
+Innocence in the moon. Brave. Don't know their danger. Still hold her
+back. Call name. Touch water. Jingle jaunty. Too late. She longed to go.
+That's why. Woman. As easy stop the sea. Yes: all is lost.</bloom>
+
+<bloom-aloud>A beautiful air,</bloom-aloud>
+<n1>said Bloom lost Leopold.</n1>
+<bloom-aloud>I know it well.</bloom-aloud>
+
+<n1>Never in all his life had Richie Goulding.</n1>
+
+<bloom>He knows it well too. Or he feels. Still harping on his daughter. Wise
+child that knows her father, Dedalus said. Me?</bloom>
+
+<n1>Bloom askance over liverless saw.</n1>
+<bloom>Face of the all is lost. Rollicking
+Richie once. Jokes old stale now. Wagging his ear. Napkinring in his eye.
+Now begging letters he sends his son with. Crosseyed Walter sir I did sir.
+Wouldn't trouble only I was expecting some money. Apologise.</bloom>
+
+<bloom>Piano again. Sounds better than last time I heard. Tuned probably.
+Stopped again.</bloom>
+
+<n3>Dollard</n3>
+<n1>and Cowley</n1>
+<n3>still urged the lingering singer out with it.</n3>
+
+<dollard>With it, Simon.</dollard>
+
+<cowley>It, Simon.</cowley>
+
+<simon>Ladies and gentlemen, I am most deeply obliged by your kind
+solicitations.</simon>
+
+<cowley>It, Simon.</cowley>
+
+<simon>I have no money but if you will lend me your attention I shall endeavour
+to sing to you of a heart bowed down.</simon>
+
+<n2>By the sandwichbell in screening shadow Lydia, her bronze and rose,
+a lady's grace, gave and withheld: as in cool glaucous
+<french>eau de Nil</french>
+Mina to tankards two her pinnacles of gold.</n2>
+
+<n2>The harping chords of prelude closed. A chord, longdrawn, expectant,
+drew a voice away.</n2>
+
+<simon><song>When first I saw that form endearing ...</song></simon>
+
+<n1>Richie turned.</n1>
+
+<goulding>Si Dedalus' voice.</goulding>
+
+<n1>Braintipped, cheek touched with flame, they listened feeling that flow
+endearing flow over skin limbs human heart soul spine. Bloom signed to
+Pat, bald Pat is a waiter hard of hearing, to set ajar the door of the
+bar. The door of the bar. So. That will do. Pat, waiter, waited, waiting
+to hear, for he was hard of hear by the door.</n1>
+
+<simon><song>Sorrow from me seemed to depart.</song></simon>
+
+<n1>Through the hush of air a voice sang to them, low, not rain, not leaves
+in murmur, like no voice of strings or reeds or whatdoyoucallthem
+dulcimers touching their still ears with words, still hearts of their each
+his remembered lives.</n1>
+
+<bloom>Good, good to hear: sorrow from them each seemed to
+from both depart when first they heard. When first they saw, lost Richie
+Poldy, mercy of beauty, heard from a person wouldn't expect it in the
+least, her first merciful lovesoft oftloved word.</bloom>
+
+<bloom>Love that is singing: love's old sweet song.</bloom>
+
+<n1>Bloom unwound slowly
+the elastic band of his packet.</n1>
+
+<bloom>Love's old sweet
+<french>sonnez la</french> gold.</bloom>
+
+<n1>Bloom
+wound a skein round four forkfingers, stretched it, relaxed, and wound it
+round his troubled double, fourfold, in octave, gyved them fast.</n1>
+
+<simon><song>Full of hope and all delighted ...</song></simon>
+
+<bloom>Tenors get women by the score. Increase their flow. Throw flower at
+his feet. When will we meet? My head it simply. Jingle all delighted. He
+can't sing for tall hats. Your head it simply swurls. Perfumed for him.
+What perfume does your wife? I want to know. Jing. Stop. Knock. Last look
+at mirror always before she answers the door. The hall. There? How do you?
+I do well. There? What? Or? Phial of cachous, kissing comfits, in her
+satchel. Yes? Hands felt for the opulent.</bloom>
+
+<n2>Alas the voice rose, sighing, changed: loud, full, shining, proud.</n2>
+
+<simon><song>But alas, 'twas idle dreaming ...</song></simon>
+
+<bloom>Glorious tone he has still. Cork air softer also their brogue. Silly man!
+Could have made oceans of money. Singing wrong words. Wore out his
+wife: now sings. But hard to tell. Only the two themselves. If he doesn't
+break down. Keep a trot for the avenue. His hands and feet sing too.
+Drink. Nerves overstrung. Must be abstemious to sing. Jenny Lind soup:
+stock, sage, raw eggs, half pint of cream. For creamy dreamy.</bloom>
+
+<n2>Tenderness it welled: slow, swelling, full it throbbed.</n2>
+<bloom>That's the chat.
+Ha, give! Take! Throb, a throb, a pulsing proud erect.</bloom>
+
+<bloom>Words? Music? No: it's what's behind.</bloom>
+
+<n1>Bloom looped, unlooped, noded, disnoded. Bloom.</n1>
+
+<bloom>Flood of warm jamjam lickitup secretness flowed to flow in
+music out, in desire, dark to lick flow invading. Tipping her tepping her
+tapping her topping her. Tup. Pores to dilate dilating. Tup. The joy the
+feel the warm the. Tup. To pour o'er sluices pouring gushes. Flood, gush,
+flow, joygush, tupthrob. Now! Language of love.</bloom>
+
+<simon><song>... ray of hope is ...</song></simon>
+<n2>Beaming. Lydia for Lidwell squeak scarcely hear so ladylike the muse unsqueaked a ray of hope.</n2>
+
+<bloom><title>Martha</title> it is. Coincidence. Just going to write.
+Lionel's song. Lovely
+name you have. Can't write. Accept my little pres. Play on her
+heartstrings pursestrings too. She's a. I called you naughty boy. Still
+the name: Martha. How strange! Today.</bloom>
+
+<n1>The voice of Lionel returned, weaker but unwearied. It sang again to
+Richie Poldy Lydia Lidwell also sang to Pat open mouth ear waiting to
+wait. How first he saw that form endearing, how sorrow seemed to part,
+how look, form, word charmed him Gould Lidwell, won Pat Bloom's heart.</n1>
+
+<bloom>Wish I could see his face, though. Explain better. Why the barber in
+Drago's always looked my face when I spoke his face in the glass. Still
+hear it better here than in the bar though farther.</bloom>
+
+<simon><song>Each graceful look ...</song></simon>
+
+<bloom>First night when first I saw her at Mat Dillon's in Terenure. Yellow,
+black lace she wore. Musical chairs. We two the last. Fate. After her.
+Fate.</bloom>
+
+<bloom>Round and round slow. Quick round. We two. All looked. Halt. Down she
+sat. All ousted looked. Lips laughing. Yellow knees.</bloom>
+
+<simon><song>Charmed my eye ...</song></simon>
+
+<bloom>Singing. <song>Waiting</song> she sang.
+I turned her music. Full voice of perfume
+of what perfume does your lilactrees. Bosom I saw, both full, throat
+warbling. First I saw. She thanked me. Why did she me? Fate. Spanishy
+eyes. Under a peartree alone patio this hour in old Madrid one side in
+shadow Dolores shedolores. At me. Luring. Ah, alluring.</bloom>
+
+<simon><song>Martha! Ah, Martha!</song></simon>
+
+<bloom>Quitting all languor Lionel cried in grief, in cry of passion dominant
+to love to return with deepening yet with rising chords of harmony. In cry
+of lionel loneliness that she should know, must martha feel. For only her
+he waited. Where? Here there try there here all try where. Somewhere.</bloom>
+
+<simon><song>Co-ome, thou lost one!<br/>
+Co-ome, thou dear one!</song></simon>
+
+<bloom>Alone. One love. One hope. One comfort me.
+Martha, chestnote, return!</bloom>
+
+<simon><song>Come!</song></simon>
+
+<n2>It soared, a bird, it held its flight, a swift pure cry, soar silver orb
+it leaped serene, speeding, sustained, to come, don't spin it out too long
+long breath he breath long life, soaring high, high resplendent, aflame,
+crowned, high in the effulgence symbolistic, high, of the etherial bosom,
+high, of the high vast irradiation everywhere all soaring all around about
+the all, the endlessnessnessness ...</n2>
+
+<simon><song>To me!</song></simon>
+
+<bloom>Siopold!</bloom>
+
+<bloom>Consumed.</bloom>
+
+<bloom>Come. Well sung. All clapped. She ought to. Come. To me, to him, to
+her, you too, me, us.</bloom>
+
+<lenehan>Bravo!</lenehan>
+
+<n1>Clapclap.</n1>
+
+<dollard>Good man, Simon.</dollard>
+
+<n3>Clappyclapclap.</n3>
+
+<cowley>Encore!</cowley>
+
+<n1>Clapclipclap clap.</n1>
+
+<lenehan>Sound as a bell. Bravo, Simon!</lenehan>
+
+<n3>Clapclopclap.</n3>
+
+<n1>Encore, enclap, said,</n1>
+
+<n3>cried, clapped all, Ben Dollard, Lydia Douce, George
+Lidwell, Pat, Mina Kennedy, two gentlemen with two tankards, Cowley,
+first gent with tank and bronze miss Douce and gold Miss Mina.</n3>
+
+<n1>Blazes Boylan's smart tan shoes creaked on the barfloor, said before.
+Jingle by monuments of sir John Gray, Horatio onehandled Nelson,
+reverend father Theobald Mathew, jaunted, as said before just now. Atrot,
+in heat, heatseated.
+<french>Cloche. Sonnez la. Cloche. Sonnez la.</french>
+Slower the mare
+went up the hill by the Rotunda, Rutland square. Too slow for Boylan,
+blazes Boylan, impatience Boylan, joggled the mare.</n1>
+
+<n2>An afterclang of Cowley's chords closed, died on the air
+made richer.</n2>
+
+<n1>And Richie Goulding drank his Power and Leopold Bloom his cider
+drank,</n1>
+
+<n3>Lidwell his Guinness, second gentleman said they would partake of
+two more tankards if she did not mind.</n3>
+
+<n2>Miss Kennedy smirked, disserving,
+coral lips, at first, at second. She did not mind.</n2>
+
+<dollard>Seven days in jail,
+<omit>Ben Dollard said,</omit>
+on bread and water. Then you'd
+sing, Simon, like a garden thrush.</dollard>
+
+<n3>Lionel Simon, singer, laughed.</n3>
+
+<n1>Father Bob Cowley played.</n1>
+
+<n2>Mina Kennedy served.</n2>
+
+<n3>Second gentleman paid. Tom Kernan strutted in.</n3>
+
+<n2>Lydia, admired, admired.</n2>
+
+<n1>But Bloom sang dumb.</n1>
+
+<n1>Admiring.</n1>
+
+<n2>Richie, admiring, descanted on that man's glorious voice. He
+remembered one night long ago.</n2>
+<bloom>Never forget that night.</bloom>
+
+<omit>Si sang</omit>
+<simon><song>'Twas rank and fame</song>:</simon>
+
+<bloom>in Ned Lambert's 'twas. Good God he never heard in all his
+life a note like that he never did</bloom>
+
+<simon><song>then false one we had better part</song></simon>
+
+<bloom>so clear so God he never heard</bloom>
+
+<simon><song>since love lives not</song></simon>
+
+<bloom>a clinking voice lives
+not ask Lambert he can tell you too.</bloom>
+
+<n1>Goulding, a flush struggling in his pale,</n1>
+<n2>told Mr Bloom,</n2>
+<n1>face of the night,</n1>
+<goulding>Si in Ned Lambert's, Dedalus house, sang</goulding>
+
+<simon><song>'Twas rank and fame</song>.</simon>
+
+<n1>He, Mr Bloom, listened while he, Richie Goulding, told him, Mr
+Bloom, of the night he, Richie, heard him, Si Dedalus, sing</n1>
+
+<simon><song>'Twas rank and fame</song></simon>
+
+<n1>in his, Ned Lambert's, house.</n1>
+
+<bloom>Brothers-in-law: relations. We never speak as we pass by. Rift in the
+lute I think. Treats him with scorn. See. He admires him all the more. The
+night Si sang. The human voice, two tiny silky chords, wonderful, more
+than all others.</bloom>
+
+<bloom>That voice was a lamentation. Calmer now. It's in the silence after
+you feel you hear. Vibrations. Now silent air.</bloom>
+
+<n1>Bloom ungyved his crisscrossed hands and with slack fingers plucked
+the slender catgut thong. He drew and plucked. It buzz, it twanged. While
+Goulding talked of Barraclough's voice production, while Tom Kernan,
+harking back in a retrospective sort of arrangement talked to listening
+Father Cowley, who played a voluntary, who nodded as he played. While
+big Ben Dollard talked with Simon Dedalus, lighting, who nodded as he
+smoked, who smoked.</n1>
+
+<bloom>Thou lost one. All songs on that theme.</bloom>
+<n1>Yet more Bloom stretched his string.</n1>
+<bloom>Cruel it seems. Let people get fond of each other: lure them on.
+Then tear asunder. Death. Explos. Knock on the head. Outtohelloutofthat.
+Human life. Dignam. Ugh, that rat's tail wriggling! Five bob I gave.
+<latin>Corpus paradisum.</latin>
+Corncrake croaker: belly like a poisoned pup. Gone.
+They sing. Forgotten. I too; And one day she with. Leave her: get tired.
+Suffer then. Snivel. Big spanishy eyes goggling at nothing. Her
+wavyavyeavyheavyeavyevyevyhair un comb:'d.</bloom>
+
+<bloom>Yet too much happy bores.</bloom>
+<n1>He stretched more,</n1>
+<bloom>more. Are you not happy in your?</bloom>
+<n1>Twang. It snapped.</n1>
+
+<n1>Jingle into Dorset street.</n1>
+
+<n2>Miss Douce withdrew her satiny arm, reproachful, pleased.</n2>
+
+<MissD>Don't make half so free, till we are better acquainted.</MissD>
+
+<n3>George Lidwell told her really and truly:</n3>
+
+<n2>but she did not believe.</n2>
+
+<n3>First gentleman told Mina that was so.</n3>
+
+<n2>She asked him was that so.</n2>
+
+<n3>And second tankard told her so.</n3>
+
+<n2>That that was so.</n2>
+
+<n2>Miss Douce, miss Lydia, did not believe: miss Kennedy, Mina, did not
+believe: George Lidwell, no: miss Dou did not: the first, the first: gent
+with the tank: believe, no, no: did not, miss Kenn: Lidlydiawell: the
+tank.</n2>
+
+<bloom>Better write it here.
+Quills in the postoffice chewed and twisted.</bloom>
+
+<n1>Bald Pat at a sign drew nigh. A pen and ink. He went. A pad. He
+went. A pad to blot. He heard, deaf Pat.</n1>
+
+<bloom-aloud>Yes.</bloom-aloud>
+<n1>Mr Bloom said, teasing the curling catgut line.</n1>
+<bloom-aloud>It certainly is.</bloom-aloud>
+<bloom>Few lines will do. My present.</bloom>
+<bloom-aloud>All that Italian florid music is.</bloom-aloud>
+
+<bloom>Who is this wrote? Know the name you know better.
+Take out sheet notepaper, envelope: unconcerned.</bloom>
+
+<bloom-aloud>It's so characteristic.</bloom-aloud>
+
+<goulding>Grandest number in the whole opera.</goulding>
+
+<bloom-aloud>It is.</bloom-aloud>
+<omit>Bloom said.</omit>
+
+<bloom>Numbers it is. All music when you come to think. Two multiplied by two
+divided by half is twice one. Vibrations: chords those are. One plus two
+plus six is seven. Do anything you like with figures juggling. Always find
+out this equal to that. Symmetry under a cemetery wall. He doesn't see my
+mourning. Callous: all for his own gut. Musemathematics. And you think
+you're listening to the etherial. But suppose you said it like: Martha,
+seven times nine minus x is thirtyfive thousand. Fall quite flat. It's on
+account of the sounds it is.</bloom>
+
+<bloom>Instance he's playing now. Improvising. Might be what you like, till
+you hear the words. Want to listen sharp. Hard. Begin all right: then hear
+chords a bit off: feel lost a bit. In and out of sacks, over barrels,
+through wirefences, obstacle race. Time makes the tune. Question of mood
+you're in. Still always nice to hear. Except scales up and down, girls
+learning. Two together nextdoor neighbours. Ought to invent dummy pianos
+for that.
+<german>Blumenlied</german>
+I bought for her. The name. Playing it slow, a girl,
+night I came home, the girl. Door of the stables near Cecilia street.
+Milly no taste. Queer because we both, I mean.</bloom>
+
+<n1>Bald deaf Pat brought quite flat pad ink. Pat set with ink pen quite
+flat pad. Pat took plate dish knife fork. Pat went.</n1>
+
+<simon>It was the only language</simon>
+<n3>Mr Dedalus said to Ben.</n3>
+<simon>I heard them as a
+boy in Ringabella, Crosshaven, Ringabella, singing their barcaroles.
+Queenstown harbour full of Italian ships. Walking, you know, Ben, in the
+moonlight with those earthquake hats. Blending their voices. God, such
+music, Ben. Heard as a boy.</simon>
+
+<bloom-q>Cross Ringabella haven mooncarole.</bloom-q>
+
+<n3>Sour pipe removed he held a shield of hand beside his lips that cooed
+a moonlight nightcall, clear from anear, a call from afar, replying.</n3>
+
+<n1>Down the edge of his <title>Freeman</title>
+baton ranged Bloom's,</n1>
+
+<bloom-q>your other eye,</bloom-q>
+<bloom>scanning for where did I see that. Callan, Coleman, Dignam Patrick.
+Heigho! Heigho! Fawcett. Aha! Just I was looking ...</bloom>
+
+<bloom>Hope he's not looking, cute as a rat.</bloom>
+<n1>He held unfurled his <title>Freeman</title>.</n1>
+<bloom>Can't see now. Remember write Greek ees.</bloom>
+<n1>Bloom dipped,</n1>
+
+<bloom>Bloo mur: dear sir. Dear Henry wrote:</bloom>
+<bloom>dear Mady. Got your lett and flow. Hell did I put?
+Some pock or oth. It is utterl imposs. Underline
+<em>imposs</em>. To write today.</bloom>
+
+<bloom>Bore this.</bloom>
+<n1>Bored Bloom tambourined gently with</n1>
+<bloom>I am just reflecting
+fingers on flat pad Pat brought.</bloom>
+
+<bloom>On. Know what I mean. No, change that ee. Accep my poor litt pres
+enclos. Ask her no answ. Hold on. Five Dig. Two about here. Penny the
+gulls. Elijah is com. Seven Davy Byrne's. Is eight about. Say half a
+crown. My poor little pres: p. o. two and six. Write me a long. Do you
+despise? Jingle, have you the? So excited. Why do you call me naught?
+You naughty too? O, Mairy lost the string of her. Bye for today. Yes, yes,
+will tell you. Want to. To keep it up. Call me that other. Other world she
+wrote. My patience are exhaust. To keep it up. You must believe. Believe.
+The tank. It. Is. True.</bloom>
+
+<bloom>Folly am I writing? Husbands don't. That's marriage does, their
+wives. Because I'm away from. Suppose. But how? She must. Keep young.
+If she found out. Card in my high grade ha. No, not tell all. Useless
+pain. If they don't see. Woman. Sauce for the gander.</bloom>
+
+<n1>A hackney car, number three hundred and twentyfour, driver Barton James of
+number one Harmony avenue, Donnybrook, on which sat a fare, a young
+gentleman, stylishly dressed in an indigoblue serge suit made by
+George Robert Mesias, tailor and cutter, of number five Eden quay, and
+wearing a straw hat very dressy, bought of John Plasto of number one
+Great Brunswick street, hatter.</n1>
+
+<bloom>Eh? This is the jingle that joggled and jingled.</bloom>
+<n1>By Dlugacz' porkshop bright tubes of Agendath trotted a
+gallantbuttocked mare.</n1>
+
+<goulding>Answering an ad?</goulding>
+<n1>keen Richie's eyes asked Bloom.</n1>
+
+<bloom-aloud>Yes.
+<omit>Mr Bloom said.</omit>
+Town traveller. Nothing doing, I expect.</bloom-aloud>
+
+<bloom>Bloom mur: best references. But Henry wrote: it will excite me. You
+know how. In haste. Henry. Greek ee. Better add postscript. What is he
+playing now? Improvising. Intermezzo. P. S. The rum tum tum. How will
+you pun? You punish me? Crooked skirt swinging, whack by. Tell me I want
+to. Know. O. Course if I didn't I wouldn't ask. La la la ree. Trails off
+there sad in minor. Why minor sad? Sign H. They like sad tail at end.
+P. P. S. La la la ree. I feel so sad today. La ree. So lonely. Dee.</bloom>
+
+<n1>He blotted quick on pad of Pat.</n1>
+<bloom>Envel. Address. Just copy out of paper.</bloom>
+<n1>Murmured:</n1>
+<bloom>Messrs Callan, Coleman and Co, limited.</bloom>
+<n1>Henry wrote:</n1>
+
+<n1>
+        Miss Martha Clifford<br/>
+            c/o P. O.<br/>
+        Dolphin's Barn Lane<br/>
+                Dublin
+</n1>
+
+<bloom>Blot over the other so he can't read. There. Right. Idea prize titbit.
+Something detective read off blottingpad. Payment at the rate of guinea
+per col. Matcham often thinks the laughing witch. Poor Mrs Purefoy. U. P:
+up.</bloom>
+
+<bloom>Too poetical that about the sad. Music did that. Music hath charms.
+Shakespeare said. Quotations every day in the year. To be or not to be.
+Wisdom while you wait.</bloom>
+
+<bloom>In Gerard's rosery of Fetter lane he walks, greyedauburn. One life is
+all. One body. Do. But do.</bloom>
+
+<bloom>Done anyhow. Postal order, stamp. Postoffice lower down. Walk
+now. Enough. Barney Kiernan's I promised to meet them. Dislike that job.</bloom>
+
+<bloom>House of mourning. Walk. Pat! Doesn't hear. Deaf beetle he is.</bloom>
+
+<bloom>Car near there now. Talk. Talk. Pat! Doesn't. Settling those napkins.
+Lot of ground he must cover in the day. Paint face behind on him then he'd
+be two. Wish they'd sing more. Keep my mind off.</bloom>
+
+<n1>Bald Pat who is bothered mitred the napkins.</n1>
+<bloom>Pat is a waiter hard of
+his hearing. Pat is a waiter who waits while you wait. Hee hee hee hee. He
+waits while you wait. Hee hee. A waiter is he. Hee hee hee hee. He waits
+while you wait. While you wait if you wait he will wait while you wait.
+Hee hee hee hee. Hoh. Wait while you wait.</bloom>
+
+<n2>Douce now. Douce Lydia. Bronze and rose.</n2>
+
+<n2>She had a gorgeous, simply gorgeous, time. And look at the lovely
+shell she brought.</n2>
+
+<n2>To the end of the bar to him she bore lightly the spiked and winding
+seahorn that he, George Lidwell, solicitor, might hear.</n2>
+
+<MissD>Listen!</MissD>
+<n2>she bade him.</n2>
+
+<n3>Under Tom Kernan's ginhot words the accompanist wove music slow.</n3>
+
+<bloom>Authentic fact. How Walter Bapty lost his voice. Well, sir, the husband
+took him by the throat.</bloom>
+<song><stage>Kernan</stage>Scoundrel,</song>
+<bloom>said he,</bloom>
+<song><stage>Kernan</stage>you'll sing no more lovesongs.</song>
+<bloom>He did, faith, sir Tom.</bloom>
+<n1>Bob Cowley wove.</n1>
+<bloom>Tenors get wom.</bloom>
+<n1>Cowley lay back.</n1>
+
+<n2>Ah, now he heard, she holding it to his ear.</n2>
+<MissD>Hear!</MissD>
+<n2>He heard.</n2>
+
+<lidwell>Wonderful.</lidwell>
+<n2>She held it to her own.</n2>
+
+<n2>And through the sifted light pale gold
+in contrast glided.</n2>
+
+<bloom>To hear.</bloom>
+
+<stripling>[Tap]</stripling>
+
+<n1>Bloom through the bardoor saw a shell held at their ears. He heard
+more faintly that that they heard, each for herself alone, then each for
+other, hearing the plash of waves, loudly, a silent roar.</n1>
+
+<n2>Bronze by a weary gold, anear, afar, they listened.</n2>
+
+<bloom>Her ear too is a shell, the peeping lobe there. Been to the seaside.
+Lovely seaside girls. Skin tanned raw. Should have put on coldcream first
+make it brown. Buttered toast. O and that lotion mustn't forget. Fever
+near her mouth. Your head it simply. Hair braided over: shell with
+seaweed. Why do they hide their ears with seaweed hair? And Turks the
+mouth, why? Her eyes over the sheet. Yashmak. Find the way in. A cave. No
+admittance except on business.</bloom>
+
+<bloom>The sea they think they hear. Singing. A roar. The blood it is. Souse
+in the ear sometimes. Well, it's a sea. Corpuscle islands.</bloom>
+
+<lidwell>Wonderful really. So distinct. Again.</lidwell>
+
+<n2>George Lidwell held its murmur,
+hearing: then laid it by, gently.</n2>
+
+<lidwell>What are the wild waves saying?</lidwell>
+<n2>he asked her, smiled.</n2>
+
+<n2>Charming, seasmiling and unanswering Lydia on Lidwell smiled.</n2>
+
+<stripling>[Tap]</stripling>
+
+<n1>By Larry O'Rourke's, by Larry, bold Larry O', Boylan swayed and
+Boylan turned.</n1>
+
+<n2>From the forsaken shell miss Mina glided to her tankards waiting.
+No, she was not so lonely archly miss Douce's head let Mr Lidwell know.
+Walks in the moonlight by the sea. No, not alone. With whom? She nobly
+answered: with a gentleman friend.</n2>
+
+<n1>Bob Cowley's twinkling fingers in the treble played again. The
+landlord has the prior. A little time. Long John. Big Ben. Lightly he
+played a light bright tinkling measure for tripping ladies, arch and
+smiling, and for their gallants, gentlemen friends. One: one, one, one,
+one, one: two, one, three, four.</n1>
+
+<bloom>Sea, wind, leaves, thunder, waters, cows lowing, the cattlemarket,
+cocks, hens don't crow, snakes hissss. There's music everywhere.
+Ruttledge's door: ee creaking. No, that's noise. Minuet of
+<title>Don Giovanni</title>
+he's playing now. Court dresses of all descriptions in castle chambers
+dancing. Misery. Peasants outside. Green starving faces eating
+dockleaves. Nice that is. Look: look, look, look, look, look: you
+look at us.</bloom>
+
+<bloom>That's joyful I can feel. Never have written it. Why? My joy is other
+joy. But both are joys. Yes, joy it must be. Mere fact of music shows you
+are. Often thought she was in the dumps till she began to lilt. Then
+know.</bloom>
+
+<bloom>M'Coy valise. My wife and your wife. Squealing cat. Like tearing silk.
+Tongue when she talks like the clapper of a bellows. They can't manage
+men's intervals. Gap in their voices too. Fill me. I'm warm, dark, open.
+Molly in <latin>quis est homo</latin>:
+Mercadante. My ear against the wall to hear. Want
+a woman who can deliver the goods.</bloom>
+
+<bloom>Jog jig jogged stopped. Dandy tan shoe of dandy Boylan socks
+skyblue clocks came light to earth.</bloom>
+
+<bloom>O, look we are so! Chamber music. Could make a kind of pun on
+that. It is a kind of music I often thought when she. Acoustics that is.
+Tinkling. Empty vessels make most noise. Because the acoustics, the
+resonance changes according as the weight of the water is equal to the law
+of falling water. Like those rhapsodies of Liszt's, Hungarian, gipsyeyed.
+Pearls. Drops. Rain. Diddleiddle addleaddle ooddleooddle. Hissss. Now.
+Maybe now. Before.</bloom>
+
+<bloom>One rapped on a door, one tapped with a knock, did he knock Paul
+de Kock with a loud proud knocker with a cock carracarracarra cock.
+Cockcock.</bloom>
+
+<stripling>[Tap]</stripling>
+
+<cowley><latin>Qui sdegno,</latin> Ben.</cowley>
+
+<kernan>No, Ben,</kernan>
+<n1>Tom Kernan interfered.</n1>
+<title>The Croppy Boy.</title>
+<stage>Piano change?</stage>
+<kernan>Our native Doric.</kernan>
+
+<simon>Ay do, Ben.
+<omit>Mr Dedalus said.</omit>
+Good men and true.</simon>
+
+<n1>Do, do, they begged in one.</n1>
+
+<bloom>I'll go. Here, Pat, return. Come.
+He came, he came, he did not stay.
+To me. How much?</bloom>
+
+<cowley>What key? Six sharps?</cowley>
+
+<dollard>F sharp major.</dollard>
+
+<n1>Bob Cowley's outstretched talons griped the
+black deepsounding chords.</n1>
+
+<bloom>Must go</bloom>
+<n1>prince Bloom told Richie prince.</n1>
+<goulding>No,</goulding>
+<n1>Richie said.</n1>
+
+<bloom>Yes, must.
+Got money somewhere. He's on for a razzle backache spree. Much? He
+seehears lipspeech. One and nine. Penny for yourself. Here. Give him
+twopence tip. Deaf, bothered. But perhaps he has wife and family waiting,
+waiting Patty come home. Hee hee hee hee. Deaf wait while they wait.</bloom>
+
+<bloom>But wait. But hear. Chords dark. Lugugugubrious. Low. In a cave of
+the dark middle earth. Embedded ore. Lumpmusic.</bloom>
+
+<n1>The voice of dark age, of unlove, earth's fatigue made grave approach
+and painful, come from afar, from hoary mountains, called on good men
+and true. The priest he sought. With him would he speak a word.</n1>
+
+<stripling>[Tap]</stripling>
+
+<bloom>Ben Dollard's voice. Base barreltone. Doing his level best to say it.
+Croak of vast manless moonless womoonless marsh. Other comedown. Big
+ships' chandler's business he did once. Remember: rosiny ropes, ships'
+lanterns. Failed to the tune of ten thousand pounds. Now in the Iveagh
+home. Cubicle number so and so. Number one Bass did that for him.</bloom>
+
+<n1>The priest's at home. A false priest's servant bade him welcome. Step
+in. The holy father. With bows a traitor servant. Curlycues of chords.</n1>
+
+<bloom>Ruin them. Wreck their lives. Then build them cubicles to end their
+days in. Hushaby. Lullaby. Die, dog. Little dog, die.</bloom>
+
+<n1>The voice of warning, solemn warning, told them the youth had
+entered a lonely hall, told them how solemn fell his footsteps there, told
+them the gloomy chamber, the vested priest sitting to shrive.</n1>
+
+<bloom>Decent soul. Bit addled now. Thinks he'll win in
+<title>Answers</title>, poets' picture puzzle.
+We hand you crisp five pound note. Bird sitting hatching
+in a nest. Lay of the last minstrel he thought it was. See blank tee what
+domestic animal? Tee dash ar most courageous mariner. Good voice he has
+still. No eunuch yet with all his belongings.</bloom>
+
+<bloom>Listen.</bloom>
+
+<n1>Bloom listened. Richie Goulding listened. And by the door
+deaf Pat, bald Pat, tipped Pat, listened. The chords harped slower.</n1>
+
+<n3>The voice of penance and of grief came slow, embellished, tremulous.
+Ben's contrite beard confessed.</n3>
+<dollard><latin>In nomine Domini,</latin></dollard>
+<n3>in God's name he knelt.
+He beat his hand upon his breast, confessing:</n3>
+<dollard><latin>mea culpa.</latin></dollard>
+
+<bloom>Latin again. That holds them like birdlime. Priest with the
+communion corpus for those women. Chap in the mortuary, coffin or
+coffey, <latin>corpusnomine.</latin>
+Wonder where that rat is by now. Scrape.</bloom>
+
+<stripling>[Tap]</stripling>
+
+<n3>They listened.</n3>
+
+<n2>Tankards and miss Kennedy.</n2>
+
+<n3>George Lidwell, eyelid
+well expressive, fullbusted satin. Kernan. Si.</n3>
+
+<n1>The sighing voice of sorrow sang. His sins. Since Easter he had
+cursed three times. You bitch's bast. And once at masstime he had gone to
+play. Once by the churchyard he had passed and for his mother's rest he
+had not prayed. A boy. A croppy boy.</n1>
+
+<n2>Bronze, listening, by the beerpull gazed far away. Soulfully.</n2>
+<bloom>Doesn't half know I'm. Molly great dab at seeing anyone looking.</bloom>
+
+<n2>Bronze gazed far sideways.</n2>
+<bloom>Mirror there. Is that best side of her face?
+They always know. Knock at the door. Last tip to titivate.</bloom>
+
+<bloom>Cockcarracarra.</bloom>
+
+<bloom>What do they think when they hear music? Way to catch rattlesnakes.
+Night Michael Gunn gave us the box. Tuning up. Shah of Persia liked that
+best. Remind him of home sweet home. Wiped his nose in curtain too.
+Custom his country perhaps. That's music too. Not as bad as it sounds.
+Tootling. Brasses braying asses through uptrunks. Doublebasses helpless,
+gashes in their sides. Woodwinds mooing cows. Semigrand open crocodile
+music hath jaws. Woodwind like Goodwin's name.</bloom>
+
+<bloom>She looked fine. Her crocus dress she wore lowcut, belongings on
+show. Clove her breath was always in theatre when she bent to ask a
+question. Told her what Spinoza says in that book of poor papa's.
+Hypnotised, listening. Eyes like that. She bent. Chap in dresscircle
+staring down into her with his operaglass for all he was worth. Beauty
+of music you must hear twice. Nature woman half a look. God made the
+country man the tune. Met him pike hoses. Philosophy. O rocks!</bloom>
+
+<bloom>All gone. All fallen. At the siege of Ross his father, at Gorey all his
+brothers fell. To Wexford, we are the boys of Wexford, he would. Last of
+his name and race.</bloom>
+
+<bloom>I too. Last of my race. Milly young student. Well, my fault perhaps.
+No son. Rudy. Too late now. Or if not? If not? If still?</bloom>
+
+<bloom>He bore no hate.</bloom>
+
+<bloom>Hate. Love. Those are names. Rudy. Soon I am old. Big Ben his voice
+unfolded. Great voice Richie Goulding said, a flush struggling in his
+pale, to Bloom soon old. But when was young?</bloom>
+
+<bloom>Ireland comes now. My country above the king. She listens. Who
+fears to speak of nineteen four? Time to be shoving. Looked enough.</bloom>
+
+<dollard> <song>Bless me, father,</song> </dollard>
+<n3>Dollard the croppy cried.</n3>
+<dollard> <song>Bless me and let me go.</song> </dollard>
+
+<stripling>[Tap]</stripling>
+
+<n1>Bloom looked, unblessed to go.</n1>
+<bloom>Got up to kill: on eighteen bob a
+week. Fellows shell out the dibs. Want to keep your weathereye open. Those
+girls, those lovely. By the sad sea waves. Chorusgirl's romance. Letters
+read out for breach of promise. From Chickabiddy's owny Mumpsypum.
+Laughter in court. Henry. I never signed it. The lovely name you.</bloom>
+
+<n2>Low sank the music, air and words. Then hastened. The false priest
+rustling soldier from his cassock. A yeoman captain. They know it all by
+heart. The thrill they itch for. Yeoman cap.</n2>
+
+<stripling>[Tap. Tap]</stripling>
+
+<n2>Thrilled she listened, bending in sympathy to hear.</n2>
+
+<bloom>Blank face. Virgin should say: or fingered only. Write something on
+it: page. If not what becomes of them? Decline, despair. Keeps them young.
+Even admire themselves. See. Play on her. Lip blow. Body of white woman,
+a flute alive. Blow gentle. Loud. Three holes, all women. Goddess I didn't
+see. They want it. Not too much polite. That's why he gets them. Gold in
+your pocket, brass in your face. Say something. Make her hear. With look
+to look. Songs without words. Molly, that hurdygurdy boy. She knew he
+meant the monkey was sick. Or because so like the Spanish. Understand
+animals too that way. Solomon did. Gift of nature.</bloom>
+
+<bloom>Ventriloquise. My lips closed. Think in my stom. What?</bloom>
+
+<bloom>Will? You? I. Want. You. To.</bloom>
+
+<n1>With hoarse rude fury the yeoman cursed, swelling in apoplectic
+bitch's bastard. A good thought, boy, to come. One hour's your time to
+live, your last.</n1>
+
+<stripling>[Tap. Tap]</stripling>
+
+<bloom>Thrill now. Pity they feel. To wipe away a tear for martyrs that want
+to, dying to, die. For all things dying, for all things born. Poor Mrs
+Purefoy. Hope she's over. Because their wombs.</bloom>
+
+<bloom>A liquid of womb of woman eyeball gazed under a fence of lashes,
+calmly, hearing. See real beauty of the eye when she not speaks. On yonder
+river. At each slow satiny heaving bosom's wave (her heaving embon) red
+rose rose slowly sank red rose. Heartbeats: her breath: breath that is
+life. And all the tiny tiny fernfoils trembled of maidenhair.</bloom>
+
+<bloom>But look. The bright stars fade. O rose! Castile. The morn. Ha.
+Lidwell. For him then not for. Infatuated. I like that? See her
+from here though. Popped corks, splashes of beerfroth,
+stacks of empties.</bloom>
+
+<n2>On the smooth jutting beerpull laid Lydia hand, lightly, plumply, leave
+it to my hands. All lost in pity for croppy. Fro, to: to, fro: over the
+polished knob (she knows his eyes, my eyes, her eyes) her thumb and finger
+passed in pity: passed, reposed and, gently touching, then slid so
+smoothly, slowly down, a cool firm white enamel baton protruding through
+their sliding ring.</n2>
+
+<bloom>With a cock with a carra.</bloom>
+
+<stripling>[Tap. Tap. Tap]</stripling>
+
+<bloom>I hold this house. Amen. He gnashed in fury. Traitors swing.</bloom>
+
+<bloom>The chords consented. Very sad thing. But had to be. Get out before
+the end. Thanks, that was heavenly. Where's my hat. Pass by her. Can
+leave that Freeman. Letter I have. Suppose she were the? No. Walk,
+walk, walk. Like Cashel Boylo Connoro Coylo Tisdall Maurice Tisntdall
+Farrell. Waaaaaaalk.</bloom>
+
+<bloom>Well, I must be.</bloom>
+<goulding>Are you off?</goulding>
+<bloom>Yrfmstbyes.</bloom>
+<bloom>Blmstup.</bloom>
+<goulding>O'er ryehigh blue.</goulding>
+<bloom>Ow.</bloom>
+<n1>Bloom stood up.</n1>
+<bloom>Soap feeling rather sticky behind. Must have
+sweated: music. That lotion, remember.</bloom>
+<bloom>Well, so long.</bloom>
+<goulding>High grade.</goulding>
+<bloom>Card inside.</bloom>
+<goulding>Yes.</goulding>
+
+<n1>By deaf Pat in the doorway straining ear Bloom passed.</n1>
+
+<bloom>At Geneva barrack that young man died. At Passage was his body
+laid. Dolor! O, he dolores!</bloom>
+
+<n1>The voice of the mournful chanter called to
+dolorous prayer.</n1>
+
+<n1>By rose, by satiny bosom, by the fondling hand, by slops, by empties,
+by popped corks, greeting in going, past eyes and maidenhair, bronze and
+faint gold in deepseashadow, went Bloom, soft Bloom, I feel so lonely
+Bloom.</n1>
+
+<stripling>[Louder: Tap. Tap. Tap]</stripling>
+
+<n3>Pray for him, prayed the bass of Dollard. You who hear in peace. Breathe
+a prayer, drop a tear, good men, good people. He was the croppy boy.</n3>
+
+<n1>Scaring eavesdropping boots croppy bootsboy Bloom in the Ormond
+hallway heard the growls and roars of bravo, fat backslapping, their boots
+all treading, boots not the boots the boy.</n1>
+<bloom>General chorus off for a swill
+to wash it down. Glad I avoided.</bloom>
+
+<simon>Come on, Ben,
+<omit>Simon Dedalus cried.</omit>
+By God, you're as good as ever you were.</simon>
+
+<kernan>Better,</kernan>
+<n3>said Tomgin Kernan.</n3>
+<kernan>Most trenchant rendition of that ballad,
+upon my soul and honour It is.</kernan>
+
+<cowley>Lablache</cowley>
+
+<n3>Ben Dollard bulkily cachuchad towards the bar, mightily praisefed and all
+big roseate, on heavyfooted feet, his gouty fingers nakkering castagnettes
+in the air.</n3>
+
+<n1><stage>Bloom?</stage>Big Benaben Dollard. Big Benben. Big Benben.</n1>
+
+<stage>Piano?</stage>
+<n2>Rrr.</n2>
+
+<n3>And deepmoved all, Simon trumping compassion from foghorn nose,
+all laughing they brought him forth, Ben Dollard, in right good cheer.</n3>
+
+<lidwell>You're looking rubicund,</lidwell>
+<omit>George Lidwell said.</omit>
+
+<n2>Miss Douce composed her rose to wait.</n2>
+
+<simon>Ben machree,</simon>
+<n3>said Mr Dedalus, clapping Ben's fat back shoulderblade.</n3>
+<simon>Fit as a fiddle only he has a lot of adipose tissue concealed about his
+person.</simon>
+
+<stage>Piano?</stage>
+<n2>Rrrrrrrsss.</n2>
+
+<dollard>Fat of death, Simon,</dollard>
+<n3>Ben Dollard growled.</n3>
+
+<n1>Richie rift in the lute alone sat: Goulding, Collis, Ward. Uncertainly
+he waited. Unpaid Pat too.</n1>
+
+<stripling>[Louder! Tap. Tap. Tap. Tap]</stripling>
+
+<n2>Miss Mina Kennedy brought near her lips to ear of tankard one.</n2>
+
+<n2>Mr Dollard, they murmured low.</n2>
+
+<n2>Dollard, murmured tankard.</n2>
+
+<n2>Tank one believed: miss Kenn when she: that doll he was: she doll:
+the tank.</n2>
+
+<n2>He murmured that he knew the name. The name was familiar to him,
+that is to say. That was to say he had heard the name of. Dollard, was it?
+Dollard, yes.</n2>
+
+<n2>Yes, her lips said more loudly, Mr Dollard. He sang that song lovely,
+murmured Mina. Mr Dollard. And
+<title>The Last Rose of Summer</title> was a lovely
+song. Mina loved that song. Tankard loved the song that Mina.</n2>
+
+<n1>'Tis the last rose of summer dollard left bloom felt wind wound round
+inside.</n1>
+
+<bloom>Gassy thing that cider: binding too. Wait. Postoffice near Reuben J's
+one and eightpence too. Get shut of it. Dodge round by Greek street. Wish
+I hadn't promised to meet. Freer in air. Music. Gets on your nerves.
+Beerpull. Her hand that rocks the cradle rules the. Ben Howth. That rules
+the world.</bloom>
+
+<stage>Piano?</stage>
+<n2>Far. Far. Far. Far.</n2>
+
+<stripling>[Louder! Tap. Tap. Tap. Tap.]</stripling>
+
+<n1>Up the quay went Lionelleopold, naughty Henry with letter for
+Mady, with sweets of sin with frillies for Raoul with met him pike hoses
+went Poldy on.</n1>
+
+<n1>Tap blind walked tapping by the tap the curbstone tapping,
+tap by tap.</n1>
+
+<bloom>Cowley, he stuns himself with it: kind of drunkenness. Better give
+way only half way the way of a man with a maid. Instance enthusiasts. All
+ears. Not lose a demisemiquaver. Eyes shut. Head nodding in time. Dotty.
+You daren't budge. Thinking strictly prohibited. Always talking shop.
+Fiddlefaddle about notes.</bloom>
+
+<bloom>All a kind of attempt to talk. Unpleasant when it stops because you
+never know exac. Organ in Gardiner street. Old Glynn fifty quid a year.
+Queer up there in the cockloft, alone, with stops and locks and keys.
+Seated all day at the organ. Maunder on for hours, talking to himself or
+the other fellow blowing the bellows. Growl angry, then shriek cursing
+(want to have wadding or something in his no don't she cried), then all of
+a soft sudden wee little wee little pipy wind.</bloom>
+
+<n2>Pwee! A wee little wind piped eeee. In Bloom's little wee.</n2>
+
+<simon>Was he?</simon>
+<n3>Mr Dedalus said, returning with fetched pipe.</n3>
+<simon>I was with him this morning at poor little Paddy Dignam's ...</simon>
+
+<cowley> <stage>?</stage>
+Ay, the Lord have mercy on him.</cowley>
+
+<simon>By the bye there's a tuningfork in there on the ...</simon>
+
+<stripling>[Tap. Tap. Tap. Tap]</stripling>
+
+<lidwell>The wife has a fine voice. Or had. What?</lidwell>
+
+<MissD>O, that must be the tuner,</MissD>
+<n2>Lydia said to Simonlionel</n2>
+<MissD>first I saw, forgot
+it when he was here.</MissD>
+
+<n2>Blind he was she told George Lidwell second I saw. And played so
+exquisitely, treat to hear. Exquisite contrast: bronzelid, minagold.</n2>
+
+<dollard>Shout!</dollard>
+<n3>Ben Dollard shouted, pouring.</n3>
+<dollard>Sing out!</dollard>
+
+<cowley>'lldo!</cowley>
+<omit>cried Father Cowley.</omit>
+
+<stage>Piano?</stage>
+<n2>Rrrrrr.</n2>
+
+<bloom>I feel I want ...</bloom>
+
+<stripling>[Louder! Tap. Tap. Tap. Tap. Tap]</stripling>
+
+<simon>Very,</simon>
+<n3>Mr Dedalus said, staring hard at a headless sardine.</n3>
+
+<n1>Under the sandwichbell lay on a bier of bread one last, one lonely, last
+sardine of summer. Bloom alone.</n1>
+
+<simon>Very,
+<omit>he stared.</omit>
+The lower register, for choice.</simon>
+
+<stripling>[Louder] Tap. Tap. Tap. Tap. Tap. Tap.
+[Softer] Tap. Tap.</stripling>
+
+<n1>Bloom went by Barry's.</n1>
+<bloom>Wish I could. Wait. That wonderworker if I
+had. Twentyfour solicitors in that one house. Counted them. Litigation.
+Love one another. Piles of parchment. Messrs Pick and Pocket have power
+of attorney. Goulding, Collis, Ward.</bloom>
+
+<bloom>But for example the chap that wallops the big drum. His vocation:
+Mickey Rooney's band. Wonder how it first struck him. Sitting at home
+after pig's cheek and cabbage nursing it in the armchair. Rehearsing his
+band part. Pom. Pompedy. Jolly for the wife. Asses' skins. Welt them
+through life, then wallop after death. Pom. Wallop. Seems to be what you
+call yashmak or I mean kismet. Fate.</bloom>
+
+<stripling>Tap. Tap.</stripling>
+
+<n1>A stripling, blind, with a tapping cane came taptaptapping
+by Daly's window where a mermaid hair all streaming (but he couldn't see)
+blew whiffs of a mermaid (blind couldn't), mermaid, coolest whiff of all.</n1>
+
+<bloom>Instruments. A blade of grass, shell of her hands, then blow. Even
+comb and tissuepaper you can knock a tune out of. Molly in her shift in
+Lombard street west, hair down. I suppose each kind of trade made its own,
+don't you see? Hunter with a horn. Haw. Have you the?
+<french>Cloche. Sonnez la.</french>
+Shepherd his pipe. Pwee little wee. Policeman a whistle. Locks and keys!
+Sweep! Four o'clock's all's well! Sleep! All is lost now. Drum? Pompedy.
+Wait. I know. Towncrier, bumbailiff. Long John. Waken the dead. Pom.
+Dignam. Poor little <latin>nominedomine.</latin>
+Pom. It is music. I mean of course it's
+all pom pom pom very much what they call
+<italian>da capo.</italian> Still you can hear. As
+we march, we march along, march along. Pom.</bloom>
+
+<bloom>I must really. Fff. Now if I did that at a banquet. Just a question of
+custom shah of Persia. Breathe a prayer, drop a tear. All the same he must
+have been a bit of a natural not to see it was a yeoman cap. Muffled up.
+Wonder who was that chap at the grave in the brown macin. O, the whore
+of the lane!</bloom>
+
+<n1>A frowsy whore with black straw sailor hat askew came glazily in the
+day along the quay towards Mr Bloom. When first he saw that form
+endearing?</n1>
+<bloom>Yes, it is. I feel so lonely. Wet night in the lane. Horn. Who
+had the? Heehaw shesaw. Off her beat here. What is she? Hope she. Psst!
+Any chance of your wash. Knew Molly. Had me decked. Stout lady does be
+with you in the brown costume. Put you off your stroke, that. Appointment
+we made knowing we'd never, well hardly ever. Too dear too near to home
+sweet home. Sees me, does she? Looks a fright in the day. Face like dip.
+Damn her. O, well, she has to live like the rest. Look in here.</bloom>
+
+<n1>In Lionel Marks's antique saleshop window haughty Henry Lionel
+Leopold dear Henry Flower earnestly Mr Leopold Bloom envisaged
+battered candlesticks melodeon oozing maggoty blowbags.</n1>
+<bloom>Bargain: six bob.
+Might learn to play. Cheap. Let her pass. Course everything is dear if
+you don't want it. That's what good salesman is. Make you buy what he
+wants to sell. Chap sold me the Swedish razor he shaved me with. Wanted
+to charge me for the edge he gave it. She's passing now. Six bob.</bloom>
+
+<bloom>Must be the cider or perhaps the burgund.</bloom>
+
+<n2>Near bronze from anear near gold from afar they chinked their clinking
+glasses all, brighteyed and gallant, before bronze Lydia's tempting
+last rose of summer, rose of Castile. First Lid, De, Cow, Ker, Doll, a
+fifth: Lidwell, Si Dedalus, Bob Cowley, Kernan and big Ben Dollard.</n2>
+
+<stripling>Tap.</stripling>
+
+<n2>A youth entered a lonely Ormond hall.</n2>
+
+<n1>Bloom viewed a gallant pictured hero in Lionel Marks's window.</n1>
+<bloom>Robert Emmet's last words. Seven last words.
+Of Meyerbeer that is.</bloom>
+
+<dollard>True men like you men.</dollard>
+
+<simon>Ay, ay, Ben.</simon>
+
+<dollard>Will lift your glass with us.</dollard>
+
+<n3>They lifted.</n3>
+
+<stage>Glasses clinking.</stage>
+
+<n1>Tschink.</n1>
+
+<n3>Tschunk.</n3>
+
+<stripling>Tip.</stripling>
+
+<n1>An unseeing stripling stood in the door. He saw not bronze. He
+saw not gold. Nor Ben nor Bob nor Tom nor Si nor George nor tanks nor
+Richie nor Pat. Hee hee hee hee. He did not see.</n1>
+
+<n1>Seabloom, greaseabloom viewed last words. Softly.
+
+<stage>Bloom? Dollard?</stage>
+<song>When my country takes her place among.</song></n1>
+
+<stage>Piano?</stage>
+<n2>Prrprr.</n2>
+
+<bloom>Must be the bur.</bloom>
+
+<stage>Piano?</stage>
+<n2>Fff! Oo. Rrpr.</n2>
+
+<stage>Other voice</stage>
+<song>Nations of the earth.</song>
+
+<bloom>No-one behind. She's passed.</bloom>
+
+<stage>Other voice</stage>
+<song>Then and not till then.</song>
+
+<stage>Street noise?</stage>
+<n2>Tram kran kran kran.</n2>
+
+<bloom>Good oppor. Coming.</bloom>
+<n2>Krandlkrankran.</n2>
+<bloom>I'm sure it's the burgund. Yes. One, two.</bloom>
+
+<song>Let my epitaph be.</song>
+
+<stage>Street noise?</stage>
+<n2>Kraaaaaa.</n2>
+
+<song>Written. I have.</song>
+
+<stage>Street noise?</stage>
+<n2>Pprrpffrrppffff.</n2>
+
+<stage>Other voice</stage>
+<song>Done.</song>
+
+
+
+<!-- ============================================================== -->
+
+</xml>

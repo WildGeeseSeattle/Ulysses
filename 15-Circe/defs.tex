@@ -1,0 +1,327 @@
+% Circe commands
+
+\documentclass[12pt,twoside]{article}
+\usepackage{ifthen}
+
+
+% TODO: eat the preceding line ending
+\newcommand{\gab}[1]{\marginpar[\raggedleft #1]{#1}} % Gabler edition line number
+
+\newcommand{\stage}[1]{\emph{#1}}
+\newcommand{\histstyle}[1]{\bigskip\centerline{--- \emph{{[}#1{]}} ---}\smallskip}
+
+\newcommand{\song}[1]{\emph{#1}}
+\newcommand{\Title}[1]{\emph{#1}}
+
+\newcommand{\latin}[1]{\emph{#1}}
+\newcommand{\french}[1]{\emph{#1}}
+\newcommand{\german}[1]{\emph{#1}}
+\newcommand{\greek}[1]{\emph{#1}}
+\newcommand{\italian}[1]{\emph{#1}}
+\newcommand{\spanish}[1]{\emph{#1}}
+\newcommand{\irish}[1]{\emph{#1}}
+\newcommand{\yiddish}[1]{\emph{#1}}
+\newcommand{\hebrew}[1]{\emph{#1}}
+
+\newcommand{\role}[1]{{\pagebreak[1]\textsc{#1}}}
+%\newcommand{\role}[1]{{\textsf{#1}}}
+\newcommand{\narr}[1]{\role{N#1}}
+\newcommand{\nrole}[2]{\narr{#1}: #2.\par\role{#2}}
+\newcommand{\optrole}[2][0]{\ifthenelse {#1>0} {\nrole{#1}{#2}} {\role{#2}}}
+
+\newcommand{\N}[1]{\narr{#1}}
+
+\newcommand{\florry}[1][0]{\optrole[#1]{Florry}}
+
+\newcommand{\All}[1][0]  {\optrole[#1]{All}}
+\newcommand{\Bloom}[1][0]  {\optrole[#1]{Bloom}}
+\newcommand{\Carr}[1][0]  {\optrole[#1]{Private Carr}}
+\newcommand{\Cissy}[1][0]  {\optrole[#1]{Cissy Caffrey}}
+\newcommand{\Compton}[1][0]  {\optrole[#1]{Private Compton}}
+\newcommand{\Edy}[1][0]  {\optrole[#1]{Edy Boardman}}
+\newcommand{\Lynch}[1][0]  {\optrole[#1]{Lynch}}
+\newcommand{\Stephen}[1][0]  {\optrole[#1]{Stephen}}
+\newcommand{\Rudolph}[1][0]  {\optrole[#1]{Rudolph}}
+\newcommand{\Ellen}[1][0]  {\optrole[#1]{Ellen Bloom}}
+\newcommand{\Marion}[1][0]  {\optrole[#1]{Marion}}
+\newcommand{\Boylan}[1][0]  {\optrole[#1]{Boylan}}
+\newcommand{\Zoe}[1][0]  {\optrole[#1]{Zoe}}
+\newcommand{\Kitty}[1][0]  {\optrole[#1]{Kitty}}
+\newcommand{\Florry}[1][0]  {\optrole[#1]{Florry}}
+\newcommand{\Bella}[1][0]  {\optrole[#1]{Bella}}
+\newcommand{\Bello}[1][0]  {\optrole[#1]{Bello}}
+\newcommand{\Sweny}[1][0]  {\optrole[#1]{Sweny}}
+\newcommand{\Bridie}[1][0]  {\optrole[#1]{Bridie}}
+\newcommand{\Gerty}[1][0]  {\optrole[#1]{Gerty}}
+\newcommand{\MrsBreen}[1][0]  {\optrole[#1]{Mrs Breen}}
+\newcommand{\Bohees}[1][0]  {\optrole[#1]{Tom and Sam}}
+\newcommand{\AlfBergan}[1][0]  {\optrole[#1]{Alf Bergan}}
+\newcommand{\Richie}[1][0]  {\optrole[#1]{Richie}}
+\newcommand{\Pat}[1][0]  {\optrole[#1]{Pat}}
+\newcommand{\Bawd}[1][0]  {\optrole[#1]{The Bawd}}
+\newcommand{\Urchins}[1][0]  {\optrole[#1]{The Urchins}}
+\newcommand{\Voice}[1][0]  {\optrole[#1]{A Voice}}
+\newcommand{\Calls}[1][0]  {\optrole[#1]{The Calls}}
+\newcommand{\Answers}[1][0]  {\optrole[#1]{The Answers}}
+\newcommand{\Children}[1][0]  {\optrole[#1]{The Children}}
+\newcommand{\Idiot}[1][0]  {\optrole[#1]{The Idiot}}
+\newcommand{\Virago}[1][0]  {\optrole[#1]{The Virago}}
+\newcommand{\Bells}[1][0]  {\optrole[#1]{The Bells}}
+\newcommand{\Gong}[1][0]  {\optrole[#1]{The Gong}}
+\newcommand{\Motorman}[1][0]  {\optrole[#1]{The Motorman}}
+\newcommand{\Figure}[1][0]  {\optrole[#1]{The Figure}}
+\newcommand{\Soap}[1][0]  {\optrole[#1]{The Soap}}
+\newcommand{\Gaffer}[1][0]  {\optrole[#1]{The Gaffer}}
+\newcommand{\Loiterers}[1][0]  {\optrole[#1]{The Loiterers}}
+\newcommand{\Whores}[1][0]  {\optrole[#1]{The Whores}}
+\newcommand{\Navvy}[1][0]  {\optrole[#1]{The Navvy}}
+\newcommand{\ShebeenKeeper}[1][0]  {\optrole[#1]{The Shebeen Keeper}}
+\newcommand{\Wreaths}[1][0]  {\optrole[#1]{The Wreaths}}
+\newcommand{\Watch}[1][0]  {\optrole[#1]{The Watch}}
+\newcommand{\FirstWatch}[1][0]  {\optrole[#1]{First Watch}}
+\newcommand{\SecondWatch}[1][0]  {\optrole[#1]{Second Watch}}
+\newcommand{\Gulls}[1][0]  {\optrole[#1]{The Gulls}}
+\newcommand{\Doran}[1][0]  {\optrole[#1]{Bob Doran}}
+\newcommand{\Maffei}[1][0]  {\optrole[#1]{Signor Maffei}}
+\newcommand{\DarkMercury}[1][0]  {\optrole[#1]{The Dark Mercury}}
+\newcommand{\Martha}[1][0]  {\optrole[#1]{Martha}}
+\newcommand{\Myles}[1][0]  {\optrole[#1]{Myles Crawford}}
+\newcommand{\Beaufoy}[1][0]  {\optrole[#1]{Beaufoy}}
+\newcommand{\GalleryVoice}[1][0]  {\optrole[#1]{A Voice from the Gallery}}
+\newcommand{\Crier}[1][0]  {\optrole[#1]{The Crier}}
+\newcommand{\Driscoll}[1][0]  {\optrole[#1]{Mary Driscoll}}
+\newcommand{\Fottrell}[1][0]  {\optrole[#1]{George Fottrell}}
+\newcommand{\LongShortHand}[1][0]  {\optrole[#1]{Longhand and Shorthand}}
+\newcommand{\MacHugh}[1][0]  {\optrole[#1]{Professor MacHugh}}
+\newcommand{\JJOM}[1][0]  {\optrole[#1]{J.J.~O'Molloy}}
+\newcommand{\Dlugacz}[1][0]  {\optrole[#1]{Dlugacz}}
+\newcommand{\Yelverton}[1][0]  {\optrole[#1]{Mrs Yelverton Barry}}
+\newcommand{\Bellingham}[1][0]  {\optrole[#1]{Mrs Bellingham}}
+\newcommand{\Ragamuffins}[1][0]  {\optrole[#1]{The Sluts and Ragamuffins}}
+\newcommand{\Talboys}[1][0]  {\optrole[#1]{The Honourable Mrs Mervyn Talboys}}
+\newcommand{\DavyStephens}[1][0]  {\optrole[#1]{Davy Stephens}}
+\newcommand{\Timepiece}[1][0]  {\optrole[#1]{The Timepiece}}
+\newcommand{\Quoits}[1][0]  {\optrole[#1]{The Quoits}}
+\newcommand{\NamelessOne}[1][0]  {\optrole[#1]{The Nameless One}}
+\newcommand{\Jurors}[1][0]  {\optrole[#1]{The Jurors}}
+\newcommand{\Recorder}[1][0]  {\optrole[#1]{The Recorder}}
+\newcommand{\LongJohn}[1][0]  {\optrole[#1]{Long John Fanning}}
+\newcommand{\Rumbold}[1][0]  {\optrole[#1]{Rumbold}}
+\newcommand{\Hynes}[1][0]  {\optrole[#1]{Hynes}}
+\newcommand{\Dignam}[1][0]  {\optrole[#1]{Paddy Dignam}}
+\newcommand{\FrCoffey}[1][0]  {\optrole[#1]{Father Coffey}}
+\newcommand{\OConnell}[1][0]  {\optrole[#1]{John O'Connell}}
+\newcommand{\Rochford}[1][0]  {\optrole[#1]{Tom Rochford}}
+\newcommand{\Kisses}[1][0]  {\optrole[#1]{The Kisses}}
+\newcommand{\Chimes}[1][0]  {\optrole[#1]{The Chimes}}
+\newcommand{\Elector}[1][0]  {\optrole[#1]{An Elector}}
+\newcommand{\Torchbearers}[1][0]  {\optrole[#1]{The Torchbearers}}
+\newcommand{\Harrington}[1][0]  {\optrole[#1]{Late Lord Mayor Harrington}}
+\newcommand{\Lorcan}[1][0]  {\optrole[#1]{Councillor Lorcan Sherlock}}
+\newcommand{\BloomsBoys}[1][0]  {\optrole[#1]{Bloom's Boys}}
+\newcommand{\Blacksmith}[1][0]  {\optrole[#1]{A Blacksmith}}
+\newcommand{\Flagger}[1][0]  {\optrole[#1]{A Pavior and Flagger}}
+\newcommand{\Millionairess}[1][0]  {\optrole[#1]{A Millionairess}}
+\newcommand{\Noblewoman}[1][0]  {\optrole[#1]{A Noblewoman}}
+\newcommand{\Feminist}[1][0]  {\optrole[#1]{A Feminist}}
+\newcommand{\Bellhanger}[1][0]  {\optrole[#1]{A Bellhanger}}
+\newcommand{\DownConnor}[1][0]  {\optrole[#1]{The Bishop of Down and Connor}}
+\newcommand{\WillArmagh}[1][0]  {\optrole[#1]{William, Archbishop of Armagh}}
+\newcommand{\MikeArmagh}[1][0]  {\optrole[#1]{Michael, Archbishop of Armagh}}
+\newcommand{\Peers}[1][0]  {\optrole[#1]{The Peers}}
+\newcommand{\Parnell}[1][0]  {\optrole[#1]{John Howard Parnell}}
+\newcommand{\Kernan}[1][0]  {\optrole[#1]{Tom Kernan}}
+\newcommand{\Typesetters}[1][0]  {\optrole[#1]{The Chapel of Freeman Typesetters}}
+\newcommand{\JohnWyse}[1][0]  {\optrole[#1]{John Wyse Nolan}}
+\newcommand{\Bluecoat}[1][0]  {\optrole[#1]{A Bluecoat Schoolboy}}
+\newcommand{\OldResident}[1][0]  {\optrole[#1]{An Old Resident}}
+\newcommand{\AppleWoman}[1][0]  {\optrole[#1]{An Apple Woman}}
+\newcommand{\Sightseers}[1][0]  {\optrole[#1]{The Sightseers}}
+\newcommand{\Macintosh}[1][0]  {\optrole[#1]{The Man in the Macintosh}}
+\newcommand{\Women}[1][0]  {\optrole[#1]{The Women}}
+\newcommand{\Sucklings}[1][0]  {\optrole[#1]{The Babes and Sucklings}}
+\newcommand{\BabyBoardman}[1][0]  {\optrole[#1]{Baby Boardman}}
+\newcommand{\Citizen}[1][0]  {\optrole[#1]{The Citizen}}
+\newcommand{\JimmyHenry}[1][0]  {\optrole[#1]{Jimmy Henry}}
+\newcommand{\PaddyLeonard}[1][0]  {\optrole[#1]{Paddy Leonard}}
+\newcommand{\NoseyFlynn}[1][0]  {\optrole[#1]{Nosey Flynn}}
+\newcommand{\PisserBurke}[1][0]  {\optrole[#1]{Pisser Burke}}
+\newcommand{\ChrisCallinan}[1][0]  {\optrole[#1]{Chris Callinan}}
+\newcommand{\JoeHynes}[1][0]  {\optrole[#1]{Joe Hynes}}
+\newcommand{\BenDollard}[1][0]  {\optrole[#1]{Ben Dollard}}
+\newcommand{\LarryORourke}[1][0]  {\optrole[#1]{Larry O'Rourke}}
+\newcommand{\Crofton}[1][0]  {\optrole[#1]{Crofton}}
+\newcommand{\AlexanderKeyes}[1][0]  {\optrole[#1]{Alexander Keyes}}
+\newcommand{\OMaddenBurke}[1][0]  {\optrole[#1]{O'Madden Burke}}
+\newcommand{\DavyByrne}[1][0]  {\optrole[#1]{Davy Byrne}}
+\newcommand{\Lenehan}[1][0]  {\optrole[#1]{Lenehan}}
+\newcommand{\FatherFarley}[1][0]  {\optrole[#1]{Father Farley}}
+\newcommand{\MrsRiordan}[1][0]  {\optrole[#1]{Mrs Riordan}}
+\newcommand{\MotherGrogan}[1][0]  {\optrole[#1]{Mother Grogan}}
+\newcommand{\HoppyHolohan}[1][0]  {\optrole[#1]{Hoppy Holohan}}
+\newcommand{\TheodorePurefoy}[1][0]  {\optrole[#1]{Theodore Purefoy}}
+\newcommand{\VeiledSibyl}[1][0]  {\optrole[#1]{The Veiled Sibyl}}
+\newcommand{\Dowie}[1][0]  {\optrole[#1]{Alexander J~Dowie}}
+\newcommand{\Mob}[1][0]  {\optrole[#1]{The Mob}}
+\newcommand{\DrMulligan}[1][0]  {\optrole[#1]{Dr Mulligan}}
+\newcommand{\DrMadden}[1][0]  {\optrole[#1]{Dr Madden}}
+\newcommand{\DrCrotthers}[1][0]  {\optrole[#1]{Dr Crotthers}}
+\newcommand{\DrPunchCostello}[1][0]  {\optrole[#1]{Dr Punch Costello}}
+\newcommand{\DrDixon}[1][0]  {\optrole[#1]{Dr Dixon}}
+\newcommand{\MrsThornton}[1][0]  {\optrole[#1]{Mrs Thornton}}
+\newcommand{\BrotherBuzz}[1][0]  {\optrole[#1]{Brother Buzz}}
+\newcommand{\BantamLyons}[1][0]  {\optrole[#1]{Bantam Lyons}}
+\newcommand{\Brini}[1][0]  {\optrole[#1]{Brini, Papal Nuncio}}
+\newcommand{\Deadhand}[1][0]  {\optrole[#1]{A Deadhand}}
+\newcommand{\Crab}[1][0]  {\optrole[#1]{Crab}}
+\newcommand{\FemaleInfant}[1][0]  {\optrole[#1]{A Female Infant}}
+\newcommand{\Hollybush}[1][0]  {\optrole[#1]{A Hollybush}}
+\newcommand{\EvictedTenants}[1][0]  {\optrole[#1]{The Irish Evicted Tenants}}
+\newcommand{\ArtaneOrphans}[1][0]  {\optrole[#1]{The Artane Orphans}}
+\newcommand{\PrisonGateGirls}[1][0]  {\optrole[#1]{The Prison Gate Girls}}
+\newcommand{\Hornblower}[1][0]  {\optrole[#1]{Hornblower}}
+\newcommand{\MastianskyCitron}[1][0]  {\optrole[#1]{Mastiansky and Citron}}
+\newcommand{\Mesias}[1][0]  {\optrole[#1]{Mesias}}
+\newcommand{\ReubenJ}[1][0]  {\optrole[#1]{Reuben J}}
+\newcommand{\FireBrigade}[1][0]  {\optrole[#1]{The Fire Brigade}}
+\newcommand{\DaughtersErin}[1][0]  {\optrole[#1]{The Daughters of Erin}}
+\newcommand{\Buckles}[1][0]  {\optrole[#1]{The Buckles}}
+\newcommand{\MaleBrutes}[1][0]  {\optrole[#1]{The Male Brutes}}
+\newcommand{\Cap}[1][0]  {\optrole[#1]{The Cap}}
+\newcommand{\Newsboys}[1][0]  {\optrole[#1]{The Newsboys}}
+\newcommand{\Hobgoblin}[1][0]  {\optrole[#1]{The Hobgoblin}}
+\newcommand{\Gramophone}[1][0]  {\optrole[#1]{The Gramophone}}
+\newcommand{\EndOfWorld}[1][0]  {\optrole[#1]{The End of the World}}
+\newcommand{\ThreeWhores}[1][0]  {\optrole[#1]{The Three Whores}}
+\newcommand{\Elijah}[1][0]  {\optrole[#1]{Elijah}}
+\newcommand{\KittyKate}[1][0]  {\optrole[#1]{Kitty-Kate}}
+\newcommand{\ZoeFanny}[1][0]  {\optrole[#1]{Zoe-Fanny}}
+\newcommand{\FlorryTeresa}[1][0]  {\optrole[#1]{Florry-Teresa}}
+\newcommand{\Beatitudes}[1][0]  {\optrole[#1]{The Beatitudes}}
+\newcommand{\Lyster}[1][0]  {\optrole[#1]{Lyster}}
+\newcommand{\Best}[1][0]  {\optrole[#1]{Best}}
+\newcommand{\JohnEglinton}[1][0]  {\optrole[#1]{John Eglinton}}
+\newcommand{\MananaunMaclir}[1][0]  {\optrole[#1]{Mananaun Maclir}}
+\newcommand{\Gasjet}[1][0]  {\optrole[#1]{The Gasjet}}
+\newcommand{\Virag}[1][0]  {\optrole[#1]{Virag}}
+\newcommand{\Moth}[1][0]  {\optrole[#1]{The Moth}}
+\newcommand{\Henry}[1][0]  {\optrole[#1]{Henry}}
+\newcommand{\Artifoni}[1][0]  {\optrole[#1]{Artifoni}}
+\newcommand{\PhilipDrunk}[1][0]  {\optrole[#1]{Philip Drunk}}
+\newcommand{\PhilipSober}[1][0]  {\optrole[#1]{Philip Sober}}
+\newcommand{\Virgins}[1][0]  {\optrole[#1]{The Virgins}}
+\newcommand{\Flybill}[1][0]  {\optrole[#1]{The Flybill}}
+\newcommand{\ViragsHead}[1][0]  {\optrole[#1]{Virag's Head}}
+\newcommand{\Cardinal}[1][0]  {\optrole[#1]{The Cardinal}}
+\newcommand{\Doorhandle}[1][0]  {\optrole[#1]{The Doorhandle}}
+\newcommand{\Fan}[1][0]  {\optrole[#1]{The Fan}}
+\newcommand{\Hoof}[1][0]  {\optrole[#1]{The Hoof}}
+\newcommand{\MrsKeogh}[1][0]  {\optrole[#1]{Mrs Keogh}}
+\newcommand{\SinsPast}[1][0]  {\optrole[#1]{The Sins of the Past}}
+\newcommand{\Bidder}[1][0]  {\optrole[#1]{A Bidder}}
+\newcommand{\Lacquey}[1][0]  {\optrole[#1]{The Lacquey}}
+\newcommand{\Marsh}[1][0]  {\optrole[#1]{Charles Alberta Marsh}}
+\newcommand{\DarkvisagedMan}[1][0]  {\optrole[#1]{A Darkvisaged Man}}
+\newcommand{\SleepyHollow}[1][0]  {\optrole[#1]{SleepyHollow}}
+\newcommand{\Milly}[1][0]  {\optrole[#1]{Milly}}
+\newcommand{\Circumcised}[1][0]  {\optrole[#1]{The Circumcised}}
+\newcommand{\Voices}[1][0]  {\optrole[#1]{Voices}}
+\newcommand{\Yews}[1][0]  {\optrole[#1]{The Yews}}
+\newcommand{\Echo}[1][0]  {\optrole[#1]{Echo}}
+\newcommand{\Nymph}[1][0]  {\optrole[#1]{The Nymph}}
+\newcommand{\Waterfall}[1][0]  {\optrole[#1]{The Waterfall}}
+\newcommand{\HalcyonDays}[1][0]  {\optrole[#1]{The Halcyon Days}}
+\newcommand{\StaggeringBob}[1][0]  {\optrole[#1]{Staggering Bob}}
+\newcommand{\Nannygoat}[1][0]  {\optrole[#1]{The Nannygoat}}
+\newcommand{\Dummymummy}[1][0]  {\optrole[#1]{The Dummymummy}}
+\newcommand{\CouncillorNannetti}[1][0]  {\optrole[#1]{Councillor Nannetti}}
+\newcommand{\VoiceKitty}[1][0]  {\optrole[#1]{The Voice of Kitty}}
+\newcommand{\VoiceFlorry}[1][0]  {\optrole[#1]{The Voice of Florry}}
+\newcommand{\VoiceLynch}[1][0]  {\optrole[#1]{The Voice of Lynch}}
+\newcommand{\VoiceZoe}[1][0]  {\optrole[#1]{The Voice of Zoe}}
+\newcommand{\VoiceVirag}[1][0]  {\optrole[#1]{The Voice of Virag}}
+\newcommand{\Button}[1][0]  {\optrole[#1]{The Button}}
+\newcommand{\Sluts}[1][0]  {\optrole[#1]{The Sluts}}
+\newcommand{\BZKLaB}[1][0]  {\optrole[#1]{Bella, Zoe, Kitty, Lynch, Bloom}}
+\newcommand{\FatherDolan}[1][0]  {\optrole[#1]{Father Dolan}}
+\newcommand{\DonJohnConmee}[1][0]  {\optrole[#1]{Don John Conmee}}
+\newcommand{\BlackLiz}[1][0]  {\optrole[#1]{Black Liz}}
+\newcommand{\Boots}[1][0]  {\optrole[#1]{The Boots}}
+\newcommand{\ZoeAndFlorry}[1][0]  {\optrole[#1]{Zoe and Florry}}
+\newcommand{\MinaKennedy}[1][0]  {\optrole[#1]{Mina Kennedy}}
+\newcommand{\LydiaDouce}[1][0]  {\optrole[#1]{Lydia Douce}}
+\newcommand{\BoylansVoice}[1][0]  {\optrole[#1]{Boylan's Voice}}
+\newcommand{\MarionsVoice}[1][0]  {\optrole[#1]{Marion's Voice}}
+\newcommand{\BellaZoeFlorryKitty}[1][0]  {\optrole[#1]{Bella, Zoe, Florry, Kitty}}
+\newcommand{\Shakespeare}[1][0]  {\optrole[#1]{Shakespeare}}
+\newcommand{\Freddy}[1][0]  {\optrole[#1]{Freddy}}
+\newcommand{\Susy}[1][0]  {\optrole[#1]{Susy}}
+\newcommand{\MrsCunningham}[1][0]  {\optrole[#1]{Mrs Cunningham}}
+\newcommand{\MartinCunningham}[1][0]  {\optrole[#1]{Martin Cunningham}}
+\newcommand{\Simon}[1][0]  {\optrole[#1]{Simon}}
+\newcommand{\Crowd}[1][0]  {\optrole[#1]{The Crowd}}
+\newcommand{\OrangeLodges}[1][0]  {\optrole[#1]{The Orange Lodges}}
+\newcommand{\GarrettDeasy}[1][0]  {\optrole[#1]{Garrett Deasy}}
+\newcommand{\GreenLodges}[1][0]  {\optrole[#1]{The Green Lodges}}
+\newcommand{\CarrComptonCissy}[1][0]  {\optrole[#1]{Private Carr, Private Compton and Cissy Caffrey}}
+\newcommand{\Maginni}[1][0]  {\optrole[#1]{Maginni}}
+\newcommand{\Pianola}[1][0]  {\optrole[#1]{The Pianola}}
+\newcommand{\Hours}[1][0]  {\optrole[#1]{Hours}}
+\newcommand{\Cavaliers}[1][0]  {\optrole[#1]{Cavaliers}}
+\newcommand{\Bracelets}[1][0]  {\optrole[#1]{The Bracelets}}
+\newcommand{\Tutti}[1][0]  {\optrole[#1]{Tutti}}
+\newcommand{\Choir}[1][0]  {\optrole[#1]{The Choir}}
+\newcommand{\BuckMulligan}[1][0]  {\optrole[#1]{Buck Mulligan}}
+\newcommand{\Mother}[1][0]  {\optrole[#1]{The Mother}}
+\newcommand{\AWhore}[1][0]  {\optrole[#1]{A Whore}}
+\newcommand{\HueCry}[1][0]  {\optrole[#1]{The Hue and Cry}}
+\newcommand{\LordTennyson}[1][0]  {\optrole[#1]{Lord Tennyson}}
+\newcommand{\DollyGray}[1][0]  {\optrole[#1]{Dolly Gray}}
+\newcommand{\BiddyClap}[1][0]  {\optrole[#1]{Biddy the Clap}}
+\newcommand{\CuntyKate}[1][0]  {\optrole[#1]{Cunty Kate}}
+\newcommand{\EdwardSeventh}[1][0]  {\optrole[#1]{Edward the Seventh}}
+\newcommand{\KevinEgan}[1][0]  {\optrole[#1]{Kevin Egan}}
+\newcommand{\Patrice}[1][0]  {\optrole[#1]{Patrice}}
+\newcommand{\DonEmile}[1][0]  {\optrole[#1]{Don Emile Patrizio Franz Rupert Pope Hennessy}}
+\newcommand{\ARough}[1][0]  {\optrole[#1]{A Rough}}
+\newcommand{\CroppyBoy}[1][0]  {\optrole[#1]{The Croppy Boy}}
+\newcommand{\RumboldDemonBarber}[1][0]  {\optrole[#1]{Rumbold, Demon Barber}}
+\newcommand{\GummyGranny}[1][0]  {\optrole[#1]{Old Gummy Granny}}
+\newcommand{\MajorTweedy}[1][0]  {\optrole[#1]{Major Tweedy}}
+\newcommand{\DistantVoices}[1][0]  {\optrole[#1]{Distant Voices}}
+\newcommand{\FrMalachiOFlynn}[1][0]  {\optrole[#1]{Father Malachi O'Flynn}}
+\newcommand{\HainesLove}[1][0]  {\optrole[#1]{The Reverend Mr Haines Love}}
+\newcommand{\VoiceAllDamned}[1][0]  {\optrole[#1]{The Voice of All the Damned}}
+\newcommand{\VoiceAllBlessed}[1][0]  {\optrole[#1]{The Voice of All the Blessed}}
+\newcommand{\Adonai}[1][0]  {\optrole[#1]{Adonai}}
+\newcommand{\Retriever}[1][0]  {\optrole[#1]{The Retriever}}
+\newcommand{\Hag}[1][0]  {\optrole[#1]{A Hag}}
+\newcommand{\Man}[1][0]  {\optrole[#1]{A Man}}
+\newcommand{\Horse}[1][0]  {\optrole[#1]{The Horse}}
+
+\newcommand{\Corny}[1][0]  {\optrole[#1]{Corny Kelleher}}
+\newcommand{\Rudy}[1][0]  {\optrole[#1]{Rudy}}
+
+
+%---------------------------------------------
+
+\usepackage[super]{nth}
+\usepackage{geometry}
+\geometry{letterpaper}
+
+\usepackage{fontspec,xltxtra,xunicode}
+\usepackage{fancybox}
+\defaultfontfeatures{Mapping=tex-text}
+\setmainfont[Mapping=tex-text, Numbers=OldStyle]{Hoefler Text}
+\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Gill Sans}
+\setmonofont[Scale=MatchLowercase]{Andale Mono}
+
+% Framed box
+\newcommand{\fb}[1]{
+
+  \begin{center}
+    \fbox{\parbox{.9\textwidth}{\setlength\parindent{1em}#1}}
+  \end{center}
+}
+
+\newcommand{\commentary}[1]{\bigskip\pagebreak[2]\fb{\centering #1}}

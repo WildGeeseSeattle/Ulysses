@@ -1,0 +1,2398 @@
+<!-- Chapter 10, Wandering Rocks of Ulysses by James Joyce --> 
+<!-- Script converted to XML by George V. Reilly --> 
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="wandering-rocks.xsl"?>
+
+<xml>
+
+<n1>in eternum omnia iuidicia iustiitiæ tuæ.</n1>
+<n1>Eppoi me sono convinto che il mondo è una bestia. È peccato</n1>
+<n1>Ci rifletterò.</n1>
+<n1>Wandering Ængus I call him.</n1>
+
+<!-- ============================================================== -->
+
+<rock id="1">
+
+<!-- page 210 -->
+<n1>The superior, the
+very reverend John Conmee S.J., reset his smooth watch in his
+interior pocket as he came down the presbytery steps.</n1>
+
+<conmee>Five to three.
+Just nice time to walk to Artane. What was that boy's name again?
+Dignam, yes. <latin>Vere dignum et justum est.</latin>
+Brother Swan was the person
+to see. Mr Cunningham's letter. Yes. Oblige him, if possible. Good
+practical catholic: useful at mission time.</conmee>
+
+<n1>A one-legged sailor, swinging himself onward by lazy jerks of his
+crutches, growled some notes. He jerked short before the convent of
+the sisters of charity and held out a peaked cap for alms towards the
+very reverend John Conmee S. J. Father Conmee blessed him in the
+sun for his purse held, he knew, one silver crown.</n1>
+
+<n1>Father Conmee crossed to Mountjoy square. He thought, but not
+for long, of soldiers and sailors, whose legs had been shot off by
+cannonballs, ending their days in some pauper ward, and of cardinal
+Wolsey's words: <quote>If I had served my God as I have served my king He would
+not have abandoned me in my old days.</quote> He walked by the treeshade of
+sunnywinking leaves and towards him came the wife of Mr David
+Sheehy M. P.</n1>
+
+<mrs-sheehy>Very well, indeed, father. And you father?</mrs-sheehy>
+
+<n1>Father Conmee was wonderfully well indeed. He would go to
+Buxton probably for the waters.</n1>
+
+<conmee>And her boys, were they getting on
+well at Belvedere? Was that so?</conmee>
+
+<n1>Father Conmee was very glad indeed
+<!-- page 211 -->
+to hear that.</n1>
+
+<conmee>And Mr Sheehy himself?</conmee>
+
+<mrs-sheehy>Still in London. The house was
+still sitting, to be sure it was.</mrs-sheehy>
+
+<conmee>Beautiful weather it was, delightful
+indeed. Yes, it was very probable that Father Bernard Vaughan would
+come again to preach. O, yes: a very great success. A wonderful
+man really.</conmee>
+
+<n1>Father Conmee was very glad to see the wife of Mr David Sheehy
+M. P. looking so well and he begged to be remembered to Mr David
+Sheehy M. P.</n1>
+
+<conmee>Yes, he would certainly call.</conmee>
+
+<conmee>Good afternoon, Mrs Sheehy.</conmee>
+
+<n1>Father Conmee doffed his silk hat, as he took leave, at the jet
+beads of her mantilla inkshining in the sun. And smiled yet again in
+going. He had cleaned his teeth, he knew, with arecanut paste.</n1>
+
+<n1>Father Conmee walked and, walking, smiled for he thought on
+Father Bernard Vaughan's droll eyes and cockney voice.</n1>
+
+<conmee> <stage>Cockney accent</stage>
+Pilate! Wy don't you old back that owlin mob?</conmee>
+
+<conmee>A zealous man, however. Really he was. And really did great
+good in his way. Beyond a doubt. He loved Ireland, he said, and he
+loved the Irish. Of good family too would one think it? Welsh, were
+they not?</conmee>
+
+<conmee>O, lest he forget. That letter to father provincial.</conmee>
+
+<conmee>Father Conmee stopped three little schoolboys at the corner of
+Mountjoy square.</conmee>
+
+<boys>Yes: they were from Belvedere.</boys>
+
+<conmee>The little
+house: Aha. And were they good boys at school? O. That was very
+good now. And what was his name?</conmee>
+
+<boy1>Jack Sohan.</boy1>
+
+<conmee>And his name?</conmee>
+
+<boy2>Ger. Gallaher.</boy2>
+
+<conmee>And the other little man?</conmee>
+
+<boy3>His name was Brunny Lynam.</boy3>
+
+<conmee>O, that was a very nice name to have.</conmee>
+
+<n1>Father Conmee gave a letter from his breast to master Brunny
+Lynam and pointed to the red pillarbox at the corner of Fitzgibbon
+street.</n1>
+
+<conmee>But mind you don't post yourself into the box, little man.</conmee>
+
+<n1>The boys sixeyed Father Conmee and laughed.</n1>
+
+<boys>O, sir.</boys>
+
+<conmee>Well, let me see if you can post a letter.</conmee>
+
+<n1>Master Brunny Lynam ran across the road and put Father
+Conmee's letter to father provincial into the mouth of the bright red
+letterbox. Father Conmee smiled and nodded and smiled and walked
+along Mountjoy square east.</n1>
+
+<interject>
+    <nstar>Mr Denis J. Maginni, professor of dancing, etc., in silk hat, slate
+    frock coat with silk facings, white kerchief tie, tight lavender trousers,
+    canary gloves and pointed patent boots, walking with grave
+<!-- page 212 -->
+    deportment most respectfully took the curbstone as he passed lady Maxwell
+    at the corner of Dignam's court.</nstar>
+</interject>
+
+<conmee>Was that not Mrs M'Guinness?</conmee>
+
+<n1>Mrs M'Guinness, stately, silverhaired, bowed to Father Conmee
+from the farther footpath along which she sailed. And Father Conmee
+smiled and saluted.</n1>
+
+<conmee>How did she do?</conmee>
+
+<conmee>A fine carriage she had. Like Mary, queen of Scots, something.
+And to think that she was a pawnbroker. Well, now! Such a ... what
+should he say? ... such a queenly mien.</conmee>
+
+<n1>Father Conmee walked down Great Charles street and glanced
+at the shutup free church on his left.</n1>
+
+<conmee>The reverend T. R. Greene
+B. A. will (D. V.) speak. The incumbent they called him. He felt it
+incumbent on him to say a few words. But one should be charitable.
+Invincible ignorance. They acted according to their lights.</conmee>
+
+<n1>Father Conmee turned the corner and walked along the North
+Circular road.</n1>
+
+<conmee>It was a wonder that there was not a tramline in such
+an important thoroughfare. Surely, there ought to be.</conmee>
+
+<n1>A band of satchelled schoolboys crossed from Richmond street.
+All raised untidy caps. Father Conmee greeted them more than once
+benignly.</n1>
+
+<conmee>Christian brother boys.</conmee>
+
+<n1>Father Conmee smelled incense on his right hand as he walked.</n1>
+
+<conmee>Saint Joseph's church, Portland row.
+For aged and virtuous females.</conmee>
+
+<n1>Father Conmee raised his hat to the Blessed Sacrament.</n1>
+
+<conmee>Virtuous: but
+occasionally they were also badtempered.</conmee>
+
+<n1>Near Aldborough house Father Conmee thought of that
+spendthrift nobleman.</n1>
+
+<conmee>And now it was an office or something.</conmee>
+
+<n1>Father Conmee began to walk along the North Strand road and
+was saluted by Mr William Gallagher who stood in the doorway of
+his shop. Father Conmee saluted Mr William Gallagher and perceived
+the odours that came from baconflitches and ample cools of butter. He
+passed Grogan's the tobacconist against which newsboards leaned and
+told of a dreadful catastrophe in New York.</n1>
+
+<conmee>In America those things
+were continually happening. Unfortunate people to die like that,
+unprepared. Still, an act of perfect contrition.</conmee>
+
+<n1>Father Conmee went by Daniel Bergin's publichouse against the
+window of which two unlabouring men lounged. They saluted him
+and were saluted.</n1>
+
+<n1>Father Conmee passed H. J. O'Neill's funeral establishment
+where Corny Kelleher totted figures in the daybook while he chewed
+a blade of hay. A constable on his beat saluted Father Conmee and
+Father Conmee saluted the constable. In Youkstetter's, the
+<!-- page 213 -->
+porkbutcher's, Father Conmee observed pig's puddings, white and black
+and red, lying neatly curled in tubes.</n1>
+
+<n1>Moored under the trees of Charleville Mall Father Conmee saw
+a turfbarge, a towhorse with pendent head, a bargeman with a hat of
+dirty straw seated amidships, smoking and staring at a branch of poplar
+above him. It was idyllic: and Father Conmee reflected on the
+providence of the Creator who had made turf to be in bogs where men
+might dig it out and bring it to town and hamlet to make fires in
+the houses of poor people.</n1>
+
+<n1>On Newcomen bridge the very reverend John Conmee S. J. of
+saint Francis Xavier's church, upper Gardiner street, stepped on to an
+outward bound tram.</n1>
+
+<n1>Off an inward bound tram stepped the reverend Nicholas Dudley
+C. C. of saint Agatha's church, north William street, on to Newcomen
+bridge.</n1>
+
+<n1>At Newcomen bridge Father Conmee stepped into an outward
+bound tram for he disliked to traverse on foot the dingy way past Mud
+Island.</n1>
+
+<n1>Father Conmee sat in a corner of the tramcar, a blue ticket tucked
+with care in the eye of one plump kid glove, while four shillings, a
+sixpence and five pennies chuted from his other plump glovepalm into
+his purse. Passing the ivy church he reflected that the ticket inspector
+usually made his visit when one had carelessly thrown away the ticket.
+The solemnity of the occupants of the car seemed to Father Conmee
+excessive for a journey so short and cheap. Father Conmee liked
+cheerful decorum.</n1>
+
+<n1>It was a peaceful day. The gentleman with his glasses opposite
+Father Conmee had finished explaining and looked down.</n1>
+
+<conmee>His wife</conmee>
+
+<n1>Father Conmee supposed. A tiny yawn opened the mouth of the wife
+of the gentleman with the glasses. She raised her small gloved fist,
+yawned ever so gently, tiptapping her small gloved fist on her opening
+mouth and smiled tinily, sweetly.</n1>
+
+<n1>Father Conmee perceived her perfume in the car. He perceived
+also that the awkward man at the other side of her was sitting on the
+edge of the seat.</n1>
+
+<n1>Father Conmee at the altarrails placed the host with difficulty in
+the mouth of the awkward old man who had the shaky head.</n1>
+
+<n1>At Annesley bridge the tram halted and, when it was about to go,
+an old woman rose suddenly from her place to alight. The conductor
+pulled the bellstrap to stay the car for her. She passed out with her
+basket and a market net: and Father Conmee saw the conductor help
+<!-- page 214 -->
+her and net and basket down: and Father Conmee thought that, as she
+had nearly passed the end of the penny fare, she was one of those good
+souls who had always to be told twice</n1>
+
+<conmee><quote>bless you, my child</quote>, that they have
+been absolved, <quote>pray for me</quote>.
+But they had so many worries in life, so
+many cares, poor creatures.</conmee>
+
+<n1>From the hoardings Mr Eugene Stratton grinned with thick
+niggerlips at Father Conmee.</n1>
+
+<n1>Father Conmee thought of</n1>
+
+<conmee>the souls of black and brown and
+yellow men and of his sermon of saint Peter Claver S. J. and the
+African mission and of the propagation of the faith and of the millions
+of black and brown and yellow souls that had not received the baptism
+of water when their last hour came like a thief in the night. That book
+by the Belgian jesuit, <title>Le Nombre des Élus</title></conmee>
+
+<n1>seemed to Father Conmee a reasonable plea.</n1>
+
+<conmee>Those were millions of human souls created by God
+in His Own likeness to whom the faith had not (D.V.) been brought.
+But they were God's souls created by God.</conmee>
+
+<n1>It seemed to Father
+Conmee a pity that they should all be lost, a waste if one might say.</n1>
+
+<n1>At the Howth road stop Father Conmee alighted, was saluted by
+the conductor and saluted in his turn.</n1>
+
+<n1>The Malahide road was quiet. It pleased Father Conmee, road
+and name.</n1>
+
+<conmee>The joybells were ringing in gay Malahide. Lord Talbot de
+Malahide, immediate hereditary lord admiral of Malahide and the seas
+adjoining. Then came the call to arms and she was maid, wife and
+widow in one day. Those were oldworldish days, loyal times in joyous
+townlands, old times in the barony.</conmee>
+
+<n1>Father Conmee, walking, thought of his little book <title>Old Times in
+the Barony</title> and of the book that might be written about jesuit houses
+and of Mary Rochfort, daughter of lord Molesworth, first countess of
+Belvedere.</n1>
+
+<n1>A listless lady, no more young, walked alone the shore of lough
+Ennel, Mary, first countess of Belvedere, listlessly walking in the
+evening, not startled when an otter plunged.</n1>
+
+<conmee>Who could know the
+truth? Not the jealous lord Belvedere and not her confessor if she had
+not committed adultery fully, <latin>eiaculatio seminis inter vas naturale
+mulieris</latin>, with her husband's brother?
+She would half confess if she had
+not all sinned as women did. Only God knew and she and he, her
+husband's brother.</conmee>
+
+<n1>Father Conmee thought of that tyrannous incontinence, needed
+however for men's race on earth, and of the ways of God which were
+not our ways.</n1>
+
+<n1>Don John Conmee walked and moved in times of yore. He was
+<!-- page 215 -->
+humane and honoured there. He bore in mind secrets confessed and
+he smiled at smiling noble faces in a beeswaxed drawingroom, ceiled
+with full fruit clusters. And the hands of a bride and of a bridegroom,
+noble to noble, were impalmed by don John Conmee.</n1>
+
+<n1>It was a charming day.</n1>
+
+<n1>The lychgate of a field showed Father Conmee breadths of
+cabbages, curtseying to him with ample underleaves. The sky showed him
+a flock of small white clouds going slowly down the wind.</n1>
+
+<conmee><french>Moutonner</french>,
+the French said. A homely and just word.</conmee>
+
+<n1>Father Conmee, reading his office, watched a flock of muttoning
+clouds over Rathcoffey. His thinsocked ankles were tickled by the
+stubble of Clongowes field. He walked there, reading in the evening,
+and heard the cries of the boys' lines at their play, young cries in the
+quiet evening. He was their rector: his reign was mild.</n1>
+
+<n1>Father Conmee drew off his gloves and took his rededged
+breviary out. An ivory bookmark told him the page.</n1>
+
+<conmee>Nones. He should have read that before lunch. But lady Maxwell
+had come.</conmee>
+
+<n1>Father Conmee read in secret <latin>Pater</latin> and
+<latin>Ave</latin> and crossed his breast.</n1>
+
+<conmee><latin>Deus in adiutorium</latin>.</conmee>
+
+<n1>He walked calmly and read mutely the nones, walking and reading till he
+came to <latin>Res</latin> in</n1>
+
+<conmee><latin>Beati immaculati: Principium verborum tuorum
+veritas: in eternum omnia iuidicia iustiitiæ tuæ.</latin></conmee>
+
+<n1>A flushed young man came from a gap of a hedge and after him
+came a young woman with wild nodding daisies in her hand. The
+young man raised his cap abruptly: the young woman abruptly bent
+and with slow care detached from her light skirt a clinging twig.</n1>
+
+<n1>Father Conmee blessed both gravely and turned a thin page of
+his breviary. Sin.</n1>
+
+<conmee><latin>Principes persecuti sunt me gratis: et a verbis tuis
+formidavit cor meum.</latin></conmee>
+
+</rock>
+
+
+<!-- ============================================================== -->
+
+
+<rock id="2">
+
+<n2>Corny Kelleher closed his long daybook and glanced with his
+drooping eye at a pine coffinlid sentried in a corner. He pulled himself
+erect, went to it and, spinning it on its axle, viewed its shape and brass
+furnishings. Chewing his blade of hay he laid the coffinlid by and came
+to the doorway. There he tilted his hatbrim to give shade to his eyes
+and leaned against the doorcase, looking idly out.</n2>
+
+<interject>
+    <n1>Father John Conmee stepped into the Dollymount tram on
+    Newcomen bridge.</n1>
+</interject>
+
+<!-- page 216 -->
+<n2>Corny Kelleher locked his largefooted boots and gazed, his hat
+downtilted, chewing his blade of hay.</n2>
+
+<n2>Constable 57C, on his beat, stood to pass the time of day.</n2>
+
+<constable>That's a fine day, Mr Kelleher.</constable>
+
+<corny>Ay</corny>
+
+<constable>It's very close.</constable>
+
+<n2>Corny Kelleher sped a silent jet of hayjuice arching from his
+mouth while a generous white arm from a window in Eccles street
+flung forth a coin.</n2>
+
+<corny>What's the best news?</corny>
+
+<constable>I seen that particular party last evening.</constable>
+
+<n2>The constable said with bated breath.</n2>
+
+</rock>
+
+
+<!-- ============================================================== -->
+
+
+<rock id="3">
+
+<n3>A onelegged sailor crutched himself round MacConnell's corner,
+skirting Rabaiotti's icecream car, and jerked himself up Eccles street.
+Towards Larry O'Rourke, in shirtsleeves in his doorway, he growled
+unamiably.</n3>
+
+<sailor> <stage>Singing</stage> For England.</sailor>
+
+<n3>He swung himself violently forward past Katey and Boody
+Dedalus, halted and growled:</n3>
+
+<sailor> <stage>Singing</stage> home and beauty.</sailor>
+
+<interject>
+    <n8>J. J. O'Molloy's white careworn face was told that Mr Lambert
+    was in the warehouse with a visitor.</n8>
+</interject>
+
+<n3>A stout lady stopped, took a copper coin from her purse and
+dropped it into the cap held out to her. The sailor grumbled thanks
+and glanced sourly at the unheeding windows, sank his head and
+swung himself forward four strides.</n3>
+
+<n3>He halted and growled angrily:</n3>
+
+<sailor> <stage>Singing</stage> For England.</sailor>
+
+<n3>Two barefoot urchins, sucking long liquorice laces, halted near
+him, gaping at his stump with their yellowslobbered mouths.</n3>
+
+<n3>He swung himself forward in vigorous jerks, halted, lifted his
+head towards a window and bayed deeply:</n3>
+
+<sailor> <stage>Singing</stage> home and beauty.</sailor>
+
+<n3>The gay sweet chirping whistling within went on a bar or two,
+ceased. The blind of the window was drawn aside. A card <quote>Unfurnished
+Apartments</quote> slipped from the sash and fell. A plump bare generous arm
+shone, was seen, held forth from a white petticoatbodice and taut
+<!-- page 217 -->
+shiftstraps. A woman's hand flung forth a coin over the area railings.
+It fell on the path.</n3>
+
+<n3>One of the urchins ran to it, picked it up and dropped it into the
+minstrel's cap, saying:</n3>
+
+<urchin>There, sir.</urchin>
+
+</rock>
+
+
+<!-- ============================================================== -->
+
+
+<rock id="4">
+
+<n4>Katey and Boody Dedalus shoved in the door of the close
+steaming kitchen.</n4>
+
+<boody>Did you put in the books?</boody>
+
+<n4>Maggy at the range rammed down a greyish mass beneath
+bubbling suds twice with her potstick and wiped her brow.</n4>
+
+<maggy>They wouldn't give anything on them.</maggy>
+
+<interject>
+    <n1>Father Conmee walked through Clongowes field, his thinsocked
+    ankles tickled by stubble.</n1>
+</interject>
+
+<boody>Where did you try?</boody>
+
+<maggy>M'Guinness's.</maggy>
+
+<n4>Boody stamped her foot and threw her satchel on the table.</n4>
+
+<boody>Bad cess to her big face!</boody>
+
+<n4>Katey went to the range and peered with squinting eyes.</n4>
+
+<katey>What's in the pot?</katey>
+
+<maggy>Shirts.</maggy>
+
+<boody><stage>angrily</stage> Crickey, is there nothing for us to eat?</boody>
+
+<n4>Katey, lifting the kettlelid in a pad of her stained shirt, asked:</n4>
+
+<katey>And what's in this?</katey>
+
+<n4>A heavy fume gushed in answer.</n4>
+
+<maggy>Peasoup.</maggy>
+
+<katey>Where did you get it?</katey>
+
+<maggy>Sister Mary Patrick.</maggy>
+
+<n4>The lacquey rang his bell.</n4>
+
+<lacquey>Barang!</lacquey>
+
+<n4>Boody sat down at the table and said hungrily:</n4>
+
+<boody>Give us it here!</boody>
+
+<n4>Maggy poured yellow thick soup from the kettle into a bowl.
+Katey, sitting opposite Boody, said quietly, as her fingertip lifted to
+her mouth random crumbs.</n4>
+
+<boody>A good job we have that much. Where's Dilly?</boody>
+
+<maggy>Gone to meet father.</maggy>
+
+<!-- page 218 -->
+<n4>Boody, breaking big chunks of bread into the yellow soup,
+added:</n4>
+
+<boody>Our father who art not in heaven.</boody>
+
+<n4>Maggy, pouring yellow soup in Katey's bowl, exclaimed:</n4>
+
+<maggy>Boody! For shame!</maggy>
+
+<interject>
+    <nstar>A skiff, a crumpled throwaway, Elijah is coming, rode lightly
+    down the Liffey, under Loopline bridge, shooting the rapids where
+    water chafed around the bridgepiers, sailing eastward past hulls and
+    anchorchains, between the Customhouse old dock and George's quay.</nstar>
+</interject>
+
+</rock>
+
+
+<!-- ============================================================== -->
+
+
+<rock id="5">
+
+<n5>The blond girl in Thornton's bedded the wicker basket with
+rustling fibre. Blazes Boylan handed her the bottle swathed in pink
+tissue paper and a small jar.</n5>
+
+<blazes>Put these in first, will you?</blazes>
+
+<blond-girl>Yes, sir, and the fruit on top.</blond-girl>
+
+<blazes>That'll do, game ball.</blazes>
+
+<n5>She bestowed fat pears neatly, head by tail, and among them ripe
+shamefaced peaches.</n5>
+
+<n5>Blazes Boylan walked here and there in new tan shoes about the
+fruitsmelling shop, lifting fruits, young juicy crinkled and plump red
+tomatoes, sniffing smells.</n5>
+
+<n5>Aitch Ee Ell Wye Apostrophe Ess <stage>H.E.L.Y.'S.</stage>
+filed before him, tallwhitehatted, past Tangier
+lane, plodding towards their goal.</n5>
+
+<n5>He turned suddenly from a chip of strawberries, drew a gold
+watch from his fob and held it at its chain's length.</n5>
+
+<blazes>Can you send them by tram? Now?</blazes>
+
+<interject>
+    <nstar>A darkbacked figure under Merchants' arch scanned books on
+    the hawker's car.</nstar>
+</interject>
+
+<blond-girl>Certainly, sir. Is it in the city?</blond-girl>
+
+<blazes>O, yes. Ten minutes.</blazes>
+
+<n5>The blond girl handed him a docket and pencil.</n5>
+
+<blond-girl>Will you write the address, sir?</blond-girl>
+
+<n5>Blazes Boylan at the counter wrote and pushed the docket to her.</n5>
+
+<blazes>Send it at once, will you? It's for an invalid.</blazes>
+
+<blond-girl>Yes, sir. I will, sir.</blond-girl>
+
+<n5>Blazes Boylan rattled merry money in his trousers' pocket.</n5>
+
+<blazes>What's the damage?</blazes>
+
+<n5>The blond girl's slim fingers reckoned the fruits.</n5>
+
+<n5>Blazes Boylan looked into the cut of her blouse. A young pullet.
+<!-- page 219 -->
+He took a red carnation from the tall stemglass.</n5>
+
+<blazes>This for me?</blazes>
+
+<n5>He asked gallantly.</n5>
+
+<n5>The blond girl glanced sideways at him, got up regardless, with
+his tie a bit crooked, blushing.</n5>
+
+<blond-girl>Yes, sir.</blond-girl>
+
+<n5>Bending archly she reckoned again fat pears and blushing
+peaches.</n5>
+
+<n5>Blazes Boylan looked in her blouse with more favour, the stalk
+of the red flower between his smiling teeth.</n5>
+
+<blazes>May I say a word to your telephone, missy?</blazes>
+
+<n5>He asked roguishly.</n5>
+
+</rock>
+
+
+<!-- ============================================================== -->
+
+
+<rock id="6">
+
+<almidano><italian>Ma!</italian></almidano> 
+<n6>Almidano Artifoni said.</n6>
+
+<n6>He gazed over Stephen's shoulder at Goldsmith's knobby poll.</n6>
+
+<n6>Two carfuls of tourists passed slowly, their women sitting fore,
+gripping frankly the handrests. Palefaces. Men's arms frankly round
+their stunted forms. They looked from Trinity to the blind columned
+porch of the bank of Ireland where pigeons roocoocooed.</n6>
+
+<almidano><italian>Anch'io ho avuto di queste idee, quand'
+ero giovine come Lei. Eppoi me sono convinto che il mondo è una bestia. È
+peccato. Perchè la sua voce ... sarebbe un cespite di rendita, via.
+Invece, Lei si sacrifica.</italian></almidano>
+
+<stephen><italian>Sacrifizio incruento,</italian></stephen>
+
+<n6>Stephen said smiling, swaying his ashplant
+in slow swingswong from its midpoint, lightly.</n6>
+
+<almidano><italian>Speriamo.</italian></almidano>
+<n6>the round mustachioed face said pleasantly.</n6>
+<almidano><italian>Ma, dia retta a me. Ci rifletta.</italian></almidano>
+
+<n6>By the stern stone hand of Grattan, bidding halt, an Inchicore
+tram unloaded straggling Highland soldiers of a band.</n6>
+
+<stephen><italian>Ci rifletterò.</italian></stephen>
+<n6>Stephen said, glancing down the solid trouserleg.</n6>
+
+<almidano><italian>Ma, sul serio, eh?</italian></almidano>
+
+<n6>His heavy hand took Stephen's firmly. Human eyes. They gazed
+curiously an instant and turned quickly towards a Dalkey tram.</n6>
+
+<almidano><italian>Eccolo.</italian></almidano>
+<n6>Almidano Artifoni said in friendly haste.</n6>
+<almidano><italian>Venga a trovarmi e ci pensi.
+Addio, caro.</italian></almidano>
+
+<stephen><italian>Arrivederla, maestro.</italian></stephen>
+<n6>Stephen said, raising his hat when his hand was freed.</n6>
+<stephen><italian>E grazie.</italian></stephen>
+
+<almidano><italian>Di che? Scusi, eh? Tante belle cose!</italian></almidano>
+
+<n6>Almidano Artifoni, holding up a baton of rolled music as a signal,
+trotted on stout trousers after the Dalkey tram. In vain he trotted,
+<!-- page 220 -->
+signalling in vain among the rout of barekneed gillies smuggling
+implements of music through Trinity gates.</n6>
+
+</rock>
+
+
+<!-- ============================================================== -->
+
+
+<rock id="7">
+
+<n7>Miss Dunne hid the Capel street library copy of <title>The Woman in
+White</title> far back in her drawer and rolled a sheet of gaudy notepaper
+into her typewriter.</n7>
+
+<miss-dunne>Too much mystery business in it? Is he in love with that one,
+Marion? Change it and get another by Mary Cecil Haye.</miss-dunne>
+
+<n7>The disk shot down the groove, wobbled a while, ceased and
+ogled them: six.</n7>
+
+<n7>Miss Dunne clicked on the keyboard:</n7>
+
+<miss-dunne>16 June 1904.</miss-dunne>
+
+<interject>
+    <n5>Five tallwhitehatted sandwichmen between Monypeny's corner
+    and the slab where Wolfe Tone's statue was not, eeled themselves
+    turning Aitch Ee Ell Wye Apostrophe Ess <stage>H.E.L.Y.'S.</stage>
+    and plodded back as they had come.</n5>
+</interject>
+
+<n7>Then she stared at the large poster of Marie Kendall, charming
+soubrette, and, listlessly lolling, scribbled on the jotter sixteens and
+capital esses.</n7>
+
+<miss-dunne>Mustard hair and dauby cheeks. She's not nicelooking,
+is she? The way she is holding up her bit of a skirt. Wonder will that
+fellow be at the band tonight. If I could get that dressmaker to make
+a concertina skirt like Susy Nagle's. They kick out grand. Shannon and
+all the boatclub swells never took his eyes off her. Hope to goodness
+he won't keep me here till seven.</miss-dunne>
+
+<n7>The telephone rang rudely by her ear.</n7>
+
+<miss-dunne>Hello. | Yes, sir. | No, sir. | Yes, sir. |
+I'll ring them up after five. |
+Only those two, sir, for Belfast and Liverpool. | All right, sir. | Then I
+can go after six if you're not back. | A quarter after. | Yes, sir. |
+Twentyseven and six. | I'll tell him. | Yes: | one, seven, six.</miss-dunne>
+
+<n7>She scribbled three figures on an envelope.</n7>
+
+<miss-dunne>Mr Boylan! | Hello! | That gentleman from Sport was in looking
+for you. | Mr Lenehan, yes. | He said he'll be in the Ormond at four. | No,
+sir. | Yes, sir. | I'll ring them up after five.</miss-dunne>
+
+</rock>
+
+
+<!-- ============================================================== -->
+
+
+<rock id="8">
+
+<n8>Two pink faces turned in the flare of the tiny torch.</n8>
+
+<lambert>Who's that?</lambert>
+<n8>Ned Lambert asked.</n8>
+<lambert>Is that Crotty?</lambert>
+
+<jjom>Ringabella and Crosshaven.</jjom>
+<n8>A voice replied, groping for foothold.</n8>
+
+<!-- page 221 -->
+<lambert>Hello, Jack, is that yourself?</lambert>
+<n8>Ned Lambert said, raising in
+salute his pliant lath among the flickering arches.</n8>
+<lambert>Come on. Mind your steps there.</lambert>
+
+<n8>The vesta in the clergyman's uplifted hand consumed itself in a
+long soft flame and was let fall. At their feet its red speck died: and
+mouldy air closed round them.</n8>
+
+<rev-love>How interesting!</rev-love>
+<n8>A refined accent said in the gloom.</n8>
+
+<lambert> <stage>heartily</stage> Yes, sir. We are standing in the
+historic council chamber of saint Mary's abbey where silken Thomas
+proclaimed himself a rebel in 1534. This is the most historic spot in
+all Dublin. O'Madden Burke is going to write something about it one
+of these days. The old bank of Ireland was over the way till the time
+of the union and the original jews' temple was here too before they
+built their synagogue over in Adelaide road. You were never here
+before, Jack, were you?</lambert>
+
+<jjom>No, Ned.</jjom>
+
+<rev-love>He rode down through Dame walk,
+if my memory serves me. The mansion of the Kildares was in Thomas
+court.</rev-love>
+
+<lambert>That's right. That's quite right, sir.</lambert>
+
+<rev-love>If you will be so kind then, the next time
+to allow me perhaps ...</rev-love>
+
+<lambert>Certainly. Bring the camera whenever you
+like. I'll get those bags cleared away from the windows. You can take
+it from here or from here.</lambert>
+
+<n8>In the still faint light he moved about, tapping with his lath the
+piled seedbags and points of vantage on the floor.</n8>
+
+<interject>
+    <n16>From a long face a beard and gaze hung on a chessboard.</n16>
+</interject>
+
+<rev-love>I'm deeply obliged, Mr Lambert. I won't
+trespass on your valuable time...</rev-love>
+
+<lambert>You're welcome, sir. Drop in whenever
+you like. Next week, say. Can you see?</lambert>
+
+<rev-love>Yes, yes. Good afternoon, Mr Lambert. Very pleased to have
+met you.</rev-love>
+
+<lambert>Pleasure is mine, sir.</lambert>
+
+<n8>He followed his guest to the outlet and then whirled his lath away
+among the pillars. With J. J. O'Molloy he came forth slowly into
+Mary's abbey where draymen were loading floats with sacks of carob
+and palmnut meal, O'Connor, Wexford.</n8>
+
+<n8>He stood to read the card in his hand.</n8>
+
+<lambert>The reverend Hugh C. Love, Rathcoffey. Present address:
+<!-- page 222 -->
+Saint Michael's, Sallins. Nice young chap he is. He's writing a book
+about the Fitzgeralds he told me. He's well up in history, faith.</lambert>
+
+<n1>The young woman with slow care detached from her light skirt
+a clinging twig.</n1>
+
+<jjom>I thought you were at a new gunpowder plot.</jjom>
+<n8>J. J. O'Molloy said.</n8>
+
+<n8>Ned Lambert cracked his fingers in the air.</n8>
+
+<lambert>God. I forgot to tell him that one about the earl of
+Kildare after he set fire to Cashel cathedral. You know that one? <quote>I'm
+bloody sorry I did it,</quote> says he,
+<quote>but I declare to God I thought the archbishop
+was inside.</quote> He mightn't like it, though. What? God, I'll tell him
+anyhow. That was the great earl, the Fitzgerald Mor. Hot members
+they were all of them, the Geraldines.</lambert>
+
+<n8>The horses he passed started nervously under their slack harness.
+He slapped a piebald haunch quivering near him and cried:</n8>
+
+<lambert>Woa, sonny!</lambert>
+
+<n8>He turned to J. J. O'Molloy and asked:</n8>
+
+<lambert>Well, Jack. What is it? What's the trouble? Wait a while.
+Hold hard.</lambert>
+
+<n8>With gaping mouth and head far back he stood still and, after an
+instant, sneezed loudly.</n8>
+
+<lambert>Chow! Blast you!</lambert>
+
+<jjom>The dust from those sacks.</jjom>
+<omit>J. J. O'Molloy said politely.</omit>
+
+<lambert> <stage>gasping</stage> No, I caught a ... cold night before
+... blast your soul ... night before last ... and there was a hell of
+a lot of draught ...</lambert>
+
+<n8>He held his handkerchief ready for the coming ...</n8>
+
+<lambert>I was ... this morning ... poor little ... what do you call
+him ... Chow! ... Mother of Moses!</lambert>
+
+</rock>
+
+
+<!-- ============================================================== -->
+
+
+<rock id="9">
+
+<n9>Tom Rochford took the top disk from the pile he clasped against
+his claret waistcoat.</n9>
+
+<rochford>See? Say it's turn six. In here, see. Turn Now On.</rochford>
+
+<n9>He slid it into the left slot for them. It shot down the groove,
+wobbled a while, ceased, ogling them: six.</n9>
+
+<interject>
+    <nstar>Lawyers of the past, haughty, pleading, beheld pass from the
+    consolidated taxing office to Nisi Prius court Richie Goulding
+    carrying the costbag of Goulding, Collis and Ward and heard rustling from
+    the admiralty division of king's bench to the court of appeal an elderly
+<!-- page 223 -->
+    female with false teeth smiling incredulously and a black silk skirt
+    of great amplitude.</nstar>
+</interject>
+
+<rochford>See? See now the last one I put in is over here. Turns
+Over. The impact. Leverage, see?</rochford>
+
+<n9>He showed them the rising column of disks on the right.</n9>
+
+<nosey>Smart idea,</nosey>
+<n9>Nosey Flynn said, snuffling.</n9>
+<nosey>So a fellow coming in
+late can see what turn is on and what turns are over.</nosey>
+
+<rochford>See?</rochford>
+
+<n9>He slid in a disk for himself: and watched it shoot, wobble, ogle,
+stop: four. Turn Now On.</n9>
+
+<lenehan>I'll see him now in the Ormond,</lenehan>
+<n9>Lenehan said,</n9>
+<lenehan>and sound him.
+One good turn deserves another.</lenehan>
+
+<rochford>Do. Tell him I'm Boylan with impatience.</rochford>
+
+<mcoy>Good night.</mcoy>
+<n9>M'Coy said abruptly.</n9>
+<mcoy>when you two begin ...</mcoy>
+
+<n9>Nosey Flynn stooped towards the lever, snuffling at it.</n9>
+
+<n9>But how does it work here, Tommy?</n9>
+
+<lenehan>Tooraloo, see you later.</lenehan>
+
+<n9>He followed M'Coy out across the tiny square of Crampton
+court.</n9>
+
+<lenehan>He's a hero.</lenehan>
+
+<mcoy>I know. The drain, you mean.</mcoy>
+
+<lenehan>Drain? It was down a manhole.</lenehan>
+
+<n9>They passed Dan Lowry's musichall where Marie Kendall,
+charming soubrette, smiled on them from a poster a dauby smile.</n9>
+
+<n9>Going down the path of Sycamore street beside the Empire
+musichall Lenehan showed M'Coy how the whole thing was.</n9>
+
+<lenehan>One of
+those manholes like a bloody gaspipe and there was the poor devil
+stuck down in it half choked with sewer gas. Down went Tom
+Rochford anyhow, booky's vest and all, with the rope round him. And be
+damned but he got the rope round the poor devil and the two were
+hauled up.</lenehan>
+
+<lenehan>The act of a hero.</lenehan>
+
+<n9>At the Dolphin they halted to allow the ambulance car to gallop
+past them for Jervis street.</n9>
+
+<lenehan>This way.</lenehan>
+<n9>He said, walking to the right.</n9>
+<lenehan>I want to pop into
+Lynam's to see Sceptre's starting price. What's the time by your gold
+watch and chain?</lenehan>
+
+<n9>M'Coy peered into Marcus Tertius Moses' sombre office, then at
+O'Neill's clock.</n9>
+
+<mcoy>After three. Who's riding her?</mcoy>
+
+<lenehan>O. Madden. And a game filly she is.</lenehan>
+
+<!-- page 224 -->
+<n9>While he waited in Temple bar M'Coy dodged a banana peel
+with gentle pushes of his toe from the path to the gutter.</n9>
+
+<mcoy>Fellow might
+damn easy get a nasty fall there coming along tight in the dark.</mcoy>
+
+<n9>The gates of the drive opened wide to give egress to the viceregal
+cavalcade.</n9>
+
+<lenehan>Even money. I knocked against
+Bantam Lyons in there going to back a bloody horse someone gave him
+that hasn't an earthly. Through here.</lenehan>
+
+<n9>They went up the steps and under Merchants' arch. A darkbacked
+figure scanned books on the hawker's cart.</n9>
+
+<lenehan>There he is.</lenehan>
+
+<mcoy>Wonder what he is buying.</mcoy>
+
+<lenehan>Leopoldo or the Bloom is on the Rye.</lenehan>
+
+<mcoy>He's dead nuts on sales. I was with him one day
+and he bought a book from an old one in Liffey street for two bob.
+There were fine plates in it worth double the money, the stars and the
+moon and comets with long tails. Astronomy it was about.</mcoy>
+
+<n9>Lenehan laughed.</n9>
+
+<lenehan>I'll tell you a damn good one about comets' tails.
+Come over in the sun.</lenehan>
+
+<n9>They crossed to the metal bridge and went along Wellington
+quay by the river wall.</n9>
+
+<interject>
+    <n18>Master Patrick Aloysius Dignam came out of Mangan's, late
+    Fehrenbach's, carrying a pound and a half of porksteaks.</n18>
+</interject>
+
+<lenehan>There was a big spread out at Glencree reformatory.
+The annual dinner you know. Boiled shirt affair. The
+lord mayor was there, Val Dillon it was, and sir Charles Cameron and
+Dan Dawson spoke and there was music. Bartell D'Arcy sang and
+Benjamin Dollard ...</lenehan>
+
+<mcoy>I know. My missus sang there once.</mcoy>
+
+<lenehan>Did she?</lenehan>
+
+<interject>
+    <n3>A card <quote>Unfurnished Apartments</quote>
+    reappeared on the windowsash of
+    number 7 Eccles street.</n3>
+</interject>
+
+<n9>He checked his tale a moment but broke out in a wheezy laugh.</n9>
+
+<lenehan>But wait till I tell you, Delahunt of Camden street had
+the catering and yours truly was chief bottlewasher. Bloom and the
+wife were there. Lashings of stuff we put up: port wine and sherry and
+curaçao to which we did ample justice. Fast and furious it was. After
+liquids came solids. Cold joints galore and mince pies ...</lenehan>
+
+<mcoy>I know. The year the missus was there ...</mcoy>
+
+<n9>Lenehan linked his arm warmly.</n9>
+
+<!-- page 225 -->
+<lenehan>But wait till I tell you. We had a midnight lunch too
+after all the jollification and when we sallied forth it was blue o'clock
+the morning after the night before. Coming home it was a gorgeous
+winter's night on the Featherbed Mountain. Bloom and Chris Callinan
+were on one side of the car and I was with the wife on the other. We
+started singing glees and duets:
+<quote>Lo, the early beam of morning.</quote> She was
+well primed with a good load of Delahunt's port under her bellyband.
+Every jolt the bloody car gave I had her bumping up against me.
+Hell's delights! She has a fine pair, God bless her. Like that.</lenehan>
+
+<n9>He held his caved hands a cubit from him, frowning:</n9>
+
+<lenehan>I was tucking the rug under her and settling her boa all the
+time. Know what I mean?</lenehan>
+
+<n9>His hands moulded ample curves of air. He shut his eyes tight
+in delight, his body shrinking, and blew a sweet chirp from his lips.</n9>
+
+<lenehan>The lad stood to attention anyhow. She's
+a gamey mare and no mistake. Bloom was pointing out all the stars
+and the comets in the heavens to Chris Callinan and the jarvey: the
+great bear and Hercules and the dragon and the whole jingbang lot.
+But, by God, I was lost, so to speak, in the milky way. He knows them
+all, faith. At last she spotted a weeny weeshy one miles away. <quote>And
+what star is that, Poldy?</quote> says she. By God, she had Bloom cornered.
+<quote>That one, is it?</quote> says Chris Callinan,
+<quote>sure that's only what you might call
+a pinprick.</quote> By God, he wasn't far wide of the mark.</lenehan>
+
+<n9>Lenehan stopped and leaned on the riverwall, panting with soft
+laughter.</n9>
+
+<lenehan> <stage>gasping</stage> I'm weak.</lenehan>
+
+<n9>M'Coy's white face smiled about it at instants and grew grave.
+Lenehan walked on again. He lifted his yachtingcap and scratched his
+hindhead rapidly. He glanced sideways in the sunlight at M'Coy.</n9>
+
+<lenehan>He's a cultured allroundman, Bloom is. He's not one of
+your common or garden ... you know ... There's a touch
+of the artist about old Bloom.</lenehan>
+
+</rock>
+
+
+<!-- ============================================================== -->
+
+
+<rock id="10">
+
+<n10>Mr Bloom turned over idly pages of <title>The Awful Disclosures of
+Maria Monk</title>, then of Aristotle's <title>Masterpiece</title>.</n10>
+
+<bloom>Crooked botched print.
+Plates: infants cuddled in a ball in bloodred wombs like livers of
+slaughtered cows. Lots of them like that at this moment all over the
+world. All butting with their skulls to get out of it.
+<stage>falsetto</stage> Child born every
+minute somewhere. Mrs Purefoy.</bloom>
+
+<!-- page 226 -->
+<n10>He laid both books aside and glanced at the third: <title>Tales of the
+Ghetto</title> by Leopold von Sacher Masoch.</n10>
+
+<bloom>That I had.</bloom>
+
+<n10>The shopman let two volumes fall on the counter.</n10>
+
+<shopman>Them are two good ones.</shopman>
+
+<n10>Onions of his breath came across the counter out of his ruined
+mouth. He bent to make a bundle of the other books, hugged them
+against his unbuttoned waistcoat and bore them off behind the dingy
+curtain.</n10>
+
+<interject>
+    <nstar>On O'Connell bridge many persons observed the grave
+    deportment and gay apparel of Mr Denis J. Maginni, professor of
+    dancing etc.</nstar>
+</interject>
+
+<n10>Mr Bloom, alone, looked at the titles. <title>Fair Tyrants</title> by James
+Lovebirch.</n10>
+
+<bloom>Know the kind that is. Had it? Yes.</bloom>
+
+<n10>He opened it.</n10>
+<bloom>Thought so.</bloom>
+
+<n10>A woman's voice behind the dingy curtain.</n10>
+
+<woman>Listen: The man.</woman>
+
+<bloom>No: she wouldn't like that much. Got her it once.</bloom>
+
+<n10>He read the other title: <title>Sweets of Sin</title>.</n10>
+
+<bloom>More in her line. Let us see.</bloom>
+
+<n10>He read where his finger opened.</n10>
+
+<book>All the dollarbills her husband gave her were spent in the stores on
+wondrous gowns and costliest frillies. For him! For Raoul!</book>
+
+<bloom>Yes. This. Here. Try.</bloom>
+
+<book>Her mouth glued on his in a luscious voluptuous kiss while his hands
+felt for the opulent curves inside her déshabillé.</book>
+
+<bloom>Yes. Take this. The end.</bloom>
+
+<book>You are late, he spoke hoarsely, eyeing her with a suspicious
+glare.</book>
+
+<book>The beautiful woman threw off her sabletrimmed wrap, displaying her
+queenly shoulders and heaving embonpoint. An imperceptible smile played
+round her perfect lips as she turned to him calmly.</book>
+
+<n10>Mr Bloom read again:</n10>
+<bloom> <unsure/> The beautiful woman.</bloom>
+
+<n10>Warmth showered gently over him, cowing his flesh. Flesh
+yielded amid rumpled clothes. Whites of eyes swooning up. His
+nostrils arched themselves for prey. Melting breast ointments</n10>
+<book>(for him! For Raoul!)</book>
+<n10>Armpits' oniony sweat. Fishgluey slime</n10>
+<book>(her heaving embonpoint!).</book>
+<n10>Feel! Press! Crushed! Sulphur dung of lions!</n10>
+
+<bloom>Young! Young!</bloom>
+
+<interject>
+    <nstar>An elderly female, no more young, left the building of the courts
+    of chancery, king's bench, exchequer and common pleas having heard
+    in the lord chancellor's court the case in lunacy of Potterton, in the
+    admiralty division the summons, exparte motion, of the owners of the
+    Lady Cairns versus the owners of the barque Mona, in the court of
+<!-- page 227 -->
+    appeal reservation of judgment in the case of Harvey versus the Ocean
+    Accident and Guarantee Corporation.</nstar>
+</interject>
+
+<n10>Phlegmy coughs shook the air of the bookshop, bulging out the
+dingy curtains. The shopman's uncombed grey head came out and his
+unshaven reddened face, coughing. He raked his throat rudely, spat
+phlegm on the floor. He put his boot on what he had spat, wiping his
+sole along it and bent, showing a rawskinned crown, scantily haired.</n10>
+
+<n10>Mr Bloom beheld it.</n10>
+
+<n10>Mastering his troubled breath, he said:</n10>
+
+<bloom>I'll take this one.</bloom>
+
+<n10>The shopman lifted eyes bleared with old rheum.</n10>
+
+<shopman><title>Sweets of Sin</title>. <stage>tapping on book</stage>
+That's a good one.</shopman>
+
+</rock>
+
+
+<!-- ============================================================== -->
+
+
+<rock id="11">
+
+<n11>The lacquey by the door of Dillon's auctionrooms shook his
+handbell twice again and viewed himself in the chalked mirror of the
+cabinet.</n11>
+
+<n11>Dilly Dedalus, listening by the curbstone, heard the beats of the
+bell, the cries of the auctioneer within.</n11>
+
+<auctioneer>Four and nine. Those lovely
+curtains. Five shillings. Cosy curtains. Selling new at two guineas. Any
+advance on five shillings? Going for five shillings.</auctioneer>
+
+<n11>The lacquey lifted his handbell and shook it:</n11>
+
+<lacquey>Barang!</lacquey>
+
+<interject>
+    <n19>Bang of the lastlap bell spurred the halfmile wheelmen to their
+    sprint. J. A. Jackson, W. E. Wylie, A. Munro and H. T. Gahan,
+    their stretched necks wagging, negotiated the curve by the College
+    Library.</n19>
+</interject>
+
+<n11>Mr Dedalus, tugging a long moustache, came round from
+Williams's row. He halted near his daughter.</n11>
+
+<dilly>It's time for you.</dilly>
+
+<simon>Stand up straight for the love of the Lord Jesus.
+Are you trying to imitate your uncle John the cornetplayer, head
+upon shoulders? Melancholy God!</simon>
+
+<n11>Dilly shrugged her shoulders. Mr Dedalus placed his hands on
+them and held them back.</n11>
+
+<simon>Stand up straight, girl. You'll get curvature of the
+spine. Do you know what you look like?</simon>
+
+<n11>He let his head sink suddenly down and forward, hunching his
+shoulders and dropping his underjaw.</n11>
+
+<dilly>Give it up, father. All the people are looking at you.</dilly>
+
+<!-- page 228 -->
+<n11>Mr Dedalus drew himself upright and tugged again at his
+moustache.</n11>
+
+<dilly>Did you get any money?</dilly>
+
+<simon>Where would I get money? There is no-one in Dublin
+would lend me fourpence.</simon>
+
+<dilly>You got some.</dilly>
+
+<simon>How do you know that?</simon>
+<omit>Mr Dedalus asked, his tongue in his cheek.</omit>
+
+<interject>
+    <n12>Mr Kernan, pleased with the order he had booked, walked
+    boldly along James's street.</n12>
+</interject>
+
+<dilly>I know you did. Were you in the Scotch house now?</dilly>
+
+<simon>I was not then. Was it the little nuns
+taught you to be so saucy? Here.</simon>
+
+<n11>He handed her a shilling.</n11>
+
+<simon>See if you can do anything with that.</simon>
+
+<dilly>I suppose you got five. Give me more than that.</dilly>
+
+<simon> <stage>threateningly</stage> Wait awhile. You're like the
+rest of them, are you? An insolent pack of little bitches since your poor
+mother died. But wait awhile. You'll all get a short shrift and a long
+day from me. Low blackguardism! I'm going to get rid of you.
+Wouldn't care if I was stretched out stiff. He's dead. The man upstairs
+is dead.</simon>
+
+<n11>He left her and walked on. Dilly followed quickly and pulled
+his coat.</n11>
+
+<simon>Well, what is it?</simon>
+<omit>He said, stopping.</omit>
+
+<n11>The lacquey rang his bell behind their backs.</n11>
+
+<lacquey>Barang!</lacquey>
+
+<simon>Curse your bloody blatant soul.</simon>
+<omit>Mr Dedalus cried, turning on him.</omit>
+
+<n11>The lacquey, aware of comment, shook the lolling clapper of his
+bell but feebly:</n11>
+
+<lacquey>Bang!</lacquey>
+
+<n11>Mr Dedalus stared at him.</n11>
+
+<simon>Watch him. It's instructive. I wonder will he allow us
+to talk.</simon>
+
+<dilly>You got more than that, father.</dilly>
+
+<simon>I'm going to show you a little trick. I'll leave
+you all where Jesus left the jews. Look, that's all I have. I got two
+shillings from Jack Power and I spent twopence for a shave for the
+funeral.</simon>
+
+<!-- page 229 -->
+<n11>He drew forth a handful of copper coins nervously.</n11>
+
+<dilly>Can't you look for some money somewhere?</dilly>
+
+<n11>Mr Dedalus thought and nodded.</n11>
+
+<simon> <stage>gravely</stage> I will. I looked all along the gutter in
+O'Connell street. I'll try this one now.</simon>
+
+<dilly> <stage>grinning</stage> You're very funny</dilly>
+
+<simon>Here.</simon>
+
+<n11>Mr Dedalus said, handing her two pennies.</n11>
+
+<simon>Get a glass of
+milk for yourself and a bun or a something. I'll be home shortly.</simon>
+
+<n11>He put the other coins in his pocket and started to walk on.</n11>
+
+<interject>
+    <n19>The viceregal cavalcade passed, greeted by obsequious
+    policemen, out of Parkgate.</n19>
+</interject>
+
+<dilly>I'm sure you have another shilling.</dilly>
+
+<lacquey><stage>Lacquey bangs loudly.</stage></lacquey>
+
+<n11>Mr Dedalus amid the din walked off, murmuring to himself with
+a pursing mincing mouth:</n11>
+
+<simon>The little nuns! Nice little things! O, sure they wouldn't do
+anything! O, sure they wouldn't really! Is it little sister
+Monica!</simon>
+
+</rock>
+
+
+<!-- ============================================================== -->
+
+
+<rock id="12">
+
+<n12>From the sundial towards James's Gate walked Mr Kernan
+pleased with the order he had booked for Pulbrook Robertson,
+boldly along James's street, past Shackleton's offices.</n12>
+
+<kernan>Got round him
+all right. How do you do, Mr Crimmins?</kernan>
+
+<crimmins>First rate, sir.</crimmins>
+
+<kernan>I was afraid
+you might be up in your other establishment in Pimlico. How are
+things going?</kernan>
+
+<crimmins>Just keeping alive.</crimmins>
+
+<kernan>Lovely weather we are having.</kernan>
+
+<crimmins>Yes, indeed.</crimmins>
+
+<kernan>Good for the country. Those farmers are always
+grumbling. I'll take a thimbleful of your best gin, Mr Crimmins.</kernan>
+
+<crimmins>A small
+gin, sir. Yes, sir.</crimmins>
+
+<kernan>Terrible affair that General Slocum explosion.</kernan>
+
+<crimmins>Terrible, terrible!</crimmins>
+
+<kernan>A thousand casualties. And heartrending scenes. Men
+trampling down women and children. Most brutal thing.</kernan>
+
+<crimmins>What do
+they say was the cause?</crimmins>
+
+<kernan>Spontaneous combustion: most scandalous
+revelation. Not a single lifeboat would float and the firehose all
+burst.</kernan>
+
+<crimmins>What I can't understand is how the inspectors ever allowed a
+boat like that ...</crimmins>
+
+<kernan>Now you are talking straight, Mr Crimmins. You
+know why? <stage>rubbing fingers</stage> Palmoil.</kernan>
+
+<crimmins>Is that a fact?</crimmins>
+
+<kernan>Without a doubt.</kernan>
+
+<crimmins>Well now, look at that.</crimmins>
+
+<kernan>And America they say is the land of the free. I thought we
+were bad here.</kernan>
+
+<kernan><omit>I smiled at him.</omit>
+<quote>America</quote>, <omit>I said, quietly, just like that.</omit>
+<quote>What is it?
+The sweepings of every country including our own.
+Isn't that true?</quote></kernan>
+
+<crimmins>That's a fact.</crimmins>
+
+<!-- page 230 -->
+<kernan>Graft, my dear sir. Well, of course, where there's money going
+there's always someone to pick it up. ||</kernan>
+
+<kernan>Saw him looking at my frockcoat. Dress does it. Nothing like a
+dressy appearance. Bowls them over.</kernan>
+
+<interject>
+    <cowley>Hello, Simon.</cowley>
+    <n14>Father Cowley said.</n14>
+    <cowley>How are things?</cowley>
+
+    <simon>Hello, Bob, old man.</simon>
+    <n14>Mr Dedalus answered stopping.</n14>
+</interject>
+
+<n12>Mr Kernan halted and preened himself before the sloping mirror
+of Peter Kennedy, hairdresser.</n12>
+
+<kernan>Stylish coat, beyond a doubt. | Scott of
+Dawson street. | Well worth the half sovereign I gave Neary for it. |
+Never built under three guineas. Fits me down to the ground. | Some
+Kildare street club toff had it probably. || John Mulligan, the manager
+of the Hibernian bank, gave me a very sharp eye yesterday on Carlisle
+bridge as if he remembered me.</kernan>
+
+<kernan>Aham! | Must dress the character for those fellows. Knight of the
+road. Gentleman. || And now, Mr Crimmins, may we have the honour
+of your custom again, sir. The cup that cheers but not inebriates, as
+the old saying has it.</kernan>
+
+<interject>
+    <nstar>North wall and sir John Rogerson's quay, with hulls and
+    anchorchains, sailing westward, sailed by a skiff, a crumpled throwaway,
+    rocked on the ferry-wash, Elijah is coming.</nstar>
+</interject>
+
+<n12>Mr Kernan glanced in farewell at his image.</n12>
+
+<kernan>High colour, of
+course. Grizzled moustache. Returned Indian officer. Bravely he bore
+his stumpy body forward on spatted feet, squaring his shoulders. Is
+that Lambert's brother over the way, Sam? What? Yes. He's as like
+it as damn it. No. The windscreen of that motorcar in the sun there.
+Just a flash like that. Damn like him.</kernan>
+
+<kernan>Aham!</kernan>
+<n12>Hot spirit of juniper juice warmed his vitals and his breath.</n12>
+<kernan>Good drop of gin, that was.</kernan>
+<stage>Exit Crimmins</stage>
+<n12>His frocktails winked in bright
+sunshine to his fat strut.</n12>
+
+<kernan>Down there Emmet was hanged, drawn and quartered. Greasy
+black rope. Dogs licking the blood off the street when the lord
+lieutenant's wife drove by in her noddy.</kernan>
+
+<kernan>Let me see. Is he buried in saint Michan's? Or no, there was a
+midnight burial in Glasnevin. Corpse brought in through a secret
+door in the wall. Dignam is there now. Went out in a puff. Well, well.
+Better turn down here. Make a detour.</kernan>
+
+<n12>Mr Kernan turned and walked down the slope of Watling street
+by the corner of Guinness's visitors' waitingroom. Outside the
+Dublin Distillers Company's stores an outside car without fare or
+jarvey stood, the reins knotted to the wheel.</n12>
+
+<kernan>Damn dangerous thing.
+<!-- page 231 -->
+Some Tipperary bosthoon endangering the lives of the citizens. Runaway
+horse.</kernan>
+
+<interject>
+    <nstar>Denis Breen with his tomes, weary of having waited an hour in
+    John Henry Menton's office, led his wife over O'Connell bridge,
+    bound for the office of Messrs Collis and Ward.</nstar>
+</interject>
+
+<n12>Mr Kernan approached Island street.</n12>
+
+<kernan>Times of the troubles. || Must ask Ned Lambert to lend me those
+reminiscences of sir Jonah Barrington. | When you look back on it all
+now in a kind of retrospective arrangement. || Gaming at Daly's. No
+cardsharping then. One of those fellows got his hand nailed to the
+table with a dagger. || Somewhere here Lord Edward Fitzgerald escaped
+from major Sirr. Stables behind Moira house.</kernan>
+
+<kernan>Damn good gin that was.</kernan>
+
+<kernan>Fine dashing young nobleman. Good stock, of course. That
+ruffian, that sham squire, with his violet gloves, gave him away.
+Course they were on the wrong side. "They rose in dark and evil days."
+Fine poem that is: Ingram. They were gentlemen. Ben Dollard does
+sing that ballad touchingly. Masterly rendition.</kernan>
+
+<dollard><song>At the siege of Ross did my father fall.</song></dollard>
+
+<n12>A cavalcade in easy trot along Pembrook quay passed,
+outriders leaping, leaping in their, in their saddles. Frockcoats. Cream
+sunshades.</n12>
+
+<n12>Mr Kernan hurried forward, blowing pursily.</n12>
+
+<kernan>His Excellency! Too bad! Just missed that by a hair. Damn it!
+What a pity!</kernan>
+
+</rock>
+
+
+<!-- ============================================================== -->
+
+
+<rock id="13">
+
+<n13>Stephen Dedalus watched through the webbed window the
+lapidary's fingers prove a timedulled chain.</n13>
+
+<stephen> <unsure/> Dust webbed the window and
+the showtrays. Dust darkened the toiling fingers with their vulture
+nails. Dust slept on dull coils of bronze and silver, lozenges of
+cinnabar, on rubies, leprous and winedark stones.</stephen>
+
+<stephen>Born all in the dark wormy earth, cold specks of fire, evil lights
+shining in the darkness. Where fallen archangels flung the stars of
+their brows. Muddy swinesnouts, hands, root and root, gripe and
+wrest them.</stephen>
+
+<stephen>She dances in a foul gloom where gum burns with garlic.</stephen>
+
+<n13>A sailorman, rustbearded, sips from a beaker rum and eyes her.</n13>
+
+<stephen>A long
+and seafed silent rut. She dances, capers, wagging her sowish
+<!-- page 232 -->
+haunches and her hips, on her gross belly flapping a ruby egg.</stephen>
+
+<n13>Old Russell with a smeared shammy rag burnished again his gem,
+turned it and held it at the point of his Moses' beard.</n13>
+
+<stephen>Grandfather ape
+gloating on a stolen hoard.</stephen>
+
+<stephen>And you who wrest old images from the burial earth! The
+brainsick words of sophists: Antisthenes. A lore of drugs. Orient and
+immortal wheat standing from everlasting to everlasting.</stephen>
+
+<n13>Two old women fresh from their whiff of the briny trudged
+through Irishtown along London bridge road, one with a
+sanded umbrella, one with a midwife's bag in which eleven cockles
+rolled.</n13>
+
+<n13>The whirr of flapping leathern bands and hum of dynamos from
+the powerhouse urged Stephen to be on.</n13>
+
+<stephen>Beingless beings. Stop!
+Throb always without you and the throb always within. Your heart
+you sing of. I between them. Where? Between two roaring worlds
+where they swirl, I. Shatter them, one and both. But stun myself too
+in the blow. Shatter me you who can. Bawd and butcher, were the
+words. I say! Not yet awhile. A look around.</stephen>
+
+<stephen>Yes, quite true. Very large and wonderful and keeps famous
+time. You say right, sir. A Monday morning, 'twas so, indeed.</stephen>
+
+<n13>Stephen went down Bedford row, the handle of the ash clacking
+against his shoulderblade. In Clohissey's window a faded 1860 print
+of Heenan boxing Sayers held his eye. Staring backers with square
+hats stood round the roped prizering. The heavyweights in light
+loincloths proposed gently each to other his bulbous fists.</n13>
+
+<stephen>And they are
+throbbing: heroes' hearts.</stephen>
+
+<n13>He turned and halted by the slanted bookcart.</n13>
+
+<huckster>Twopence each.</huckster>
+<n13>The huckster said.</n13>
+<huckster>Four for sixpence.</huckster>
+
+<stephen>Tattered pages. <title>The Irish Beekeeper</title>.
+<title>Life and Miracles of the Curé of
+Ars</title>. <title>Pocket Guide to Killarney</title>.</stephen>
+
+<stephen>I might find here one of my pawned schoolprizes. <latin>Stephano
+Dedalo, alumno optimo, palmam ferenti</latin>.</stephen>
+
+<interject>
+    <n1>Father Conmee, having read his little hours, walked through the
+    hamlet of Donnycarney, murmuring vespers.</n1>
+</interject>
+
+<stephen>Binding too good probably, what is this? Eighth and ninth book
+of Moses: Secret of all secrets. Seal of King David. Thumbed pages:
+read and read. Who has passed here before me? How to soften
+chapped hands. Recipe for white wine vinegar. How to win a
+woman's love. For me this. Say the following talisman three times
+with hands folded:</stephen>
+
+<stephen><latin>Se el yilo nebrakada femininum! Amor me solo!
+Sanktus! Amen</latin>.</stephen>
+
+<!-- page 233 -->
+<stephen>Who wrote this? Charms and invocations of the most blessed
+abbot Peter Salanka to all true believers divulged. As good as any
+other abbot's charms, as mumbling Joachim's. Down, baldynoddle,
+or we'll wool your wool.</stephen>
+
+<dilly>What are you doing here, Stephen.</dilly>
+
+<stephen>Dilly's high shoulders and shabby dress.</stephen>
+
+<stephen>Shut the book quick. Don't let see.</stephen>
+
+<stephen> <stage>to Dilly</stage> What are you doing?</stephen>
+
+<stephen>A Stuart face of nonesuch Charles, lank locks falling at its sides.
+It glowed as she crouched feeding the fire with broken boots. I told
+her of Paris. Late lieabed under a quilt of old overcoats, fingering a
+pinchbeck bracelet. Dan Kelly's token.
+<latin>Nebrakada femininum</latin>.</stephen>
+
+<stephen> <stage>to Dilly</stage> What have you there?</stephen>
+
+<dilly> <stage>laughing nervously</stage>
+I bought it from the other cart for a penny.
+Is it any good?</dilly>
+
+<stephen>My eyes they say she has. Do others see me so? Quick, far and
+daring. Shadow of my mind.</stephen>
+
+<n13>He took the coverless book from her hand. Chardenal's French
+primer.</n13>
+
+<stephen> <stage>to Dilly</stage> What did you buy that for?
+To learn French?</stephen>
+
+<n13>She nodded, reddening and closing tight her lips.</n13>
+
+<stephen>Show no surprise. Quite natural.</stephen>
+
+<stephen> <stage>to Dilly</stage> Here. It's all right. Mind Maggy doesn't pawn
+it on you. I suppose all my books are gone.</stephen>
+
+<dilly>Some. We had to.</dilly>
+
+<stephen>She is drowning. Agenbite. Save her. Agenbite. All against us.
+She will drown me with her, eyes and hair. Lank coils of seaweed hair
+around me, my heart, my soul. Salt green death.</stephen>
+
+<stephen>We.</stephen>
+
+<stephen>Agenbite of inwit. Inwit's agenbite.</stephen>
+
+<stephen>Misery! Misery!</stephen>
+
+</rock>
+
+
+<!-- ============================================================== -->
+
+
+<rock id="14">
+
+<cowley>Hello, Simon.</cowley>
+<n14>Father Cowley said.</n14>
+<cowley>How are things?</cowley>
+
+<simon>Hello, Bob, old man.</simon>
+<n14>Mr Dedalus answered, stopping.</n14>
+
+<n14>They clasped hands loudly outside Reddy and Daughter's.
+Father Cowley brushed his moustache often downward with a
+scooping hand.</n14>
+
+<simon>What's the best news?</simon>
+
+<cowley>Why then not much. I'm barricaded up,
+<!-- page 234 -->
+Simon, with two men prowling around the house trying to effect
+an entrance.</cowley>
+
+<simon>Jolly. Who is it?</simon>
+
+<cowley>O. A certain gombeen man of our
+acquaintance.</cowley>
+
+<simon>With a broken back, is it?</simon>
+
+<cowley>The same, Simon. Reuben of that
+ilk. I'm just waiting for Ben Dollard. He's going to say a word to Long
+John to get him to take those two men off. All I want is a little time.</cowley>
+
+<n14>He looked with vague hope up and down the quay, a big apple
+bulging in his neck.</n14>
+
+<simon>I know. Poor old bockedy Ben!
+He's always doing a good turn for someone. Hold hard!</simon>
+
+<n14>He put on his glasses and gazed towards the metal bridge an
+instant.</n14>
+
+<simon>There he is, by God, arse and pockets.</simon>
+
+<n14>Ben Dollard's loose blue cutaway and square hat above large
+slops crossed the quay in full gait from the metal bridge. He came
+towards them at an amble, scratching actively behind his coattails.</n14>
+
+<n14>As he came near Mr Dedalus greeted:</n14>
+
+<simon>Hold that fellow with the bad trousers.</simon>
+
+<dollard>Hold him now.</dollard>
+<n14>Ben Dollard said.</n14>
+
+<n14>Mr Dedalus eyed with cold wandering scorn various points of
+Ben Dollard's figure. Then, turning to Father Cowley with a nod, he
+muttered sneeringly:</n14>
+
+<simon>That's a pretty garment, isn't it, for a summer's day?</simon>
+
+<dollard> <stage>growling furiously</stage> Why, God eternally curse your soul.
+I threw out more clothes in my time than you ever saw.</dollard>
+
+<n14>He stood beside them beaming on them first and on his roomy
+clothes from points of which Mr Dedalus flicked fluff, saying:</n14>
+
+<simon>They were made for a man in his health, Ben, anyhow.</simon>
+
+<dollard>Bad luck to the jewman that made them.
+Thanks be to God he's not paid yet.</dollard>
+
+<cowley>And how is that basso profondo, Benjamin?</cowley>
+
+<interject>
+    <n17>Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell, murmuring,
+    glassyeyed, strode past the Kildare street club.</n17>
+</interject>
+
+<n14>Ben Dollard frowned and, making suddenly a chanter's mouth,
+gave forth a deep note.</n14>
+
+<dollard>Aw!</dollard>
+
+<simon>That's the style.</simon>
+<n14>Mr Dedalus said, nodding to its drone.</n14>
+
+<!-- page 235 -->
+<dollard>What about that? Not too dusty? What?</dollard>
+
+<n14>He turned to both.</n14>
+
+<cowley>That'll do.</cowley>
+
+<n14>Father Cowley said, nodding also.</n14>
+
+<interject>
+    <n8>The reverend Hugh C. Love walked from the old Chapterhouse
+    of saint Mary's abbey past James and Charles Kennedy's, rectifiers,
+    attended by Geraldines tall and personable, towards the Tholsel
+    beyond the Ford of Hurdles.</n8>
+</interject>
+
+<n14>Ben Dollard with a heavy list towards the shopfronts led them
+forward, his joyful fingers in the air.</n14>
+
+<dollard>Come along with me to the subsheriff's office. I want
+to show you the new beauty Rock has for a bailiff. He's a cross
+between Lobengula and Lynchehaun. He's well worth seeing, mind
+you. Come along. I saw John Henry Menton casually in the Bodega
+just now and it will cost me a fall if I don't ... wait awhile ... We're
+on the right lay, Bob, believe you me.</dollard>
+
+<cowley> <stage>anxiously</stage> For a few days tell him.</cowley>
+
+<n14>Ben Dollard halted and stared, his loud orifice open, a dangling
+button of his coat wagging brightbacked from its thread as he wiped
+away the heavy shraums that clogged his eyes to hear aright.</n14>
+
+<dollard> <stage>booming</stage> What few days? Hasn't your landlord distrained
+for rent?</dollard>
+
+<cowley>He has.</cowley>
+
+<dollard>Then our friend's writ is not worth the paper it's printed on.
+The landlord has the prior claim. I gave him all the
+particulars. 29 Windsor avenue. Love is the name?</dollard>
+
+<cowley>That's right. The reverend Mr Love. He's
+a minister in the country somewhere. But are you sure of that?</cowley>
+
+<dollard>You can tell Barabbas from me, that he can
+put that writ where Jacko put the nuts.</dollard>
+
+<n14>He led Father Cowley boldly forward linked to his bulk.</n14>
+
+<simon>Filberts I believe they were.</simon>
+<n14>Mr Dedalus said, as he dropped
+his glasses on his coatfront, following them.</n14>
+
+</rock>
+
+
+<!-- ============================================================== -->
+
+
+<rock id="15">
+
+<cunningham>The youngster will be all right.</cunningham>
+<n15>Martin Cunningham said, as
+they passed out of the Castleyard gate.</n15>
+
+<n15>The policeman touched his forehead.</n15>
+
+<cunningham>God bless you.</cunningham>
+
+<n15>He signed to the waiting jarvey who chucked at the reins and set
+on towards Lord Edward street.</n15>
+
+<!-- page 236 -->
+<interject>
+    <nstar>Bronze by gold, Miss Kennedy's head by Miss Douce's head,
+    appeared above the crossblind of the Ormond hotel.</nstar>
+</interject>
+
+<cunningham>Yes. I wrote to
+Father Conmee and laid the whole case before him.</cunningham>
+
+<power>You could try our friend.</power>
+<n15>Mr Power suggested backward.</n15>
+
+<cunningham>Boyd? Touch me not.</cunningham>
+
+<n15>John Wyse Nolan, lagging behind, reading the list, came after
+them quickly down Cork hill.</n15>
+
+<n15>On the steps of the City hall Councillor Nannetti, descending,
+hailed Alderman Cowley and Councillor Abraham Lyon ascending.</n15>
+
+<n15>The castle car wheeled empty into upper Exchange street.</n15>
+
+<nolan>Look here Martin.</nolan>
+<n15>John Wyse Nolan said, overtaking them at
+the <title>Mail</title> office.</n15>
+<nolan>I see Bloom put his name down for five shillings.</nolan>
+
+<cunningham>Quite right. And put
+down the five shillings too.</cunningham>
+
+<power>Without a second word either.</power>
+
+<cunningham>Strange but true.</cunningham>
+
+<n15>John Wyse Nolan opened wide eyes.</n15>
+
+<nolan>I'll say there is much kindness in the jew.</nolan>
+
+<n15>They went down Parliament street.</n15>
+
+<power>There's Jimmy Henry, just heading for
+Kavanagh's.</power>
+
+<cunningham>Righto. Here goes.</cunningham>
+
+<interject>
+    <n5>Outside <french>la Maison Claire</french>
+    Blazes Boylan waylaid Jack Mooney's
+    brother-in-law, humpy, tight, making for the liberties.</n5>
+</interject>
+
+<n15>John Wyse Nolan fell back with Mr Power, while Martin
+Cunningham took the elbow of a dapper little man in a shower of hail suit
+who walked uncertainly with hasty steps past Micky Anderson's
+watches.</n15>
+
+<nolan>The assistant town clerk's corns are giving him some trouble.</nolan>
+
+<n15>They followed round the corner towards James Kavanagh's
+winerooms. The empty castle car fronted them at rest in Essex gate. Martin
+Cunningham, speaking always, showed often the list at which Jimmy
+Henry did not glance.</n15>
+
+<nolan>And Long John Fanning is here too, as large as life.</nolan>
+
+<n15>The tall form of Long John Fanning filled the doorway where
+he stood.</n15>
+
+<cunningham>Good day, Mr Subsheriff,</cunningham>
+<n15>Martin Cunningham said, as all
+halted and greeted.</n15>
+
+<!-- page 237 -->
+<n15>Long John Fanning made no way for them. He removed his large
+Henry Clay decisively and his large fierce eyes scowled intelligently
+over all their faces.</n15>
+
+<fanning>Are the conscript fathers pursuing their peaceful
+deliberations?</fanning>
+<n15>He said, with rich acrid utterance to the assistant
+town clerk.</n15>
+
+<henry>Hell open to christians they were having <stage>pettishly</stage>,
+about their damned Irish language. Where was the marshal,
+he wanted to know, to keep order in the council chamber. And old
+Barlow the macebearer laid up with asthma, no mace on the table,
+nothing in order, no quorum even and Hutchinson, the lord mayor,
+in Llandudno and little Lorcan Sherlock doing
+<latin>locum tenens</latin> for him.
+Damned Irish language, of our forefathers.</henry>
+
+<n15>Long John Fanning blew a plume of smoke from his lips.</n15>
+
+<n15>Martin Cunningham spoke by turns, twirling the peak of his
+beard, to the assistant town clerk and the subsheriff, while John Wyse
+Nolan held his peace.</n15>
+
+<fanning>What Dignam was that?</fanning>
+
+<n15>Jimmy Henry made a grimace and lifted his left foot.</n15>
+
+<henry> <stage>plaintively</stage> O, my corns! Come upstairs for goodness'
+sake till I sir down somewhere. Uff! Ooo! Mind!</henry>
+
+<n15>Testily he made room for himself beside Long John Fanning's
+flank and passed in and up the stairs.</n15>
+
+<cunningham>Come on up. I
+don't think you knew him or perhaps you did, though.</cunningham>
+
+<n15>With John Wyse Nolan Mr Power followed them in.</n15>
+
+<power>Decent little soul he was.</power>
+<n15>Mr Power said to the stalwart
+back of Long John Fanning ascending towards Long John Fanning
+in the mirror.</n15>
+
+<cunningham>Ratherlowsized, Dignam of Menton's office that was.</cunningham>
+
+<n15>Long John Fanning could not remember him.</n15>
+
+<n15>Clatter of horsehoofs sounded from the air.</n15>
+
+<cunningham>What's that?</cunningham>
+
+<n15>All turned where they stood; John Wyse Nolan came down
+again. From the cool shadow of the doorway he saw the horses pass
+Parliament street, harness and glossy pasterns in sunlight shimmering.
+Gaily they went past before his cool unfriendly eyes, not quickly. In
+saddles of the leaders, leaping leaders, rode outriders.</n15>
+
+<cunningham>What was it?</cunningham>
+<n15>Martin Cunningham asked, as they went on up the staircase.</n15>
+
+<!-- page 238 -->
+<nolan>The lord lieutenant general and general governor of Ireland.</nolan>
+<n15>John Wyse Nolan answered from the stairfoot.</n15>
+
+</rock>
+
+
+<!-- ============================================================== -->
+
+
+<rock id="16">
+
+<n16>As they trod across the thick carpet Buck Mulligan whispered
+behind his panama to Haines.</n16>
+
+<mulligan>Parnell's brother. There in the corner.</mulligan>
+
+<n16>They chose a small table near the window opposite a longfaced
+man whose beard and gaze hung intently down on a chessboard.</n16>
+
+<haines>Is that he?</haines>
+<n16>Haines asked, twisting round in his seat.</n16>
+
+<mulligan>Yes. That's John Howard, his brother, our
+city marshal.</mulligan>
+
+<n16>John Howard Parnell translated a white bishop quietly and his
+grey claw went up again to his forehead whereat it rested.</n16>
+
+<n16>An instant after, under its screen, his eyes looked quickly,
+ghostbright, at his foe and fell once more upon a working corner.</n16>
+
+<haines>I'll take a <french>mélange</french>.</haines>
+<n16>Haines said to the waitress.</n16>
+
+<mulligan>Two <french>mélanges</french>. And bring us some scones
+and butter and some cakes as well.</mulligan>
+
+<n16>When she had gone he said, laughing:</n16>
+
+<mulligan>We call it D. B. C. because they have damn bad cakes. O, but
+you missed Dedalus on <title>Hamlet</title>.</mulligan>
+
+<n16>Haines opened his newbought book.</n16>
+
+<haines>I'm sorry. Shakespeare is the happy hunting ground
+of all minds that have lost their balance.</haines>
+
+<interject>
+    <n3>The onelegged sailor growled at the area of 14 Nelson Street:</n3>
+
+    <sailor><song>England expects ...</song></sailor>
+</interject>
+
+<n16>Buck Mulligan's primrose waistcoat shook gaily to his laughter.</n16>
+
+<mulligan>You should see him, when his body loses its balance.
+Wandering Ængus I call him.</mulligan>
+
+<haines>I am sure he has an <french>idée fixe</french>.</haines>
+<n16>Haines said, pinching his chin
+thoughtfully with thumb and forefinger.</n16>
+<haines>Now I am speculating what
+it would be likely to be. Such persons always have.</haines>
+
+<n16>Buck Mulligan bent across the table gravely.</n16>
+
+<mulligan>They drove his wits astray, by visions of hell. He will
+never capture the Attic note. The note of Swinburne, of all poets, the
+white death and the ruddy birth. That is his tragedy. He can never be
+a poet. The joy of creation ...</mulligan>
+
+<haines>Eternal punishment. <stage>nodding curtly</stage> I see. I
+tackled him this morning on belief. There was something on his mind, I
+<!-- page 239 -->
+saw. It's rather interesting because Professor Pokorny of Vienna
+makes an interesting point out of that.</haines>
+
+<n16>Buck Mulligan's watchful eyes saw the waitress come. He helped
+her to unload her tray.</n16>
+
+<haines>He can find no trace of hell in ancient Irish myth<omit>,
+amid the cheerful cups</omit>. The moral idea seems lacking, the sense of
+destiny, of retribution. Rather strange he should have just that fixed
+idea. Does he write anything for your movement?</haines>
+
+<n16>He sank two lumps of sugar deftly longwise through the whipped
+cream. Buck Mulligan slit a steaming scone in two and plastered butter
+over its smoking pith. He bit off a soft piece hungrily.</n16>
+
+<mulligan> <stage>chewing and laughing</stage> Ten years. He is going to write
+something in ten years.</mulligan>
+
+<haines>Seems a long way off.</haines>
+<n16>Haines said, thoughtfully lifting his spoon.</n16>
+<haines>Still, I shouldn't wonder if he did after all.</haines>
+
+<n16>He tasted a spoonful from the creamy cone of his cup.</n16>
+
+<haines>This is real Irish cream I take it.</haines>
+<haines>He said with forbearance.</haines>
+<haines>I don't want to be imposed on.</haines>
+
+<interject>
+    <nstar>Elijah, skiff, light crumpled throwaway, sailed eastward by flanks
+    of ships and trawlers, amid an archipelago of corks, beyond new
+    Wapping street past Benson's ferry, and by the threemasted schooner
+    <title>Rosevean</title> from Bridgwater with bricks.</nstar>
+</interject>
+
+</rock>
+
+
+<!-- ============================================================== -->
+
+
+<rock id="17">
+
+<n17>Almidano Artifoni walked past Holles street, past Sewell's yard.
+Behind him Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell with
+stickumbrelladustcoat dangling, shunned the lamp before Mr Law
+Smith's house and, crossing, walked along Merrion square. Distantly
+behind him a blind stripling tapped his way by the wall of College
+Park.</n17>
+
+<n17>Cashel Boyle O'Connor Fitzmaurice Tisdall Farrell walked as far
+as Mr Lewis Werner's cheerful windows, then turned and strode back
+along Merrion square, his stickumbrelladustcoat dangling.</n17>
+
+<n17>At the corner of Wilde's he halted, frowned at Elijah's name
+announced on the Metropolitan Hall, frowned at the distant pleasance
+of duke's lawn. His eyeglass flashed frowning in the sun. With
+ratsteeth bared he muttered:</n17>
+
+<farrell><latin>Coactus volui.</latin></farrell>
+
+<n17>He strode on for Clare street, grinding his fierce word.</n17>
+
+<n17>As he strode past Mr Bloom's dental windows the sway of his
+<!-- page 240 -->
+dustcoat brushed rudely from its angle a slender tapping cane and
+swept onwards, having buffeted a thewless body. The blind stripling
+turned his sickly face after the striding form.</n17>
+
+<stripling>God's curse on you, whoever you are! You're
+blinder nor I am, you bitch's bastard!</stripling>
+
+</rock>
+
+
+<!-- ============================================================== -->
+
+
+<rock id="18">
+
+<n18>Opposite Ruggy O'Donohoe's Master Patrick Aloysius Dignam,
+pawing the pound and half of Mangan's, late Fehrenbach's, porksteaks
+he had been sent for, went along warm Wicklow street dawdling. It
+was too blooming dull sitting in the parlour with Mrs Stoer and Mrs
+Quigley and Mrs MacDowell and the blind down and they all at their
+sniffles and sipping sups of the superior tawny sherry uncle Barney
+brought from Tunney's. And they eating crumbs of the cottage fruit
+cake jawing the whole blooming time and sighing.</n18>
+
+<n18>After Wicklow lane the window of Madame Doyle, court dress
+milliner, stopped him. He stood looking in at the two puckers stripped
+to their pelts and putting up their props. From the sidemirrors two
+mourning Masters Dignam gaped silently. Myler Keogh, Dublin's pet
+lamb, will meet sergeantmajor Bennett, the Portobello bruiser, for
+a purse of fifty sovereigns.</n18>
+
+<dignam>God, that'd be a good pucking match to see.
+Myler Keogh, that's the chap sparring out to him with the green sash.
+Two bar entrance, soldiers half price. I could easy do a bunk on ma.</dignam>
+
+<n18>Master Dignam on his left turned as he turned.</n18>
+
+<dignam>That's me in
+mourning. When is it? May the twentysecond. Sure, the blooming thing is
+all over.</dignam>
+
+<n18>He turned to the right and on his right Master Dignam
+turned, his cap awry, his collar sticking up. Buttoning it down, his chin
+lifted, he saw the image of Marie Kendall, charming soubrette, beside
+the two puckers.</n18>
+
+<dignam>One of them mots that do be in the packets of fags
+Stoer smokes that his old fellow welted hell out of him for one time
+he found out.</dignam>
+
+<n18>Master Dignam got his collar down and dawdled on.</n18>
+
+<dignam>The best
+pucker going for strength was Fitzsimons. One puck in the wind from
+that fellow would knock you into the middle of next week, man. But
+the best pucker for science was Jem Corbet before Fitzsimons knocked
+the stuffings out of him, dodging and all.</dignam>
+
+<n18>In Grafton street Master Dignam saw a red flower in a toff's
+mouth and a swell pair of kicks on him and he listening to what the
+drunk was telling him and grinning all the time.</n18>
+
+<drunk>No Sandymount tram.</drunk>
+
+<!-- page 241 -->
+<n18>Master Dignam walked across Nassau street, shifted the
+porksteaks to his other hand. His collar sprang up again and he tugged it
+down. The blooming stud was too small for the buttonhole of the
+shirt, blooming end to it. He met schoolboys with satchels.</n18>
+
+<dignam>I'm not
+going tomorrow either, stay away till Monday.</dignam>
+
+<n18>He met other schoolboys.</n18>
+
+<dignam>Do they notice I'm in mourning? Uncle Barney said he'd get
+it into the paper tonight. Then they'll all see it in the paper and read
+my name printed and pa's name.</dignam>
+
+<dignam>His face got all grey instead of being red like it was and there
+was a fly walking over it up to his eye. The scrunch that was when they
+were screwing the screws into the coffin: and the bumps when
+they were bringing it downstairs.</dignam>
+
+<dignam>Pa was inside it and ma crying in the parlour and uncle Barney
+telling the men how to get it round the bend. A big coffin it was, and
+high and heavylooking. How was that? The last night pa was boosed
+he was standing on the landing there bawling out for his boots to go
+out to Tunney's for to boose more and he looked butty and short
+in his shirt. Never see him again. Death, that is. Pa is dead. My
+father is dead. He told me to be a good son to ma. I couldn't hear
+the other things he said but I saw his tongue and his teeth trying to
+say it better. Poor pa. That was Mr Dignam, my father. I hope he is
+in purgatory now because he went to confession to father Conroy on
+Saturday night.</dignam>
+
+</rock>
+
+
+<!-- ============================================================== -->
+
+
+<rock id="19">
+
+<n19>William Humble, earl of Dudley, and lady Dudley, accompanied
+by lieutenantcolonel Hesseltine, drove out after luncheon from the
+viceregal lodge. In the following carriage were the honourable Mrs
+Paget, Miss de Courcy and the honourable Gerald Ward, A. D. C.
+in attendance.</n19>
+
+<n19>The cavalcade passed out by the lower gate of Phoenix park
+saluted by obsequious policemen and proceeded past Kingsbridge
+along the northern quays. The viceroy was most cordially greeted on
+his way through the metropolis. At Bloody bridge Mr Thomas Kernan
+beyond the river greeted him vainly from afar.</n19>
+
+<n19>Between Queen's and
+Whitworth bridges Lord Dudley's viceregal carriages passed and were
+unsaluted by Mr Dudley White, B. L., M. A., who stood on Arran
+Quay outside Mrs M. E. White's, the pawnbroker's, at the corner of
+Arran street west stroking his nose with his forefinger, undecided
+whether he should arrive at Phibsborough more quickly by a triple 
+<!-- page 242 -->
+change of tram or by hailing a car or on foot through Smithfield,
+Constitution hill and Broadstone terminus.</n19>
+
+<n19>In the porch of Four
+Courts Richie Goulding with the costsbag of Goulding, Collis and
+Ward saw him with surprise. Past Richmond bridge at the doorstep
+of the office of Reuben J. Dodd, solicitor, agent for the Patriotic
+Insurance Company, an elderly female about to enter changed her
+plan and retracing her steps by King's windows smiled credulously on
+the representative of His Majesty.</n19>
+
+<n19>From its sluice in Wood quay wall
+under Tom Devan's office Poddle river hung out in fealty a tongue
+of liquid sewage. Above the crossblind of the Ormond Hotel, gold
+by bronze, Miss Kennedy's head by Miss Douce's head watched and
+admired. On Ormond quay Mr Simon Dedalus, steering his way from
+the greenhouse for the subsheriff's office, stood still in midstreet and
+brought his hat low. His Excellency graciously returned Mr Dedalus'
+greeting.</n19>
+
+<n19>From Cahill's corner the reverend Hugh C. Love, M. A.,
+made obeisance unperceived, mindful of lords deputies whose hands
+benignant had held of yore rich advowsons. On Grattan bridge
+Lenehan and M'Coy, taking leave of each other, watched the carriages go
+by.</n19>
+
+<n19>Passing by Roger Greene's office and Dollard's big red
+printinghouse Gerty MacDowell, carrying the Catesby's cork lino letters for
+her father who was laid up, knew by the style it was the lord and lady
+lieutenant but she couldn't see what Her Excellency had on because
+the tram and Spring's big yellow furniture van had to stop in front of
+her on account of its being the lord lieutenant.</n19>
+
+<n19>Beyond Lundy Foot's
+from the shaded door of Kavanagh's winerooms John Wyse Nolan
+smiled with unseen coldness towards the lord lieutenantgeneral and
+general governor of Ireland. The Right Honourable William Humble,
+earl of Dudley, G. C. V. O., passed Micky Anderson's all times
+ticking watches and Henry and James's wax smartsuited freshcheeked models,
+the gentleman Henry, <french>dernier cri</french> James.</n19>
+
+<n19>Over against Dame
+gate Tom Rochford and Nosey Flynn watched the approach of the
+cavalcade. Tom Rochford, seeing the eyes of lady Dudley on him,
+took his thumbs quickly out of the pockets of his claret waistcoat and
+doffed his cap to her.</n19>
+
+<n19>A charming <french>soubrette</french>,
+great Marie Kendall, with
+dauby cheeks and lifted skirt, smiled daubily from her poster upon
+William Humble, earl of Dudley, and upon lieutenantcolonel H. G.
+Hesseltine and also upon the honourable Gerald Ward A. D. C.</n19>
+
+<n19>From
+the window of the D. B. C. Buck Mulligan gaily, and Haines gravely,
+gazed down on the viceregal equipage over the shoulders of eager
+guests, whose mass of forms darkened the chessboard whereon John
+Howard Parnell looked intently.</n19>
+
+<n19>In Fownes's street, Dilly Dedalus,
+<!-- page 243 -->
+straining her sight upward from Chardenal's first French primer, saw
+sunshades spanned and wheelspokes spinning in the glare. John
+Henry Menton, filling the doorway of Commercial Buildings, stared
+from winebig oyster eyes, holding a fat gold hunter watch not looked
+at in his fat left hand not feeling it.</n19>
+
+<n19>Where the foreleg of King Billy's
+horse pawed the air Mrs Breen plucked her hastening husband back
+from under the hoofs of the outriders. She shouted in his ear the
+tidings. Understanding, he shifted his tomes to his left breast and
+saluted the second carriage. The honourable Gerald Ward A. D. C.,
+agreeably surprised, made haste to reply.</n19>
+
+<n19>At Ponsonby's corner a
+jaded white flagon Aitch <stage>H.</stage>
+halted and four tallhatted white flagons halted
+behind him, Ee Ell Wye Apostrophe Ess <stage>E.L.Y.'S.</stage>,
+while outriders pranced past and carriages.
+Opposite Pigott's music warerooms Mr Denis J. Maginni professor of
+dancing etc, gaily apparelled, gravely walked, outpassed by a viceroy
+and unobserved.</n19>
+
+<n19>By the provost's wall came jauntily Blazes Boylan,
+stepping in tan shoes and socks with skyblue clocks to the refrain of</n19>
+
+<blazes><song>My girl's a Yorkshire girl.</song></blazes>
+
+<n19>Blazes Boylan presented to the leaders' skyblue frontlets and
+high action a skyblue tie, a widebrimmed straw hat at a rakish angle
+and a suit of indigo serge. His hands in his jacket pockets forgot to
+salute but he offered to the three ladies the bold admiration of his eyes
+and the red flower between his lips.</n19>
+
+<n19>As they drove along Nassau street
+His Excellency drew the attention of his bowing consort to the
+programme of music which was being discoursed in College park. Unseen
+brazen highland laddies blared and drumthumped after the
+<french>cortège</french>.</n19>
+
+<blazes>
+<song>
+            But though she's a factory lass<br/>
+            And wears no fancy clothes.<br/>
+            Baraabum.<br/>
+            Yet I've a sort of a<br/>
+            Yorkshire relish for<br/>
+            My little Yorkshire rose.<br/>
+            Baraabum.
+</song>
+</blazes>
+
+<n19>Thither of the wall the quartermile flat handicappers, M. C.
+Green, H. Thrift, T. M. Patey, C. Scaife, J. B. Jeffs, G. N. Morphy,
+F. Stevenson, C. Adderly, and W. C. Huggard started in pursuit.</n19>
+
+<n19>Striding past Finn's hotel, Cashel Boyle O'Connor Fitzmaurice Tisdall
+Farrell stared through a fierce eyeglass across the carriages at the head
+of Mr E. M. Solomons in the window of the Austro-Hungarian
+viceconsulate. Deep in Leinster street, by Trinity's postern, a loyal king's
+man, Hornblower, touched his tallyho cap.</n19>
+
+<n19>As the glossy horses
+<!-- page 244 -->
+pranced by Merrion square Master Patrick Aloysius Dignam, waiting,
+saw salutes being given to the gent with the topper and raised also his
+new black cap with fingers greased by porksteak paper. His collar too
+sprang up.</n19>
+
+<n19>The viceroy, on his way to inaugurate the Mirus bazaar in
+aid of funds for Mercer's hospital, drove with his following towards
+Lower Mount street. He passed a blind stripling opposite
+Broadbent's. In Lower Mount street a pedestrian in a brown macintosh,
+eating dry bread, passed swiftly and unscathed across the viceroy's
+path.</n19>
+
+<n19>At the Royal Canal bridge, from his hoarding, Mr Eugene
+Stratton, his blub lips agrin, bade all comers welcome to Pembroke
+township. At Haddington road corner two sanded women halted
+themselves, an umbrella and a bag in which eleven cockles rolled to
+view with wonder the lord mayor and lady mayoress without his
+golden chain.</n19>
+
+<n19>On Northumberland and Landsdowne roads His
+Excellency acknowledged punctually salutes from rare male walkers, the
+salute of two small schoolboys at the garden gate of the house said to
+have been admired by the late queen when visiting the Irish capital
+with her husband, the prince consort, in 1849, and the salute of
+Almidano Artifoni's sturdy trousers swallowed by a closing door.</n19>
+
+</rock>
+
+<!-- ============================================================== -->
+
+</xml>
