@@ -1,3 +1,5 @@
+" Search for punctuation, for line breaks:  /[.,!?:;]/s+1
+
 " ;- => selection -> --- selection ---
 vnoremap <buffer> <silent> ;- <Esc>`>c$ ---<Esc>`<i--- <Esc>gv>
 " ;s => selection -> \stage{selection}
@@ -28,6 +30,8 @@ vnoremap <buffer> <silent> ;t u`>a}<Esc>`<i\Title{<Esc>
 vnoremap <buffer> <silent> ;v <Esc>`>o<C-D>\end{verse}<Esc>`<O<C-D>\begin{verse}<Esc>
 " ;z => selection -> \sout{selection}
 vnoremap <buffer> <silent> ;z <Esc>`>a}<Esc>`<i\sout{<Esc>
+" ;qt => selection -> \quotation{selection}
+vnoremap <buffer> <silent> ;qt <Esc>`>a}<Esc>`<i\quotation{<Esc>
 
 " | => append " |" to line
 nnoremap <buffer> <silent> \| A \|<Esc>
