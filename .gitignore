@@ -2,3 +2,7 @@
 .*.sw?
 _.sw?
 .sw?
+
+*.aux
+*.log
+*.pdf

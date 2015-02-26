@@ -24,7 +24,7 @@
 \newcommand{\irish}[1]{\emph{#1}}
 \newcommand{\yiddish}[1]{\emph{#1}}
 \newcommand{\hebrew}[1]{\emph{#1}}
-\newcommand{\quotation}[1]{\emph{#1}}
+\newcommand{\Quotation}[1]{\emph{#1}}
 \newcommand{\russian}[1]{\emph{#1}}
 
 \newcommand{\role}[2]{%
@@ -56,6 +56,7 @@
 \newcommand{\BloomInt}[1][0]    {\optrole[#1]{Bloom \emph{(int.)}}}
 \newcommand{\Molly}[1][0]       {\optrole[#1]{Molly}}
 \newcommand{\Stephen}[1][0]     {\optrole[#1]{Stephen}}
+\newcommand{\StephenInt}[1][0]  {\optrole[#1]{Stephen \emph{(int.)}}}
 
 \newcommand{\slfrac}[2]{\left.#1\middle/#2\right.}
 
@@ -63,7 +64,7 @@
 \newcommand{\he}[1]       {\stage{#1}}
 \newcommand{\she}[1]      {\stage{#1}}
 \newcommand{\arse}        {\stage{arse}}
-\newcommand{\armstrong}   {\he{Armstrong}}
+\newcommand{\armstrong}   {\optrole{Armstrong}}
 \newcommand{\beggar}      {\he{Beggar}}
 \newcommand{\bishop}      {\he{Bishop}}
 \newcommand{\bloom}       {\he{Bloom}}
@@ -76,15 +77,15 @@
 \newcommand{\burke}       {\he{Burke}}
 \newcommand{\cards}       {\stage{Cards}}
 \newcommand{\cohen}       {\he{Cohen}}
-\newcommand{\cochrane}    {\he{Cochrane}}
-\newcommand{\comyn}       {\he{Comyn}}
+\newcommand{\cochrane}    {\optrole{Cochrane}}
+\newcommand{\comyn}       {\optrole{Comyn}}
 \newcommand{\collins}     {\he{Dr~Collins}}
 \newcommand{\corrigan}    {\he{Fr~Corrigan}}
 \newcommand{\criminal}    {\he{Criminal}}
 \newcommand{\cuffe}       {\he{Cuffe}}
 \newcommand{\dArcy}       {\he{d'Arcy}}
 \newcommand{\dbc}         {\stage{Dublin Baking Company}}
-\newcommand{\deasy}       {\he{Mr~Deasy}}
+\newcommand{\deasy}       {\optrole{Mr~Deasy}}
 \newcommand{\dillon}      {\he{Mr~Dillon}}
 \newcommand{\dignam}      {\he{Paddy Dignam}}
 \newcommand{\mrsdignam}   {\she{Mrs~Dignam}}
@@ -125,13 +126,13 @@
 \newcommand{\redhead}     {\he{Red~Head}}
 \newcommand{\riordan}     {\he{Mr~Riordan}}
 \newcommand{\rudy}        {\he{Rudy Bloom}}
-\newcommand{\sargent}     {\he{Sargent}}
+\newcommand{\sargent}     {\optrole{Sargent}}
 \newcommand{\simon}       {\he{Simon Dedalus}}
 \newcommand{\stanhope}    {\he{Mr~Stanhope}}
 \newcommand{\stephen}     {\he{Stephen Dedalus}}
 \newcommand{\statue}      {\he{Statue}}
 \newcommand{\student}     {\he{Student}}
-\newcommand{\talbot}      {\he{Talbot}}
+\newcommand{\talbot}      {\optrole{Talbot}}
 \newcommand{\valdillon}   {\he{Val Dillon}}
 \newcommand{\wales}       {\he{Prince of Wales}}
 \newcommand{\wogger}      {\he{Wogger}}
@@ -143,6 +144,7 @@
 \usepackage{geometry}
 \geometry{letterpaper}
 
+\usepackage[normalem]{ulem}
 \usepackage{fontspec,xltxtra,xunicode}
 \usepackage{fancybox}
 \defaultfontfeatures{Mapping=tex-text}
