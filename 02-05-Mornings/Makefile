@@ -7,7 +7,7 @@ all: pdf mirror
 
 pdf: $(TARGET).pdf
 
-%.pdf: %.tex defs.tex ../02-Nestor/nestor-*.tex ../05-LotusEaters/lotuseaters-*.tex
+%.pdf: %.tex defs.tex ../02-Nestor/nestor-*.tex ../05-TheLotusEaters/lotuseaters-*.tex
 	xelatex $<
 
 ftp:
