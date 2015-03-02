@@ -108,6 +108,7 @@ nnoremap <silent> ;sg 02xi\sargent:<CR><Esc>
 nnoremap <silent> ;tl 02xi\talbot:<CR><Esc>
 
 nnoremap <silent> ;mc 02x0i\mccoy:<CR><Esc>
+nnoremap <silent> ;BL 02x0i\lyons:<CR><Esc>
 
 nnoremap <silent> ;ac 0i\acting{<C-R>*}<CR><CR><Esc>
 "nnoremap <silent> ;bl 0C\Bloom<Esc>
