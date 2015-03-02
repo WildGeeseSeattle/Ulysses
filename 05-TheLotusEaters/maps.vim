@@ -107,9 +107,13 @@ nnoremap <silent> ;cm 02xi\comyn:<CR><Esc>
 nnoremap <silent> ;sg 02xi\sargent:<CR><Esc>
 nnoremap <silent> ;tl 02xi\talbot:<CR><Esc>
 
+nnoremap <silent> ;mc 02x0i\mccoy:<CR><Esc>
+
 nnoremap <silent> ;ac 0i\acting{<C-R>*}<CR><CR><Esc>
 "nnoremap <silent> ;bl 0C\Bloom<Esc>
 "nnoremap <silent> ;sd 0C\Stephen<Esc>
+nnoremap <silent> ;bl 02x0i\Bloom:<CR><Esc>
+nnoremap <silent> ;bi 0i<CR>\BloomInt:<CR><Esc>
 
 nnoremap <silent> ;x  0o<CR><Esc>
 nnoremap <silent> ;h  A \|<Esc>j2dd
