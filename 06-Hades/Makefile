@@ -1,14 +1,15 @@
-GITDIR=~/stuff/Writing/Ulysses/02-Nestor
-DROPDIR=~/Dropbox/WildGeese/02-Nestor
-FTPDIR=~/Sites/WildGeeseSeattle/public_html/private/Nestor
-TARGET=nestor
+GITDIR=~/stuff/Writing/Ulysses/06-Hades
+DROPDIR=~/Dropbox/WildGeese/06-Hades
+FTPDIR=~/Sites/WildGeeseSeattle/public_html/private/Hades
+TEXBIN=/Library/TeX/texbin
+TARGET=hades
 
 all: pdf mirror
 
 pdf: $(TARGET).pdf
 
 %.pdf: %.tex defs.tex
-	xelatex $<
+	$(TEXBIN)/xelatex $<
 
 ftp:
 	rsync -av $(TARGET).pdf $(FTPDIR)

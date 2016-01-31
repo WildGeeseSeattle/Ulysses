@@ -1,6 +1,7 @@
 GITDIR=~/stuff/Writing/Ulysses/03-Proteus
 DROPDIR=~/Dropbox/WildGeese/03-Proteus
 FTPDIR=~/Sites/WildGeeseSeattle/public_html/private/Nestor
+TEXBIN=/Library/TeX/texbin
 TARGET=proteus
 
 all: pdf mirror
@@ -8,7 +9,7 @@ all: pdf mirror
 pdf: $(TARGET).pdf
 
 %.pdf: %.tex defs.tex
-	xelatex $<
+	$(TEXBIN)/xelatex $<
 
 ftp:
 	rsync -av $(TARGET).pdf $(FTPDIR)
