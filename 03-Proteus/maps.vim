@@ -96,13 +96,11 @@ nnoremap <silent> ;q2 0i\Q2:<CR><Esc>
 nnoremap <silent> ;al 0i\All:<CR><Esc>
 nnoremap <silent> ;si 0i<CR>\StephenInt:<CR><Esc>
 
+nnoremap <silent> ;pe 02xi\patrice:<CR><Esc>
+nnoremap <silent> ;rg 02xi\richie:<CR><Esc>
 nnoremap <silent> ;sd 02xi\Stephen:<CR><Esc>
-nnoremap <silent> ;am 02xi\armstrong:<CR><Esc>
-nnoremap <silent> ;dy 02xi\deasy:<CR><Esc>
-nnoremap <silent> ;ch 02xi\cochrane:<CR><Esc>
-nnoremap <silent> ;cm 02xi\comyn:<CR><Esc>
-nnoremap <silent> ;sg 02xi\sargent:<CR><Esc>
-nnoremap <silent> ;tl 02xi\talbot:<CR><Esc>
+nnoremap <silent> ;ss 02xi\simon:<CR><Esc>
+nnoremap <silent> ;wa 02xi\walter:<CR><Esc>
 
 nnoremap <silent> ;ac 0i\acting{<C-R>*}<CR><CR><Esc>
 "nnoremap <silent> ;bl 0C\Bloom<Esc>
