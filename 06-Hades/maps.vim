@@ -97,7 +97,13 @@ nnoremap <silent> ;al 0i\All:<CR><Esc>
 
 nnoremap <silent> ;bl 02xi\Bloom:<CR><Esc>
 nnoremap <silent> ;bi 0i<CR>\BloomInt:<CR><Esc>
+nnoremap <silent> ;cf 02xi\coffey:<CR><Esc>
+nnoremap <silent> ;ck 02xi\corny:<CR><Esc>
 nnoremap <silent> ;mc 02xi\cunningham:<CR><Esc>
+nnoremap <silent> ;hy 02xi\hynes:<CR><Esc>
+nnoremap <silent> ;kn 02xi\kernan:<CR><Esc>
+nnoremap <silent> ;nl 02xi\lambert:<CR><Esc>
+nnoremap <silent> ;jh 02xi\menton:<CR><Esc>
 nnoremap <silent> ;ss 02xi\simon:<CR><Esc>
 nnoremap <silent> ;pw 02xi\power:<CR><Esc>
 
