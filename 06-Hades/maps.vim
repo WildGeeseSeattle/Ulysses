@@ -104,8 +104,9 @@ nnoremap <silent> ;hy 02xi\hynes:<CR><Esc>
 nnoremap <silent> ;kn 02xi\kernan:<CR><Esc>
 nnoremap <silent> ;nl 02xi\lambert:<CR><Esc>
 nnoremap <silent> ;jh 02xi\menton:<CR><Esc>
-nnoremap <silent> ;ss 02xi\simon:<CR><Esc>
+nnoremap <silent> ;oc 02xi\oconnell:<CR><Esc>
 nnoremap <silent> ;pw 02xi\power:<CR><Esc>
+nnoremap <silent> ;ss 02xi\simon:<CR><Esc>
 
 nnoremap <silent> ;ac 0i\acting{<C-R>*}<CR><CR><Esc>
 "nnoremap <silent> ;bl 0C\Bloom<Esc>
