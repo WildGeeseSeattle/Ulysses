@@ -5,6 +5,8 @@ vnoremap <buffer> <silent> ;- <Esc>`>c$ ---<Esc>`<i--- <Esc>gv>
 vnoremap <buffer> <silent> ;s <Esc>`>a}<Esc>`<i\stage{<Esc>
 " ;S => SELECTION -> \stage{selection}
 vnoremap <buffer> <silent> ;S u`>a}<Esc>`<i\stage{<Esc>
+" ;e => selection -> \emph{selection}
+vnoremap <buffer> <silent> ;e u`>a}<Esc>`<i\emph{<Esc>
 " ;l => SELECTION -> \latin{selection}
 vnoremap <buffer> <silent> ;l u`>a}<Esc>`<i\latin{<Esc>
 " ;h => SELECTION -> \hebrew{selection}
@@ -23,6 +25,8 @@ vnoremap <buffer> <silent> ;E u`>a}<Esc>`<i\spanish{<Esc>
 vnoremap <buffer> <silent> ;i u`>a}<Esc>`<i\italian{<Esc>
 " ;I => SELECTION -> \irish{selection}
 vnoremap <buffer> <silent> ;I u`>a}<Esc>`<i\irish{<Esc>
+" ;q => selection -> \quote{selection}
+vnoremap <buffer> <silent> ;q u`>a}<Esc>`<i\quote{<Esc>
 " ;t => SELECTION -> \Title{selection}
 vnoremap <buffer> <silent> ;t u`>a}<Esc>`<i\Title{<Esc>
 " ;v => selection -> \begin{verse}\rselection\r\end{verse}
@@ -98,20 +102,19 @@ nnoremap <silent> ;al 0i\All:<CR><Esc>
 
 nnoremap <silent> ;bl 02xi\Bloom:<CR><Esc>
 nnoremap <silent> ;bi 0i<CR>\BloomInt:<CR><Esc>
-nnoremap <silent> ;cf 02xi\coffey:<CR><Esc>
-nnoremap <silent> ;ck 02xi\corny:<CR><Esc>
-nnoremap <silent> ;mc 02xi\cunningham:<CR><Esc>
-nnoremap <silent> ;hy 02xi\hynes:<CR><Esc>
-nnoremap <silent> ;kn 02xi\kernan:<CR><Esc>
+nnoremap <silent> ;sd 02xi\Stephen:<CR><Esc>
+nnoremap <silent> ;si 0i<CR>\StephenInt:<CR><Esc>
+
+nnoremap <silent> ;jj 02xi\jjom:<CR><Esc>
+nnoremap <silent> ;lh 02xi\lenehan:<CR><Esc>
 nnoremap <silent> ;nl 02xi\lambert:<CR><Esc>
-nnoremap <silent> ;jh 02xi\menton:<CR><Esc>
-nnoremap <silent> ;oc 02xi\oconnell:<CR><Esc>
-nnoremap <silent> ;pw 02xi\power:<CR><Esc>
+nnoremap <silent> ;ob 02xi\omaddenburke:<CR><Esc>
 nnoremap <silent> ;ss 02xi\simon:<CR><Esc>
+nnoremap <silent> ;cw 02xi\crawford:<CR><Esc>
+nnoremap <silent> ;hy 02xi\hynes:<CR><Esc>
+nnoremap <silent> ;mh 02xi\machugh:<CR><Esc>
 
 nnoremap <silent> ;ac 0i\acting{<C-R>*}<CR><CR><Esc>
-"nnoremap <silent> ;bl 0C\Bloom<Esc>
-"nnoremap <silent> ;sd 0C\Stephen<Esc>
 
 nnoremap <silent> ;x  0o<CR><Esc>
 nnoremap <silent> ;h  A \|<Esc>j2dd
