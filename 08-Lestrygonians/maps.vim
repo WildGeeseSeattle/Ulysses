@@ -113,6 +113,7 @@ nnoremap <silent> ;ss 02xi\simon:<CR><Esc>
 nnoremap <silent> ;cw 02xi\crawford:<CR><Esc>
 nnoremap <silent> ;hy 02xi\hynes:<CR><Esc>
 nnoremap <silent> ;mh 02xi\machugh:<CR><Esc>
+nnoremap <silent> ;jb 02xi\josie:<CR><Esc>
 
 nnoremap <silent> ;ac 0i\acting{<C-R>*}<CR><CR><Esc>
 
