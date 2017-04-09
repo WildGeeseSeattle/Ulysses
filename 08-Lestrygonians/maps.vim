@@ -105,9 +105,15 @@ nnoremap <silent> ;bi 0i<CR>\BloomInt:<CR><Esc>
 nnoremap <silent> ;sd 02xi\Stephen:<CR><Esc>
 nnoremap <silent> ;si 0i<CR>\StephenInt:<CR><Esc>
 
+nnoremap <silent> ;ba 02xi\bantam:<CR><Esc>
+nnoremap <silent> ;cr 02xi\curate:<CR><Esc>
+nnoremap <silent> ;db 02xi\davybyrne:<CR><Esc>
 nnoremap <silent> ;jj 02xi\jjom:<CR><Esc>
 nnoremap <silent> ;lh 02xi\lenehan:<CR><Esc>
+nnoremap <silent> ;nf 02xi\nosey:<CR><Esc>
 nnoremap <silent> ;nl 02xi\lambert:<CR><Esc>
+nnoremap <silent> ;pl 02xi\leonard:<CR><Esc>
+nnoremap <silent> ;tr 02xi\rochford:<CR><Esc>
 nnoremap <silent> ;ob 02xi\omaddenburke:<CR><Esc>
 nnoremap <silent> ;ss 02xi\simon:<CR><Esc>
 nnoremap <silent> ;cw 02xi\crawford:<CR><Esc>

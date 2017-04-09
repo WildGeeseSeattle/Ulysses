@@ -41,6 +41,8 @@
 \newcommand{\Narr}[2][N]{\Role{#1#2}}
 \newcommand{\nrole}[2]{\Narr{#1} #2.\par\Role{#2}}
 \newcommand{\optrole}[2][0]{\ifthenelse {#1>0} {\nrole{#1}{#2}} {\Role{#2}}}
+\newcommand{\Man}[2][Man]{\Role{#1 \##2}}
+\newcommand{\Woman}[2][Woman]{\Role{#1 \##2}}
 
 \newcounter{questions}
 
@@ -69,6 +71,7 @@
 \newcommand{\arse}        {\stage{arse}}
 \newcommand{\AErussell}   {\optrole{A.E.}}
 \newcommand{\armstrong}   {\optrole{Armstrong}}
+\newcommand{\bantam}      {\optrole{Bantam Lyons}}
 \newcommand{\beggar}      {\he{Beggar}}
 \newcommand{\bishop}      {\he{Bishop}}
 \newcommand{\bloom}       {\he{Bloom}}
@@ -91,7 +94,9 @@
 \newcommand{\corrigan}    {\he{Fr~Corrigan}}
 \newcommand{\criminal}    {\he{Criminal}}
 \newcommand{\cuffe}       {\he{Cuffe}}
+\newcommand{\curate}      {\optrole{Curate}}
 \newcommand{\dArcy}       {\he{d'Arcy}}
+\newcommand{\davybyrne}   {\optrole{Davy Byrne}}
 \newcommand{\dbc}         {\stage{Dublin Baking Company}}
 \newcommand{\deasy}       {\optrole{Mr~Deasy}}
 \newcommand{\dillon}      {\he{Mr~Dillon}}
@@ -124,6 +129,7 @@
 \newcommand{\mrlangtry}   {\he{Mr~Langtry}}
 \newcommand{\mrslangtry}  {\she{Mrs~Langtry}}
 \newcommand{\lenehan}     {\optrole{Lenehan}}
+\newcommand{\leonard}     {\optrole{Paddy Leonard}}
 \newcommand{\lucan}       {\he{Lucan}}
 \newcommand{\machugh}     {\optrole{MacHugh}}
 \newcommand{\man}         {\optrole{Man}}
@@ -136,6 +142,7 @@
 \newcommand{\molly}       {\she{Molly}}
 \newcommand{\mulvey}      {\he{Mulvey}}
 \newcommand{\nannetti}    {\optrole{Nannetti}}
+\newcommand{\nosey}       {\optrole{Nosey Flynn}}
 \newcommand{\oconnell}    {\optrole{O'Connell}}
 \newcommand{\omaddenburke}{\optrole{O'Madden Burke}}
 \newcommand{\orourke}     {\he{O'Rourke}}
@@ -147,12 +154,14 @@
 \newcommand{\redhead}     {\he{Red~Head}}
 \newcommand{\redmurray}   {\optrole{Red Murray}}
 \newcommand{\riordan}     {\he{Mr~Riordan}}
+\newcommand{\rochford}    {\optrole{Tom Rochford}}
 \newcommand{\rudy}        {\he{Rudy Bloom}}
 \newcommand{\sargent}     {\optrole{Sargent}}
 \newcommand{\simon}       {\optrole{Simon Dedalus}}
 \newcommand{\stanhope}    {\he{Mr~Stanhope}}
 \newcommand{\stephen}     {\he{Stephen Dedalus}}
 \newcommand{\statue}      {\he{Statue}}
+\newcommand{\stripling}   {\optrole{Stripling}}
 \newcommand{\student}     {\he{Student}}
 \newcommand{\talbot}      {\optrole{Talbot}}
 \newcommand{\timekeeper}  {\optrole{Timekeeper}}
