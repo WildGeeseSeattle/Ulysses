@@ -25,8 +25,8 @@ vnoremap <buffer> <silent> ;E u`>a}<Esc>`<i\spanish{<Esc>
 vnoremap <buffer> <silent> ;i u`>a}<Esc>`<i\italian{<Esc>
 " ;I => SELECTION -> \irish{selection}
 vnoremap <buffer> <silent> ;I u`>a}<Esc>`<i\irish{<Esc>
-" ;q => selection -> \quote{selection}
-vnoremap <buffer> <silent> ;q u`>a}<Esc>`<i\quote{<Esc>
+" ;q => selection -> \Quote{selection}
+vnoremap <buffer> <silent> ;q u`>a}<Esc>`<i\Quote{<Esc>
 " ;t => SELECTION -> \Title{selection}
 vnoremap <buffer> <silent> ;t u`>a}<Esc>`<i\Title{<Esc>
 " ;v => selection -> \begin{verse}\rselection\r\end{verse}
