@@ -6,3 +6,4 @@ _.sw?
 *.aux
 *.log
 *.pdf
+~$*.doc
