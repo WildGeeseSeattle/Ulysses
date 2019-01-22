@@ -106,6 +106,7 @@ nnoremap <silent> ;sd 02xi\Stephen:<CR><Esc>
 nnoremap <silent> ;si 0i<CR>\StephenInt:<CR><Esc>
 
 nnoremap <silent> ;cm 02xi\conmee:<CR><Esc>
+nnoremap <silent> ;ci 0i\conmeeint:<CR><Esc>
 nnoremap <silent> ;ms 02xi\mrssheehy:<CR><Esc>
 
 nnoremap <silent> ;x  0o<CR><Esc>
