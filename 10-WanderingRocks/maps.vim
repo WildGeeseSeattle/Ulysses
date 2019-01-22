@@ -108,6 +108,16 @@ nnoremap <silent> ;si 0i<CR>\StephenInt:<CR><Esc>
 nnoremap <silent> ;cm 02xi\conmee:<CR><Esc>
 nnoremap <silent> ;ci 0i\conmeeint:<CR><Esc>
 nnoremap <silent> ;ms 02xi\mrssheehy:<CR><Esc>
+nnoremap <silent> ;bd 02xi\boody:<CR><Esc>
+nnoremap <silent> ;kd 02xi\katey:<CR><Esc>
+nnoremap <silent> ;md 02xi\maggy:<CR><Esc>
+nnoremap <silent> ;bb 02xi\boylan:<CR><Esc>
+nnoremap <silent> ;by 02xi\boy{}:<CR><Esc>
+nnoremap <silent> ;gl 02xi\girl{}:<CR><Esc>
+nnoremap <silent> ;bg 02xi\blondgirl:<CR><Esc>
+nnoremap <silent> ;aa 02xi\artifoni:<CR><Esc>
+nnoremap <silent> ;du 02xi\missdunne:<CR><Esc>
+nnoremap <silent> ;di 02xi\dunneint:<CR><Esc>
 
 nnoremap <silent> ;x  0o<CR><Esc>
 nnoremap <silent> ;h  A \|<Esc>j2dd
