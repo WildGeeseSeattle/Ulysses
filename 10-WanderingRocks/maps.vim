@@ -80,6 +80,8 @@ nnoremap <silent> ;n4 0i<CR>\N4:<CR><Esc>
 nnoremap <silent> ;n5 0i<CR>\N5:<CR><Esc>
 nnoremap <silent> ;n6 0i<CR>\N6:<CR><Esc>
 
+nnoremap <silent> ;nn 0i\N8:<CR><Esc>
+
 nnoremap <silent> ;f1 0i<CR>\F1:<CR><Esc>
 nnoremap <silent> ;f2 0i<CR>\F2:<CR><Esc>
 nnoremap <silent> ;f3 0i<CR>\F3:<CR><Esc>
@@ -116,8 +118,11 @@ nnoremap <silent> ;by 02xi\boy{}:<CR><Esc>
 nnoremap <silent> ;gl 02xi\girl{}:<CR><Esc>
 nnoremap <silent> ;bg 02xi\blondgirl:<CR><Esc>
 nnoremap <silent> ;aa 02xi\artifoni:<CR><Esc>
-nnoremap <silent> ;du 02xi\missdunne:<CR><Esc>
-nnoremap <silent> ;di 02xi\dunneint:<CR><Esc>
+nnoremap <silent> ;du 0i\missdunne:<CR><Esc>
+nnoremap <silent> ;di 0i\dunneint:<CR><Esc>
+nnoremap <silent> ;jj 02xi\jjom:<CR><Esc>
+nnoremap <silent> ;nl 02xi\lambert:<CR><Esc>
+nnoremap <silent> ;rl 02xi\revlove:<CR><Esc>
 
 nnoremap <silent> ;x  0o<CR><Esc>
 nnoremap <silent> ;h  A \|<Esc>j2dd
