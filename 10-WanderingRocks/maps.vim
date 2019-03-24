@@ -130,7 +130,9 @@ nnoremap <silent> ;mc 02xi\mcoy:<CR><Esc>
 nnoremap <silent> ;sm 02xi\shopman:<CR><Esc>
 nnoremap <silent> ;dd 02xi\dilly:<CR><Esc>
 nnoremap <silent> ;Sd 02xi\simon:<CR><Esc>
-nnoremap <silent> ;kn 02xi\kernan:<CR><Esc>
+nnoremap <silent> ;ki 0i\kernanint:<CR><Esc>
+nnoremap <silent> ;kn 0i\kernan:<CR><Esc>
+nnoremap <silent> ;cr 0i\crimmins:<CR><Esc>
 
 nnoremap <silent> ;x  0o<CR><Esc>
 nnoremap <silent> ;h  A \|<Esc>j2dd
