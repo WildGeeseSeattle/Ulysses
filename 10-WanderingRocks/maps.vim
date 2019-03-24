@@ -80,7 +80,7 @@ nnoremap <silent> ;n4 0i<CR>\N4:<CR><Esc>
 nnoremap <silent> ;n5 0i<CR>\N5:<CR><Esc>
 nnoremap <silent> ;n6 0i<CR>\N6:<CR><Esc>
 
-nnoremap <silent> ;nn 0i\N{10}:<CR><Esc>
+nnoremap <silent> ;nn 0i\N{12}:<CR><Esc>
 
 nnoremap <silent> ;f1 0i<CR>\F1:<CR><Esc>
 nnoremap <silent> ;f2 0i<CR>\F2:<CR><Esc>
@@ -128,6 +128,9 @@ nnoremap <silent> ;nf 02xi\nosey:<CR><Esc>
 nnoremap <silent> ;lh 02xi\lenehan:<CR><Esc>
 nnoremap <silent> ;mc 02xi\mcoy:<CR><Esc>
 nnoremap <silent> ;sm 02xi\shopman:<CR><Esc>
+nnoremap <silent> ;dd 02xi\dilly:<CR><Esc>
+nnoremap <silent> ;Sd 02xi\simon:<CR><Esc>
+nnoremap <silent> ;kn 02xi\kernan:<CR><Esc>
 
 nnoremap <silent> ;x  0o<CR><Esc>
 nnoremap <silent> ;h  A \|<Esc>j2dd
