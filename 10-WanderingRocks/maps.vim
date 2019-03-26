@@ -80,7 +80,7 @@ nnoremap <silent> ;n4 0i<CR>\N4:<CR><Esc>
 nnoremap <silent> ;n5 0i<CR>\N5:<CR><Esc>
 nnoremap <silent> ;n6 0i<CR>\N6:<CR><Esc>
 
-nnoremap <silent> ;nn 0i\N{12}:<CR><Esc>
+nnoremap <silent> ;nn 0i\N{17}:<CR><Esc>
 
 nnoremap <silent> ;f1 0i<CR>\F1:<CR><Esc>
 nnoremap <silent> ;f2 0i<CR>\F2:<CR><Esc>
@@ -126,13 +126,22 @@ nnoremap <silent> ;rl 02xi\revlove:<CR><Esc>
 nnoremap <silent> ;tr 02xi\rochford:<CR><Esc>
 nnoremap <silent> ;nf 02xi\nosey:<CR><Esc>
 nnoremap <silent> ;lh 02xi\lenehan:<CR><Esc>
-nnoremap <silent> ;mc 02xi\mcoy:<CR><Esc>
+nnoremap <silent> ;MC 02xi\mcoy:<CR><Esc>
 nnoremap <silent> ;sm 02xi\shopman:<CR><Esc>
 nnoremap <silent> ;dd 02xi\dilly:<CR><Esc>
-nnoremap <silent> ;Sd 02xi\simon:<CR><Esc>
+nnoremap <silent> ;SD 02xi\simon:<CR><Esc>
 nnoremap <silent> ;ki 0i\kernanint:<CR><Esc>
 nnoremap <silent> ;kn 0i\kernan:<CR><Esc>
 nnoremap <silent> ;cr 0i\crimmins:<CR><Esc>
+nnoremap <silent> ;cw 02xi\cowley:<CR><Esc>
+nnoremap <silent> ;bd 02xi\dollard:<CR><Esc>
+nnoremap <silent> ;mc 02xi\cunningham:<CR><Esc>
+nnoremap <silent> ;jw 02xi\johnwyse:<CR><Esc>
+nnoremap <silent> ;pw 02xi\power:<CR><Esc>
+nnoremap <silent> ;lj 02xi\longjohn:<CR><Esc>
+nnoremap <silent> ;jh 02xi\jimmyhenry:<CR><Esc>
+nnoremap <silent> ;bm 02xi\mulligan:<CR><Esc>
+nnoremap <silent> ;ha 02xi\haines:<CR><Esc>
 
 nnoremap <silent> ;x  0o<CR><Esc>
 nnoremap <silent> ;h  A \|<Esc>j2dd
