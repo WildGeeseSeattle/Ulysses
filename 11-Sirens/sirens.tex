@@ -1,0 +1,50 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\input{defs}
+% \input{largeprint} \renewcommand{\gab}[1]{\marginpar[\tiny\raggedleft #1]{\tiny #1}}
+
+\title{\Huge Sirens}
+\author{George~V. Reilly\\
+\\
+{\small for the}\\
+Wild Geese Players of Seattle\\
+{\textit{www.WildGeeseSeattle.org}}\\
+\\
+{\small \textbf{Chapter~11} of \textit{Ulysses} by James Joyce}\\
+{\small Adapted from the 1922~edition at Project Gutenberg}
+\\
+\\
+{\small Based upon the 2005 adaptation for the Wild Geese by}\\
+{\small George V. Reilly}\\
+\\
+{\small First Draft}}
+\date{Dec \nth{2}, 2019}
+\raggedbottom
+
+\begin{document}
+
+% Page i, Title Page
+\maketitle
+\thispagestyle{empty}
+\pagebreak
+
+% Page ii, Cast
+\begin{tabular}{lp{10cm}}
+    \multicolumn{2}{c}{\Large \textsc{The Roles}} \\
+N1              & Bloom \\
+N2              & Simon Dedalus \\
+\end{tabular}
+
+\thispagestyle{empty}
+\newpage
+
+
+% Page 1, first page of script proper
+\setcounter{page}{1}
+
+\section*{Sirens}
+
+\input{./sirens-1.tex}
+
+\end{document}
