@@ -49,7 +49,7 @@
 \newcounter{questions}
 
 % Narrators 0-9
-\newcommand{\Nq}                {\optrole{N1-int}}
+\newcommand{\Nq}                {\optrole{N1 \emph{(int.)}}}
 \newcommand{\N}[1]              {\Narr[N]{#1}}
 \newcommand{\n}[1]              {\narr[n\/]{#1}}
 \newcommand{\F}[1]              {\Narr[F]{#1}}
@@ -280,3 +280,7 @@
 % Define | as magic separator (cadence bars)
 \catcode`|=\active
 \protected\def|{{\hskip 0.1em plus 0.25em\small$\wr$\hskip 0.1em plus 0.1em minus 0.05em\relax}}
+
+% Define · (Opt+Shift+9) as custom hyphen 
+\catcode`·=\active
+\protected\def·{\discretionary{◦}{}{∙}}
