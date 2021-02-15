@@ -5,11 +5,9 @@
 
 % TODO: eat the preceding line ending
 % Gabler edition line number
-\newcommand{\gab}[1]{\marginpar[\small\raggedleft #1]{\small #1}}
-% \newcommand{\gab}[1]{\fbox{#1}}
+\newcommand{\gab}[1]{\marginpar[\raggedleft\small #1]{\raggedright\small #1}}
 
 \newcommand{\sentence}[1]{\pagebreak[3]\section{#1}\indent}
-%\newcommand{\stage}[1]{{\hskip 0.25em\sffamily[{\itshape{#1}\/}]\hskip 0.25em}}
 \newcommand{\histstyle}[1]{\bigskip\centerline{--- \emph{{[}#1{]}} ---}\smallskip}
 
 \newcommand{\headline}[1]{\pagebreak[3]\subsection*{\textsc{#1}}\indent}
@@ -252,6 +250,7 @@
 \usepackage{fancybox}
 \usepackage{mdframed}
 \defaultfontfeatures{Mapping=tex-text}
+\usepackage{mparhack}
 
 %\setmainfont[Mapping=tex-text,Numbers=OldStyle]{Calendas Plus}
 %\setmainfont[Mapping=tex-text,Numbers=OldStyle]{Constantia}
