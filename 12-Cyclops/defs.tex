@@ -3,9 +3,10 @@
 \documentclass[12pt,twoside]{article}
 \usepackage{ifthen}
 
-% TODO: eat the preceding line ending
 % Gabler edition line number
+\usepackage{marginfit}
 \newcommand{\gab}[1]{\marginpar[\raggedleft\small #1]{\raggedright\small #1}}
+% TODO: eat the preceding line ending
 
 \newcommand{\sentence}[1]{\pagebreak[3]\section{#1}\indent}
 \newcommand{\histstyle}[1]{\bigskip\centerline{--- \emph{{[}#1{]}} ---}\smallskip}
@@ -59,7 +60,7 @@
 \newcommand{\A}                 {\role{\textbf{A}}}
 \newcommand{\All}[1][0]         {\optrole[#1]{All}}
 \newcommand{\Bloom}[1][0]       {\optrole[#1]{Bloom}}
-% \newcommand{\BloomInt}[1][0]    {\optrole[#1]{Bloom \emph{(int.)}}}
+\newcommand{\BloomInt}[1][0]    {\optrole[#1]{Bloom \emph{(int.)}}}
 \newcommand{\BloomIntA}[1][0]   {\optrole[#1]{Bloom \emph{(int. A)}}}
 \newcommand{\BloomIntB}[1][0]   {\optrole[#1]{Bloom \emph{(int. B)}}}
 \newcommand{\Molly}[1][0]       {\optrole[#1]{Molly}}
@@ -250,10 +251,7 @@
 \usepackage{fancybox}
 \usepackage{mdframed}
 \defaultfontfeatures{Mapping=tex-text}
-\usepackage{marginfit}
 
-%\setmainfont[Mapping=tex-text,Numbers=OldStyle]{Calendas Plus}
-%\setmainfont[Mapping=tex-text,Numbers=OldStyle]{Constantia}
 \setmainfont[Mapping=tex-text,Numbers=OldStyle]{Libertinus Serif}
 \newfontfamily{\examplefont}{Libertinus Sans}
 
@@ -268,7 +266,6 @@
 {\medskip\pagebreak[2]\begin{mdframed}}
 {\smallskip\end{mdframed}}
 
-
 \newcommand{\commentary}[1]{\bigskip\pagebreak[2]\fb{\centering #1}}
 
 % Parenthetical remarks
@@ -280,6 +277,6 @@
 \catcode`|=\active
 \protected\def|{{\hskip 0.1em plus 0.25em\small$\wr$\hskip 0.1em plus 0.1em minus 0.05em\relax}}
 
-% Define · (Opt+Shift+9) as custom hyphen 
+% Define middle dot · (Opt+Shift+9, digraph `.M`) as custom hyphen 
 \catcode`·=\active
 \protected\def·{\discretionary{◦}{}{∙}}
