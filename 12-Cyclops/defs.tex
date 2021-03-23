@@ -3,11 +3,6 @@
 \documentclass[12pt,twoside]{article}
 \usepackage{ifthen}
 
-% Gabler edition line number
-\usepackage{marginfit}
-\newcommand{\gab}[1]{\marginpar[\raggedleft\small #1]{\raggedright\small #1}}
-% TODO: eat the preceding line ending
-
 \newcommand{\sentence}[1]{\pagebreak[3]\section{#1}\indent}
 \newcommand{\histstyle}[1]{\bigskip\centerline{--- \emph{{[}#1{]}} ---}\smallskip}
 
@@ -280,3 +275,8 @@
 % Define middle dot · (Opt+Shift+9, digraph `.M`) as custom hyphen 
 \catcode`·=\active
 \protected\def·{\discretionary{◦}{}{∙}}
+
+% Gabler edition line number
+\usepackage{marginfit}
+\newcommand{\gab}[1]{\marginpar[\raggedleft\small #1]{\raggedright\small #1}}
+% TODO: eat the preceding line ending
