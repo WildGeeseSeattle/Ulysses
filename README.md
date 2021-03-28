@@ -3,48 +3,45 @@
 Scripts for staged readings of James Joyce's *Ulysses*,
 as performed by the [Wild Geese Players of Seattle].
 
-Adapted from the 1922 text of *Ulysses* at
-[Project Gutenberg].
+Adapted from the 1922 text of *Ulysses* at [Project Gutenberg].
 
 # Scripts
 
 Scripts for each episode.
 
-* [01-Telemachus](./01-Telemachus/README.md)
-* [02-Nestor](./02-Nestor/README.md)
-* [03-Proteus](./03-Proteus/README.md)
-* [04-Calypso](./04-Calypso/README.md)
-* [05-TheLotusEaters](./05-TheLotusEaters/README.md)
-* [06-Hades](./06-Hades/README.md)
-* [07-Aeolus](./07-Aeolus/README.md)
-* [08-Lestrygonians](./08-Lestrygonians/README.md)
-* [09-ScyllaAndCharybdis](./09-ScyllaAndCharybdis/README.md)
-* [10-WanderingRocks](./10-WanderingRocks/README.md)
-* [11-Sirens](./11-Sirens/README.md)
-* [12-Cyclops](./12-Cyclops/README.md)
-* [13-Nausicaa](./13-Nausicaa/README.md)
-* [14-OxenOfTheSun](./14-OxenOfTheSun/README.md)
-* [15-Circe](./15-Circe/README.md)
-* [16-Eumaeus](./16-Eumaeus/README.md)
-* [17-Ithaca](./17-Ithaca/README.md)
-* [18-Penelope](./18-Penelope/README.md)
+* [01-Telemachus](./01-Telemachus/)
+* [02-Nestor](./02-Nestor/)
+* [03-Proteus](./03-Proteus/)
+* [04-Calypso](./04-Calypso/)
+* [05-TheLotusEaters](./05-TheLotusEaters/)
+* [06-Hades](./06-Hades/)
+* [07-Aeolus](./07-Aeolus/)
+* [08-Lestrygonians](./08-Lestrygonians/)
+* [09-ScyllaAndCharybdis](./09-ScyllaAndCharybdis/)
+* [10-WanderingRocks](./10-WanderingRocks/)
+* [11-Sirens](./11-Sirens/)
+* [12-Cyclops](./12-Cyclops/)
+* [13-Nausicaa](./13-Nausicaa/)
+* [14-OxenOfTheSun](./14-OxenOfTheSun/)
+* [15-Circe](./15-Circe/)
+* [16-Eumaeus](./16-Eumaeus/)
+* [17-Ithaca](./17-Ithaca/)
+* [18-Penelope](./18-Penelope/)
 
 ## Combined Scripts
 
 To make for better 90–120-minute readings, some episodes have been combined.
 
-* [01-04-Beginnings](./01-04-Beginnings/README.md)
-* [02-05-Mornings](./02-05-Mornings/README.md)
-* [03-06-Isolation](./03-06-Isolation/README.md)
-* [07-08-Windiness](./07-08-Windiness/README.md)
-* [08-09-ShakyLibraries](./08-09-ShakyLibraries/README.md)
+* [01-04-Beginnings](./01-04-Beginnings/)
+* [02-05-Mornings](./02-05-Mornings/)
+* [03-06-Isolation](./03-06-Isolation/)
+* [07-08-Windiness](./07-08-Windiness/)
+* [08-09-ShakyLibraries](./08-09-ShakyLibraries/)
 
-## Miscellaneous Commentary
+## Resources
 
-- [The Modern Word](http://web.archive.org/web/20150423131232/http://www.themodernword.com/joyce/)
-- [Joyce’s Moraculous Sindbook: Suzette Henke](https://ohiostatepress.org/index.htm?/books/book%20pages/henke%20joyces.htm)
-- [James Joyce's Ulysses: Where It's Always June 16, 1904](http://loki.stockton.edu/~kinsellt/projects/ulysses/ulysses.html)
-- [Ulysses AudioBook](http://archive.org/details/Ulysses-Audiobook)
+- [RTÉ 25-hour broadcast of Ulysses](http://archive.org/details/Ulysses-Audiobook-Merged)
+  ([history](https://www.rte.ie/archives/exhibitions/681-history-of-rte/706-rte-1980s/327476-ulysses-broadcast/))
 
 # Building the scripts
 
