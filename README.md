@@ -8,15 +8,15 @@ Adapted from the 1922 text of *Ulysses* at
 
 # Scripts
 
+Scripts for each episode.
+
 * [01-Telemachus](./01-Telemachus/README.md)
 * [02-Nestor](./02-Nestor/README.md)
 * [03-Proteus](./03-Proteus/README.md)
 * [04-Calypso](./04-Calypso/README.md)
 * [05-TheLotusEaters](./05-TheLotusEaters/README.md)
 * [06-Hades](./06-Hades/README.md)
-* [07-08-Windiness](./07-08-Windiness/README.md)
 * [07-Aeolus](./07-Aeolus/README.md)
-* [08-09-ShakyLibraries](./08-09-ShakyLibraries/README.md)
 * [08-Lestrygonians](./08-Lestrygonians/README.md)
 * [09-ScyllaAndCharybdis](./09-ScyllaAndCharybdis/README.md)
 * [10-WanderingRocks](./10-WanderingRocks/README.md)
@@ -28,9 +28,23 @@ Adapted from the 1922 text of *Ulysses* at
 * [16-Eumaeus](./16-Eumaeus/README.md)
 * [17-Ithaca](./17-Ithaca/README.md)
 * [18-Penelope](./18-Penelope/README.md)
+
+## Combined Scripts
+
+To make for better 90–120-minute readings, some episodes have been combined.
+
 * [01-04-Beginnings](./01-04-Beginnings/README.md)
 * [02-05-Mornings](./02-05-Mornings/README.md)
 * [03-06-Isolation](./03-06-Isolation/README.md)
+* [07-08-Windiness](./07-08-Windiness/README.md)
+* [08-09-ShakyLibraries](./08-09-ShakyLibraries/README.md)
+
+## Miscellaneous Commentary
+
+- [The Modern Word](http://web.archive.org/web/20150423131232/http://www.themodernword.com/joyce/)
+- [Joyce’s Moraculous Sindbook: Suzette Henke](https://ohiostatepress.org/index.htm?/books/book%20pages/henke%20joyces.htm)
+- [James Joyce's Ulysses: Where It's Always June 16, 1904](http://loki.stockton.edu/~kinsellt/projects/ulysses/ulysses.html)
+- [Ulysses AudioBook](http://archive.org/details/Ulysses-Audiobook)
 
 # Building the scripts
 
@@ -47,9 +61,8 @@ such as Microsoft Word.
 ## Prerequisites
 
 * Install [TeX].
-  Specifically, you want the [XeLaTeX]
-  flavor of LaTeX, as it supports Unicode input files,
-  TrueType and OpenType fonts, and PDF generation.
+  Specifically, you need the [XeLaTeX] flavor of LaTeX,
+  which supports Unicode input files, TrueType and OpenType fonts, and PDF generation.
 
   * Mac: install [MacTeX]
   * Windows or Linux: install [TeX Live]
