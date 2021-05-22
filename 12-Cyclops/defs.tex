@@ -1,6 +1,6 @@
 % Cyclops commands
 
-\documentclass[12pt,twoside]{article}
+\documentclass[12pt,twoside]{report}
 \usepackage{ifthen}
 
 \newcommand{\sentence}[1]{\pagebreak[3]\section{#1}\indent}
@@ -245,6 +245,7 @@
 \usepackage{fontspec,xltxtra,xunicode}
 \usepackage{fancybox}
 \usepackage{mdframed}
+\usepackage{array}
 \defaultfontfeatures{Mapping=tex-text}
 
 \setmainfont[Mapping=tex-text,Numbers=OldStyle]{Libertinus Serif}
@@ -266,10 +267,6 @@
 \newcommand{\paren}[1]{\hskip 0.75em{\examplefont \emph{#1}}\hskip 0.75em}
 
 \newcommand{\acting}[1]{\commentary{#1}\nobreak}
-
-% Define | as magic separator (cadence bars)
-\catcode`|=\active
-\protected\def|{{\hskip 0.1em plus 0.25em\small$\wr$\hskip 0.1em plus 0.1em minus 0.05em\relax}}
 
 % Define middle dot · (Opt+Shift+9, digraph `.M`) as custom hyphen 
 \catcode`·=\active

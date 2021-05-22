@@ -32,8 +32,9 @@ Wild Geese Players of Seattle\\
 \thispagestyle{empty}
 
 % Page i, Cast
-\begin{tabular}{rlrl}
+\begin{tabular}{|r|l!{\vrule width 2pt}r|l|}
     \multicolumn{4}{c}{\Large \textsc{The Roles}} \\
+    \hline
 N1 (No Man)         & George Reilly &       % \N1, \Nq
 Bloom               & Leon Mattigosh \\     % \Bloom (FOTEI .. EF, Exeunt)
 
@@ -66,41 +67,50 @@ Crofton             & Iain Edgewater \\     % \crofton (RH, Exeunt)
 
 Mr Power            & Aly Gardner &         % \power (RH, Exeunt)
 Ragamuffin          & Olivia B-McD \\  % \ragamuffin (Exeunt)
+    \hline
 \end{tabular}
 
-\bigskip
+\bigskip\bigskip
 
-\begin{tabular}{lll}
+\begin{tabular}{|l|l|l|}
     \multicolumn{3}{c}{\Large \textsc{Narrators 2 and 3}} \\
-\textbf{Section}                    & \textbf{N2}       & \textbf{N3} \\
-Legalities                          & Lynne Compton     & --- \\
-The Land of Holy Michan             & Olivia B-McD      & Maura Donegan \\
-The Heroic Citizen                  & Irene Calvo       & Claudia Finn \\
-The Lords of the Vat                & Roger Berger      & Aly Gardner \\
-A Spirit Speaks                     & Iain Edgewater    & Wendy Joseph \\
-Friends of the Emerald Isle         & Claudia Finn      & Irene Calvo \\
-A Punishment Not At All Condign     & Lynne Compton     & Iain Edgewater \\
-Cynanthropy                         & Irene Calvo       & Olivia B-McD \\
-Parliamentary Questions             & Lynne Compton     & Bill Barnes \\
-The Gaelic Sports Revival           & Roger Berger      & Aly Gardner \\
-Pucking Percy                       & Wendy Joseph      & Bill Barnes \\
-The Giver of Law                    & Iain Edgewater    & Irene Calvo \\
-A Sylvan Wedding                    & Aly Gardner       & Claudia Finn \\
-The Emunctory Field                 & Iain Edgewater    & Bill Barnes \\
-Rustic Hostelry                     & Bill Barnes       & Lynne Compton \\
-God Bless All Here                  & Iain Edgewater    & Leon Mattigosh \\
-Bearing Palms and Harps             & Aly Gardner       & Maura Donegan \\
-Nostrums                            & Claudia Finn      & Bill Barnes \\
-Exeunt the Bloody Jaunting Car      & Aly Gardner       & Iain Edgewater \\
+    \hline
+\textbf{Section}                        & \textbf{N2}       & \textbf{N3} \\
+    \hline
+12.1:  Legalities                       & Lynne Compton     & --- \\
+12.2:  The Land of Holy Michan          & Olivia B-McD      & Maura Donegan \\
+12.3:  The Heroic Citizen               & Irene Calvo       & Claudia Finn \\
+12.4:  The Lords of the Vat             & Roger Berger      & Aly Gardner \\
+12.5:  A Spirit Speaks                  & Iain Edgewater    & Wendy Joseph \\
+12.6:  Friends of the Emerald Isle      & Claudia Finn      & Irene Calvo \\
+12.7:  A Punishment Not At All Condign  & Lynne Compton     & Iain Edgewater \\
+12.8:  Cynanthropy                      & Irene Calvo       & Olivia B-McD \\
+12.9:  Parliamentary Questions          & Lynne Compton     & Bill Barnes \\
+12.10: The Gaelic Sports Revival        & Roger Berger      & Aly Gardner \\
+12.11: Pucking Percy                    & Wendy Joseph      & Bill Barnes \\
+12.12: The Giver of Law                 & Iain Edgewater    & Irene Calvo \\
+12.13: A Sylvan Wedding                 & Aly Gardner       & Claudia Finn \\
+12.14: The Emunctory Field              & Iain Edgewater    & Bill Barnes \\
+12.15: Rustic Hostelry                  & Bill Barnes       & Lynne Compton \\
+12.16: God Bless All Here               & Iain Edgewater    & Leon Mattigosh \\
+12.17: Bearing Palms and Harps          & Aly Gardner       & Maura Donegan \\
+12.18: Nostrums                         & Claudia Finn      & Bill Barnes \\
+12.19: Exeunt the Bloody Jaunting Car   & Aly Gardner       & Iain Edgewater \\
+    \hline
 \end{tabular}
 
 \newpage
 
 
+% Define | as magic separator (cadence bars)
+\catcode`|=\active
+\protected\def|{{\hskip 0.1em plus 0.25em\small$\wr$\hskip 0.1em plus 0.1em minus 0.05em\relax}}
+
 % Page 1, first page of script proper
 \pagenumbering{arabic}
 
-\section*{Cyclops}
+\setcounter{chapter}{11} % one less than actual
+\chapter{Cyclops}
 
 \input{./cyclops-1.tex}
 
