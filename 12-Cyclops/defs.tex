@@ -44,7 +44,7 @@
 
 % Narrators 0-9
 \newcommand{\Nq}                {\optrole{N1 \emph{(int.)}}}
-\newcommand{\N}[1]              {\Narr[N]{#1}}
+\newcommand{\N}[1]              {\Narr[{\ifthenelse{\equal{#1}{3}}{\hskip 2em}{}}N]{#1}}
 \newcommand{\n}[1]              {\narr[n\/]{#1}}
 \newcommand{\F}[1]              {\Narr[F]{#1}}
 \newcommand{\f}[1]              {\narr[f\/]{#1}}
@@ -267,6 +267,10 @@
 \newcommand{\paren}[1]{\hskip 0.75em{\examplefont \emph{#1}}\hskip 0.75em}
 
 \newcommand{\acting}[1]{\commentary{#1}\nobreak}
+
+% Define | as magic separator (cadence bars)
+\catcode`|=\active
+\protected\def|{{\hskip 0.1em plus 0.25em\small$\wr$\hskip 0.1em plus 0.1em minus 0.05em\relax}}
 
 % Define middle dot · (Opt+Shift+9, digraph `.M`) as custom hyphen 
 \catcode`·=\active
