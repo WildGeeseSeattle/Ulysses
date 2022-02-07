@@ -1,0 +1,55 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\input{defs}
+% \input{largeprint} \renewcommand{\gab}[1]{\marginpar[\tiny\raggedleft #1]{\tiny #1}}
+
+\title{\Huge Nausikaa}
+\author{George~V. Reilly\\
+\\
+{\small for the}\\
+Wild Geese Players of Seattle\\
+{\textit{www.WildGeeseSeattle.org}}\\
+\\
+{\small \textbf{Chapter~13} of \textit{Ulysses} by James Joyce}\\
+{\small Adapted from the 1922~edition at Project Gutenberg}
+\\
+\\
+{\small Based upon the 2007 adaptation for the Wild Geese by}\\
+{\small George V. Reilly}\\
+\\
+{\small First Draft}}
+\date{February \nth{6}, 2022}
+\raggedbottom
+
+\begin{document}
+
+% Page i, Title Page
+\maketitle
+\thispagestyle{empty}
+\pagebreak
+
+% Page ii, Cast
+\begin{tabular}{lp{10cm}}
+    \multicolumn{1}{c}{\Large \textsc{The Roles}} \\
+N1\\
+N2\\
+Bloom \\
+Gerty \\
+Edy \\
+Tommy \\
+Jacky \\
+\end{tabular}
+
+\thispagestyle{empty}
+\newpage
+
+
+% Page 1, first page of script proper
+\setcounter{page}{1}
+
+\section*{Nausikaa}
+
+\input{./nausikaa-1.tex}
+
+\end{document}

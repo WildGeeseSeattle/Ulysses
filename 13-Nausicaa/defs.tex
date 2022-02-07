@@ -1,0 +1,288 @@
+% Cyclops commands
+
+\documentclass[12pt,twoside]{report}
+\usepackage{ifthen}
+
+\newcommand{\sentence}[1]{\pagebreak[3]\section{#1}\indent}
+\newcommand{\histstyle}[1]{\bigskip\centerline{--- \emph{{[}#1{]}} ---}\smallskip}
+
+\newcommand{\headline}[1]{\pagebreak[3]\subsection*{\textsc{#1}}\indent}
+
+\newcommand{\Quote}[1]{\emph{#1}}
+\newcommand{\song}[1]{\emph{#1}}
+\newcommand{\Title}[1]{\emph{#1}}
+
+\newcommand{\latin}[1]{\emph{#1}}
+\newcommand{\hungarian}[1]{\emph{#1}}
+\newcommand{\french}[1]{\emph{#1}}
+\newcommand{\german}[1]{\emph{#1}}
+\newcommand{\greek}[1]{\emph{#1}}
+\newcommand{\italian}[1]{\emph{#1}}
+\newcommand{\spanish}[1]{\emph{#1}}
+\newcommand{\irish}[1]{\emph{#1}}
+\newcommand{\yiddish}[1]{\emph{#1}}
+\newcommand{\hebrew}[1]{\emph{#1}}
+\newcommand{\Quotation}[1]{\emph{#1}}
+\newcommand{\russian}[1]{\emph{#1}}
+
+\newcommand{\role}[2]{%
+% #1 is role name; #2 is the trailing ":"
+{\pagebreak[0]\textbf{#1}%
+{\nobreak\hskip 0.1em plus 0.25em\Large\char58\hskip 0.1em plus 0.1em minus 0.05em\relax}~}}
+\newcommand{\Role}[2]{%
+{\pagebreak[1]\vspace{6.5pt plus 3pt minus 2.5pt}\textbf{#1}%
+{\nobreak\hskip 0.1em plus 0.25em\Large\char58\hskip 0.1em plus 0.1em minus 0.05em\relax}~}}
+\newcommand{\narr}[2][N]{\role{#1#2}}
+\newcommand{\Narr}[2][N]{\Role{#1#2}}
+\newcommand{\nrole}[2]{\Narr{#1} #2.\par\Role{#2}}
+\newcommand{\optrole}[2][0]{\ifthenelse {#1>0} {\nrole{#1}{#2}} {\Role{#2}}}
+\newcommand{\Man}[2][Man]{\Role{#1 \##2}}
+\newcommand{\Woman}[2][Woman]{\Role{#1 \##2}}
+\newcommand{\Boy}[2][Boy]{\Role{#1 \##2}}
+
+\newcounter{questions}
+
+% Narrators 0-9
+\newcommand{\Nq}                {\optrole{N1 \emph{(int.)}}}
+\newcommand{\N}[1]              {\Narr[{\ifthenelse{\equal{#1}{3}}{\hskip 2em}{}}N]{#1}}
+\newcommand{\n}[1]              {\narr[n\/]{#1}}
+\newcommand{\F}[1]              {\Narr[F]{#1}}
+\newcommand{\f}[1]              {\narr[f\/]{#1}}
+\newcommand{\M}[1]              {\Narr[M]{#1}}
+\newcommand{\m}[1]              {\narr[m\/]{#1}}
+\newcommand{\Q}[1]              {\addtocounter{questions}{1}%
+\pagebreak[2]\bigskip\textbf{Q#1~~$\langle$\arabic{questions}$\rangle$\char58~}}
+\newcommand{\A}                 {\role{\textbf{A}}}
+\newcommand{\All}[1][0]         {\optrole[#1]{All}}
+\newcommand{\Bloom}[1][0]       {\optrole[#1]{Bloom}}
+\newcommand{\BloomInt}[1][0]    {\optrole[#1]{Bloom \emph{(int.)}}}
+\newcommand{\BloomIntA}[1][0]   {\optrole[#1]{Bloom \emph{(int. A)}}}
+\newcommand{\BloomIntB}[1][0]   {\optrole[#1]{Bloom \emph{(int. B)}}}
+\newcommand{\Molly}[1][0]       {\optrole[#1]{Molly}}
+\newcommand{\Stephen}[1][0]     {\optrole[#1]{Stephen}}
+\newcommand{\StephenInt}[1][0]  {\optrole[#1]{Stephen \emph{(int.)}}}
+
+\newcommand{\slfrac}[2]{\left.#1\middle/#2\right.}
+
+\newcommand{\stage}[1]    {\textit{\textsc{#1}}\/}
+\newcommand{\he}[1]       {\stage{#1}}
+\newcommand{\she}[1]      {\stage{#1}}
+\newcommand{\arse}        {\stage{arse}}
+\newcommand{\AErussell}   {\optrole{Æ Russell}}
+\newcommand{\allfours}    {\optrole{Allfours}}
+\newcommand{\armstrong}   {\optrole{Armstrong}}
+\newcommand{\artifoni}    {\optrole{Artifoni}}
+\newcommand{\american}    {\optrole{American}}
+\newcommand{\attendant}   {\optrole{Attendant}}
+\newcommand{\auctioneer}  {\optrole{Auctioneer}}
+\newcommand{\bantam}      {\optrole{Bantam Lyons}}
+\newcommand{\beggar}      {\he{Beggar}}
+\newcommand{\bergan}      {\optrole{Alf Bergan}}
+\newcommand{\best}        {\optrole{Best}}
+\newcommand{\bishop}      {\he{Bishop}}
+\newcommand{\bloom}       {\he{Bloom}}
+\newcommand{\blondgirl}   {\optrole{Blond Girl}}
+\newcommand{\bloomDa}     {\stage{Bloom's Father}}
+\newcommand{\bloomMa}     {\stage{Bloom's Mother}}
+\newcommand{\boody}       {\optrole{Boody}}
+\newcommand{\book}        {\optrole{Book}}
+\newcommand{\boots}       {\optrole{Boots}}
+\newcommand{\boy}         {\optrole{Boy}}
+\newcommand{\girl}        {\optrole{Girl}}
+\newcommand{\baby}        {\optrole{Baby}}
+\newcommand{\bell}        {\optrole{Bell}}
+\newcommand{\Boys}        {\optrole{Boys}}
+\newcommand{\boylan}      {\optrole{Boylan}}
+\newcommand{\boylanint}   {\optrole{Boylan \emph{(int.)}}}
+\newcommand{\breen}       {\optrole{Denis Breen}}
+\newcommand{\buddha}      {\optrole{Buddha}}
+\newcommand{\burke}       {\optrole{Burke}}
+\newcommand{\cards}       {\stage{Cards}}
+\newcommand{\cashel}      {\optrole{Cashel B.O'C.F.T. Farrell}}
+\newcommand{\cissy}       {\optrole{Cissy}}
+\newcommand{\citizen}     {\optrole{Citizen}}
+\newcommand{\cohen}       {\optrole{Cohen}}
+\newcommand{\cochrane}    {\optrole{Cochrane}}
+\newcommand{\coffey}      {\optrole{Fr~Coffey}}
+\newcommand{\collins}     {\optrole{Dr~Collins}}
+\newcommand{\comyn}       {\optrole{Comyn}}
+\newcommand{\conductor}   {\optrole{Conductor}}
+\newcommand{\conmee}      {\optrole{Fr~Conmee}}
+\newcommand{\conmeeint}   {\optrole{Fr~Conmee \emph{(int.)}}}
+\newcommand{\conacre}     {\optrole{Conacre}}
+\newcommand{\constable}   {\optrole{Constable}}
+\newcommand{\corny}       {\optrole{Corny}}
+\newcommand{\corrigan}    {\he{Fr~Corrigan}}
+\newcommand{\cowley}      {\optrole{Fr~Cowley}}
+\newcommand{\crawford}    {\optrole{Crawford}}
+\newcommand{\criminal}    {\he{Criminal}}
+\newcommand{\crimmins}    {\optrole{Crimmins}}
+\newcommand{\crofton}     {\optrole{Crofton}}
+\newcommand{\cuffe}       {\he{Cuffe}}
+\newcommand{\cunningham}  {\optrole{Cunningham}}
+\newcommand{\curate}      {\optrole{Curate}}
+\newcommand{\dArcy}       {\he{d'Arcy}}
+\newcommand{\davybyrne}   {\optrole{Davy Byrne}}
+\newcommand{\dbc}         {\stage{Dublin Baking Company}}
+\newcommand{\deasy}       {\optrole{Mr~Deasy}}
+\newcommand{\dillon}      {\he{Mr~Dillon}}
+\newcommand{\dilly}       {\optrole{Dilly}}
+\newcommand{\masterdignam}{\optrole{Master Dignam \emph{(int.)}}}
+\newcommand{\dignam}      {\optrole{Paddy Dignam}}
+\newcommand{\mrsdignam}   {\she{Mrs~Dignam}}
+\newcommand{\dog}         {\he{Dog}}
+\newcommand{\dollard}     {\optrole{Ben Dollard}}
+\newcommand{\doran}       {\optrole{Doran}}
+\newcommand{\drover}      {\optrole{Drover}}
+\newcommand{\edy}         {\optrole{Edy}}
+\newcommand{\eglinton}    {\optrole{Eglinton}}
+\newcommand{\emmet}       {\optrole{Emmet}}
+\newcommand{\henny}       {\he{Henny Doyle}}
+\newcommand{\hynes}       {\optrole{Hynes}}
+\newcommand{\emperor}     {\he{Emperor}}
+\newcommand{\fanny}       {\she{Fanny M'Coy}}
+\newcommand{\father}      {\he{Molly's Father}}
+\newcommand{\mrsfleming}  {\she{Mrs~Fleming}}
+\newcommand{\foreman}     {\optrole{Foreman}}
+\newcommand{\mrsjoeg}     {\she{Mrs~Joe Gallaher}}
+\newcommand{\gardner}     {\he{Gardner}}
+\newcommand{\garryowen}   {\optrole{Garryowen}}
+\newcommand{\gentfash}    {\he{Gentleman of Fashion}}
+\newcommand{\gerty}       {\optrole{Gerty}}
+\newcommand{\goodwin}     {\he{Goodwin}}
+\newcommand{\goulding}    {\optrole{Goulding}}
+\newcommand{\griffith}    {\he{Griffith}}
+\newcommand{\groves}      {\he{Groves}}
+\newcommand{\gunn}        {\he{Michael Gunn}}
+\newcommand{\haines}      {\optrole{Haines}}
+\newcommand{\hester}      {\she{Hester Stanhope}}
+\newcommand{\huckster}    {\optrole{Huckster}}
+\newcommand{\idiot}       {\he{Idiot}}
+\newcommand{\jacky}       {\optrole{Jacky}}
+\newcommand{\jjom}        {\optrole{J.J.~O'Molloy}}
+\newcommand{\joe}         {\optrole{Joe}}
+\newcommand{\johnwyse}    {\optrole{John Wyse Nolan}}
+\newcommand{\jimmyhenry}  {\optrole{Jimmy Henry}}
+\newcommand{\josie}       {\optrole{Mrs~Breen}}
+\newcommand{\katey}       {\optrole{Katey}}
+\newcommand{\kc}          {\he{K~C}}
+\newcommand{\kernan}      {\optrole{Kernan}}
+\newcommand{\kernanint}   {\optrole{Kernan \emph{(int.)}}}
+\newcommand{\lacquey}     {\optrole{Lacquey}}
+\newcommand{\lambert}     {\optrole{Ned Lambert}}
+\newcommand{\mrslangtry}  {\she{Mrs~Langtry}}
+\newcommand{\lenehan}     {\optrole{Lenehan}}
+\newcommand{\leonard}     {\optrole{Paddy Leonard}}
+\newcommand{\librarian}   {\optrole{Librarian}}
+\newcommand{\lidwell}     {\optrole{Lidwell}}
+\newcommand{\longjohn}    {\optrole{Long John Fanning}}
+\newcommand{\lucan}       {\he{Lucan}}
+\newcommand{\machugh}     {\optrole{MacHugh}}
+\newcommand{\man}         {\optrole{Man}}
+\newcommand{\mary}        {\optrole{Mary}}
+\newcommand{\mcoy}        {\optrole{M'Coy}}
+\newcommand{\mastiansky}  {\he{Mr~Mastiansky}}
+\newcommand{\maybrick}    {\he{Mr~Maybrick}}
+\newcommand{\maggy}       {\optrole{Maggy}}
+\newcommand{\MissD}       {\optrole{Miss Douce}}
+\newcommand{\MissDInt}    {\optrole{Miss Douce \emph{(int.)}}}
+\newcommand{\MissK}       {\optrole{Miss Kennedy}}
+\newcommand{\MissKInt}    {\optrole{Miss Kennedy \emph{(int.)}}}
+\newcommand{\MissesDK}    {\optrole{Miss Douce and Miss Kennedy}}
+\newcommand{\missdunne}   {\optrole{Miss Dunne}}
+\newcommand{\dunneint}    {\optrole{Miss Dunne \emph{(int.)}}}
+\newcommand{\men}         {\optrole{Men}}
+\newcommand{\menton}      {\optrole{Menton}}
+\newcommand{\milly}       {\she{Milly}}
+\newcommand{\molly}       {\she{Molly}}
+\newcommand{\mulligan}    {\optrole{Mulligan}}
+\newcommand{\mulvey}      {\he{Mulvey}}
+\newcommand{\nannetti}    {\optrole{Nannetti}}
+\newcommand{\nosey}       {\optrole{Nosey Flynn}}
+\newcommand{\oconnell}    {\optrole{O'Connell}}
+\newcommand{\omaddenburke}{\optrole{O'Madden Burke}}
+\newcommand{\oreilly}     {\optrole{O'Reilly}}
+\newcommand{\orourke}     {\he{O'Rourke}}
+\newcommand{\other}       {\he{Other Man}}
+\newcommand{\ourlord}     {\he{Our Lord}}
+\newcommand{\pitman}      {\he{Man in Pit}}
+\newcommand{\policeman}   {\optrole{Policeman}}
+\newcommand{\power}       {\optrole{Mr~Power}}
+\newcommand{\ragamuffin}  {\optrole{Ragamuffin}}
+\newcommand{\redhead}     {\he{Red~Head}}
+\newcommand{\redmurray}   {\optrole{Red Murray}}
+\newcommand{\revlove}     {\optrole{Rev~Love}}
+\newcommand{\riordan}     {\he{Mr~Riordan}}
+\newcommand{\rochford}    {\optrole{Tom Rochford}}
+\newcommand{\rudy}        {\he{Rudy Bloom}}
+\newcommand{\russell}     {\optrole{Russell}}
+\newcommand{\sailor}      {\optrole{Sailor}}
+\newcommand{\sargent}     {\optrole{Sargent}}
+\newcommand{\shopgirl}    {\optrole{Shopgirl}}
+\newcommand{\shopman}     {\optrole{Shopman}}
+\newcommand{\mrssheehy}   {\optrole{Mrs~Sheehy}}
+\newcommand{\simon}       {\optrole{Simon Dedalus}}
+\newcommand{\stanhope}    {\he{Mr~Stanhope}}
+\newcommand{\stephen}     {\he{Stephen Dedalus}}
+\newcommand{\statue}      {\he{Statue}}
+\newcommand{\Speaker}     {\optrole{Speaker}}
+\newcommand{\staylewit}   {\optrole{Staylewit}}
+\newcommand{\stripling}   {\optrole{Stripling}}
+\newcommand{\student}     {\he{Student}}
+\newcommand{\talbot}      {\optrole{Talbot}}
+\newcommand{\terry}       {\optrole{Terry}}
+\newcommand{\tommy}       {\optrole{Tommy}}
+\newcommand{\timekeeper}  {\optrole{Timekeeper}}
+\newcommand{\tomlinson}   {\optrole{Tomlinson}}
+\newcommand{\valdillon}   {\he{Val Dillon}}
+\newcommand{\voice}       {\optrole{Voice}}
+\newcommand{\wales}       {\he{Prince of Wales}}
+\newcommand{\wogger}      {\he{Wogger}}
+\newcommand{\woman}       {\optrole{Woman}}
+\newcommand{\workman}     {\he{Workman}}
+
+%---------------------------------------------
+
+\usepackage[super]{nth}
+\usepackage{geometry}
+\geometry{letterpaper}
+
+\usepackage[normalem]{ulem}
+\usepackage{fontspec,xltxtra,xunicode}
+\usepackage{fancybox}
+\usepackage{mdframed}
+\usepackage{array}
+\defaultfontfeatures{Mapping=tex-text}
+
+\setmainfont[Mapping=tex-text,Numbers=OldStyle]{Libertinus Serif}
+
+% Framed box
+\newcommand{\fb}[1]{
+  \begin{center}
+    \fbox{\parbox{.9\textwidth}{\setlength\parindent{1em}#1}}
+  \end{center}
+}
+
+\newenvironment{interject}
+{\medskip\pagebreak[2]\begin{mdframed}}
+{\smallskip\end{mdframed}}
+
+\newcommand{\commentary}[1]{\bigskip\pagebreak[2]\fb{\centering #1}}
+
+% Parenthetical remarks
+\newcommand{\paren}[1]{\hskip 0.75em{\examplefont \emph{#1}}\hskip 0.75em}
+
+\newcommand{\acting}[1]{\commentary{#1}\nobreak}
+
+% Define | as magic separator (cadence bars)
+\catcode`|=\active
+\protected\def|{{\hskip 0.1em plus 0.25em\small$\wr$\hskip 0.1em plus 0.1em minus 0.05em\relax}}
+
+% Define middle dot · (Opt+Shift+9, digraph `.M`) as custom hyphen 
+\catcode`·=\active
+\protected\def·{\discretionary{◦}{}{∙}}
+
+% Gabler edition line number
+\usepackage{marginfit}
+\newcommand{\gab}[1]{\marginpar[\raggedleft\small #1]{\raggedright\small #1}}
+% TODO: eat the preceding line ending
