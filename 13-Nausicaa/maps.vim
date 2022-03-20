@@ -81,6 +81,9 @@ nnoremap <silent> ;n5 0i<CR>\N5:<CR><Esc>
 nnoremap <silent> ;n6 0i<CR>\N6:<CR><Esc>
 
 nnoremap <silent> ;nn 0i\N{19}:<CR><Esc>
+nnoremap <silent> ;nN 0i<CR>\Nnovel:<CR><Esc>
+nnoremap <silent> ;nR 0i<CR>\Nrelig:<CR><Esc>
+nnoremap <silent> ;nr 0i<CR>\Nreal:<CR><Esc>
 
 nnoremap <silent> ;f1 0i<CR>\F1:<CR><Esc>
 nnoremap <silent> ;f2 0i<CR>\F2:<CR><Esc>
@@ -104,8 +107,18 @@ nnoremap <silent> ;al 0i\All:<CR><Esc>
 
 nnoremap <silent> ;bl 02xi\Bloom:<CR><Esc>
 nnoremap <silent> ;bi 0i<CR>\BloomInt:<CR><Esc>
+nnoremap <silent> ;ba 0i<CR>\BloomAbstract:<CR><Esc>
+nnoremap <silent> ;bc 0i<CR>\BloomCurrent:<CR><Esc>
+nnoremap <silent> ;bh 0i<CR>\BloomHist:<CR><Esc>
+nnoremap <silent> ;bt 0i<CR>\BloomToday:<CR><Esc>
 nnoremap <silent> ;sd 02xi\Stephen:<CR><Esc>
 nnoremap <silent> ;si 0i<CR>\StephenInt:<CR><Esc>
+
+nnoremap <silent> ;gj 0i<CR>\gertyJudgy:<CR><Esc>
+nnoremap <silent> ;gn 0i<CR>\gertyNovel:<CR><Esc>
+nnoremap <silent> ;gr 0i<CR>\gertyReal:<CR><Esc>
+nnoremap <silent> ;gR 0i<CR>\gertyRomantic:<CR><Esc>
+nnoremap <silent> ;gs 0i<CR>\gertySex:<CR><Esc>
 
 nnoremap <silent> ;cm 02xi\conmee:<CR><Esc>
 nnoremap <silent> ;ci 0i\conmeeint:<CR><Esc>

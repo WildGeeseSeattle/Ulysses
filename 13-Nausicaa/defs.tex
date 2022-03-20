@@ -43,21 +43,29 @@
 \newcounter{questions}
 
 % Narrators 0-9
-\newcommand{\Nq}                {\optrole{N1 \emph{(int.)}}}
 \newcommand{\N}[1]              {\Narr[{\ifthenelse{\equal{#1}{3}}{\hskip 2em}{}}N]{#1}}
 \newcommand{\n}[1]              {\narr[n\/]{#1}}
 \newcommand{\F}[1]              {\Narr[F]{#1}}
 \newcommand{\f}[1]              {\narr[f\/]{#1}}
 \newcommand{\M}[1]              {\Narr[M]{#1}}
 \newcommand{\m}[1]              {\narr[m\/]{#1}}
+\newcommand{\Nq}                {\optrole{N1 \emph{(int.)}}}
+\newcommand{\Nnovel}[1][0]      {\optrole[#1]{N \textsc{(novel)}}}
+\newcommand{\Nrelig}[1][0]      {\optrole[#1]{N \textsc{(religious)}}}
+
 \newcommand{\Q}[1]              {\addtocounter{questions}{1}%
 \pagebreak[2]\bigskip\textbf{Q#1~~$\langle$\arabic{questions}$\rangle$\char58~}}
 \newcommand{\A}                 {\role{\textbf{A}}}
+
 \newcommand{\All}[1][0]         {\optrole[#1]{All}}
 \newcommand{\Bloom}[1][0]       {\optrole[#1]{Bloom}}
 \newcommand{\BloomInt}[1][0]    {\optrole[#1]{Bloom \emph{(int.)}}}
 \newcommand{\BloomIntA}[1][0]   {\optrole[#1]{Bloom \emph{(int. A)}}}
 \newcommand{\BloomIntB}[1][0]   {\optrole[#1]{Bloom \emph{(int. B)}}}
+\newcommand{\BloomAbstract}[1][0]{\optrole[#1]{Bloom \textsc{(abstract)}}}
+\newcommand{\BloomCurrent}[1][0]{\optrole[#1]{Bloom \textsc{(current)}}}
+\newcommand{\BloomHist}[1][0]   {\optrole[#1]{Bloom \textsc{(personal history)}}}
+\newcommand{\BloomToday}[1][0]  {\optrole[#1]{Bloom \textsc{(today)}}}
 \newcommand{\Molly}[1][0]       {\optrole[#1]{Molly}}
 \newcommand{\Stephen}[1][0]     {\optrole[#1]{Stephen}}
 \newcommand{\StephenInt}[1][0]  {\optrole[#1]{Stephen \emph{(int.)}}}
@@ -76,6 +84,7 @@
 \newcommand{\attendant}   {\optrole{Attendant}}
 \newcommand{\auctioneer}  {\optrole{Auctioneer}}
 \newcommand{\bantam}      {\optrole{Bantam Lyons}}
+\newcommand{\bat}         {\optrole{Bat}}
 \newcommand{\beggar}      {\he{Beggar}}
 \newcommand{\bergan}      {\optrole{Alf Bergan}}
 \newcommand{\best}        {\optrole{Best}}
@@ -141,6 +150,7 @@
 \newcommand{\hynes}       {\optrole{Hynes}}
 \newcommand{\emperor}     {\he{Emperor}}
 \newcommand{\fanny}       {\she{Fanny M'Coy}}
+\newcommand{\Father}      {\optrole{Father}}
 \newcommand{\father}      {\he{Molly's Father}}
 \newcommand{\mrsfleming}  {\she{Mrs~Fleming}}
 \newcommand{\foreman}     {\optrole{Foreman}}
@@ -149,6 +159,11 @@
 \newcommand{\garryowen}   {\optrole{Garryowen}}
 \newcommand{\gentfash}    {\he{Gentleman of Fashion}}
 \newcommand{\gerty}       {\optrole{Gerty}}
+\newcommand{\gertyJudgy}[1][0] {\optrole[#1]{Gerty \textsc{(judging)}}}
+\newcommand{\gertyNovel}[1][0] {\optrole[#1]{Gerty \textsc{(novel)}}}
+\newcommand{\gertyReal}[1][0]  {\optrole[#1]{Gerty \textsc{(reality)}}}
+\newcommand{\gertyRomantic}[1][0]  {\optrole[#1]{Gerty \textsc{(romantic)}}}
+\newcommand{\gertySex}[1][0]   {\optrole[#1]{Gerty \textsc{(sexual awareness)}}}
 \newcommand{\goodwin}     {\he{Goodwin}}
 \newcommand{\goulding}    {\optrole{Goulding}}
 \newcommand{\griffith}    {\he{Griffith}}
