@@ -5,6 +5,7 @@ Bloom goes to Paddy Dignam's funeral.
 ## Commentary
 
 - [Text of Chapter 6](http://www.online-literature.com/james_joyce/ulysses/6/)
+- [The Joyce Project: Hades](http://m.joyceproject.com/chapters/hades.html)
 - [Kennesaw Guide](http://web.archive.org/web/20120614235446/http://ksumail.kennesaw.edu/~mglosup/ulysses/hades.htm)
 - [Cliff Notes](http://www.cliffsnotes.com/literature/u/ulysses/summary-and-analysis/chapter-6)
 - [Sparknotes](http://www.sparknotes.com/lit/ulysses/section6.rhtml)

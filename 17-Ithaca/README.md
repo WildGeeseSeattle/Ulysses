@@ -5,7 +5,7 @@ Stephen and Bloom talk at 7 Eccles Street.
 ## Commentary
 
 - [Text of Chapter 17](http://www.online-literature.com/james_joyce/ulysses/17/)
-- [The Joyce Project: Cyclops](http://m.joyceproject.com/chapters/ithaca.html)
+- [The Joyce Project: Ithaca](http://m.joyceproject.com/chapters/ithaca.html)
 - [Ulysses Guide](http://www.ulyssesguide.com/17-ithaca)
 - [Kennesaw Guide](http://web.archive.org/web/20120515105005/http://ksumail.kennesaw.edu:80/~mglosup/ulysses/ithaca.htm)
 - [Cliff Notes](http://www.cliffsnotes.com/literature/u/ulysses/summary-and-analysis/chapter-17)

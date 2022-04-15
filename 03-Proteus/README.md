@@ -5,6 +5,7 @@ Stephen muses on Sandymount Strand.
 ## Commentary
 
 - [Text of Chapter 3](http://www.online-literature.com/james_joyce/ulysses/3/)
+- [The Joyce Project: Proteus](http://m.joyceproject.com/chapters/proteus.html)
 - [Kennesaw Guide](http://web.archive.org/web/20120618124805/http://ksumail.kennesaw.edu/~mglosup/ulysses/proteus.htm)
 - [Cliff Notes](http://www.cliffsnotes.com/literature/u/ulysses/summary-and-analysis/chapter-3)
 - [Sparknotes](http://www.sparknotes.com/lit/ulysses/section3.rhtml)

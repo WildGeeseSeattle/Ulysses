@@ -5,7 +5,7 @@
 ## Commentary
 
 - [Text of Chapter 14](http://www.online-literature.com/james_joyce/ulysses/14/)
-- [The Joyce Project: Cyclops](http://m.joyceproject.com/chapters/nausicaa.html)
+- [The Joyce Project: Oxen of the Sun](http://m.joyceproject.com/chapters/oxen.html)
 - [Ulysses Guide](http://www.ulyssesguide.com/14-nausicaa)
 - [Kennesaw Guide](http://web.archive.org/web/20120515105005/http://ksumail.kennesaw.edu:80/~mglosup/ulysses/nausicaa.htm)
 - [Cliff Notes](http://www.cliffsnotes.com/literature/u/ulysses/summary-and-analysis/chapter-14)

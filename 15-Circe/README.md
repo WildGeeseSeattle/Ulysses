@@ -5,7 +5,7 @@ The Brothel Chapter
 ## Commentary
 
 - [Text of Chapter 15](http://www.online-literature.com/james_joyce/ulysses/15/)
-- [The Joyce Project: Cyclops](http://m.joyceproject.com/chapters/circe.html)
+- [The Joyce Project: Circe](http://m.joyceproject.com/chapters/circe.html)
 - [Ulysses Guide](http://www.ulyssesguide.com/15-circe)
 - [Kennesaw Guide](http://web.archive.org/web/20120515105005/http://ksumail.kennesaw.edu:80/~mglosup/ulysses/circe.htm)
 - [Cliff Notes](http://www.cliffsnotes.com/literature/u/ulysses/summary-and-analysis/chapter-15)

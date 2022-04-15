@@ -5,7 +5,7 @@ Bloom admires Gerty MacDowell from afar.
 ## Commentary
 
 - [Text of Chapter 13](http://www.online-literature.com/james_joyce/ulysses/13/)
-- [The Joyce Project: Cyclops](http://m.joyceproject.com/chapters/nausicaa.html)
+- [The Joyce Project: Nausicaa](http://m.joyceproject.com/chapters/nausicaa.html)
 - [Ulysses Guide](http://www.ulyssesguide.com/13-nausicaa)
 - [Kennesaw Guide](http://web.archive.org/web/20120515105005/http://ksumail.kennesaw.edu:80/~mglosup/ulysses/nausicaa.htm)
 - [Cliff Notes](http://www.cliffsnotes.com/literature/u/ulysses/summary-and-analysis/chapter-13)

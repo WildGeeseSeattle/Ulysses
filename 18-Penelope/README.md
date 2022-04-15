@@ -5,7 +5,7 @@ Molly ruminates in bed
 ## Commentary
 
 - [Text of Chapter 18](http://www.online-literature.com/james_joyce/ulysses/18/)
-- [The Joyce Project: Cyclops](http://m.joyceproject.com/chapters/penelope.html)
+- [The Joyce Project: Penelope](http://m.joyceproject.com/chapters/penelope.html)
 - [Ulysses Guide](http://www.ulyssesguide.com/18-penelope)
 - [Kennesaw Guide](http://web.archive.org/web/20120515105005/http://ksumail.kennesaw.edu:80/~mglosup/ulysses/penelope.htm)
 - [Cliff Notes](http://www.cliffsnotes.com/literature/u/ulysses/summary-and-analysis/chapter-18)

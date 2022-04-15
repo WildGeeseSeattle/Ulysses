@@ -5,7 +5,7 @@ Stephen and Bloom talk at the Cabman's Shelter.
 ## Commentary
 
 - [Text of Chapter 16](http://www.online-literature.com/james_joyce/ulysses/16/)
-- [The Joyce Project: Cyclops](http://m.joyceproject.com/chapters/eumaeus.html)
+- [The Joyce Project: Eumaeus](http://m.joyceproject.com/chapters/eumaeus.html)
 - [Ulysses Guide](http://www.ulyssesguide.com/16-eumaeus)
 - [Kennesaw Guide](http://web.archive.org/web/20120515105005/http://ksumail.kennesaw.edu:80/~mglosup/ulysses/eumaeus.htm)
 - [Cliff Notes](http://www.cliffsnotes.com/literature/u/ulysses/summary-and-analysis/chapter-16)

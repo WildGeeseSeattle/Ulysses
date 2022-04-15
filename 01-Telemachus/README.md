@@ -5,6 +5,7 @@ Stephen begins his day at the Martello Tower with Buck Mulligan and Haines.
 ## Commentary
 
 - [Text of Chapter 1](http://www.online-literature.com/james_joyce/ulysses/1/)
+- [The Joyce Project: Telemachus](http://m.joyceproject.com/chapters/telem.html)
 - [Kennesaw Guide](http://ksumail.kennesaw.edu/~mglosup/ulysses/telemachus.htm)
 - [Cliff Notes](http://www.cliffsnotes.com/literature/u/ulysses/summary-and-analysis/chapter-1)
 - [Sparknotes](http://www.sparknotes.com/lit/ulysses/section1.rhtml)
