@@ -110,6 +110,7 @@ nnoremap <silent> ;bi 0i<CR>\BloomInt:<CR><Esc>
 nnoremap <silent> ;ba 0i<CR>\BloomAbstract:<CR><Esc>
 nnoremap <silent> ;bc 0i<CR>\BloomCurrent:<CR><Esc>
 nnoremap <silent> ;bh 0i<CR>\BloomHist:<CR><Esc>
+nnoremap <silent> ;bo 0i<CR>\BloomOther:<CR><Esc>
 nnoremap <silent> ;bt 0i<CR>\BloomToday:<CR><Esc>
 nnoremap <silent> ;sd 02xi\Stephen:<CR><Esc>
 nnoremap <silent> ;si 0i<CR>\StephenInt:<CR><Esc>
