@@ -11,6 +11,9 @@ pdf: $(TARGET).pdf
 %.pdf: %.tex %-1.tex defs.tex
 	$(TEXBIN)/xelatex $<
 
+%2.pdf: %2.tex %-2.tex defs.tex
+	$(TEXBIN)/xelatex $<
+
 ftp:
 	rsync -av $(TARGET).pdf $(FTPDIR)
 
