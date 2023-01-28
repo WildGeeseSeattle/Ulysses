@@ -105,11 +105,16 @@ you can use `make` to build the script:
 make pdf
 ```
 
-Otherwise, run `xelatex` against the main TeX file;
+Otherwise, run `xelatex` against the main TeX file:
 
 ```bash
 xelatex sirens.tex
 ```
+
+If you see a warning like
+"LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right",
+you will need to rebuild using `make -B pdf`.
+
 
 [Wild Geese Players of Seattle]: https://www.WildGeeseSeattle.org/
 [Project Gutenberg]: https://www.gutenberg.org/files/4300/4300-h/4300-h.htm
