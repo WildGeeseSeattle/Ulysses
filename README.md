@@ -110,7 +110,7 @@ e.g., `xelatex sirens.tex`
 [XeLaTeX]: https://www.overleaf.com/learn/latex/XeLaTeX
 [MacTeX]: http://www.tug.org/mactex/
 [TeX Live]: http://www.tug.org/texlive/
-[Libertinus fonts]: https://github.com/alif-type/libertinus/releases
+[Libertinus fonts]: https://github.com/alerque/libertinus/releases
 [PDF viewer]: https://blog.hubspot.com/marketing/best-free-pdf-reader
 [Skim]: https://skim-app.sourceforge.io/
 [Adobe Acrobat Reader]: https://acrobat.adobe.com/
