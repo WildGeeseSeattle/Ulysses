@@ -71,6 +71,7 @@
 \defaultfontfeatures{Mapping=tex-text}
 
 \setmainfont[Mapping=tex-text,Numbers=OldStyle]{Libertinus Serif}
+\newfontfamily{\examplefont}{Noto Sans}
 
 % Framed box
 \newcommand{\fb}[1]{
@@ -82,7 +83,7 @@
 \newcommand{\commentary}[1]{\bigskip\pagebreak[2]\fb{\centering #1}}
 
 % Parenthetical remarks
-\newcommand{\paren}[1]{\hskip 0.75em{\examplefont \emph{#1}}\hskip 0.75em}
+\newcommand{\paren}[1]{\hskip 0.75em{\examplefont\footnotesize \emph{#1}}\hskip 0.75em}
 
 \newcommand{\acting}[1]{\commentary{#1}\nobreak}
 

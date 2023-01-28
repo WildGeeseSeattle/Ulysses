@@ -67,6 +67,9 @@ such as Microsoft Word.
 * Install the [Libertinus fonts]
   to get a high-quality, TeX-friendly seriffed font.
 
+* Install the [Noto Sans fonts]
+  to get a sans serif font used in a couple of places.
+
 * Install a [PDF viewer],
   if you don't have one already
 
@@ -77,7 +80,7 @@ such as Microsoft Word.
   you'll need a good [text editor],
   preferably one with [syntax highlighting]
   for TeX/LaTeX.
-  Do not use Word, Notepad, or TextEdit.
+  Do *not* use Word, Notepad, or TextEdit: you will regret it.
 
   * Vim: the `maps.vim` file in each directory provides a set of Vim macros,
     mostly for adding LaTex markup.
@@ -96,10 +99,17 @@ e.g. `11-Sirens`:
 * Mac: [open Terminal on a folder]
 
 If you have [Gnu Make],
-you can build the script with `make pdf`.
+you can use `make` to build the script:
+
+```bash
+make pdf
+```
 
 Otherwise, run `xelatex` against the main TeX file;
-e.g., `xelatex sirens.tex`
+
+```bash
+xelatex sirens.tex
+```
 
 [Wild Geese Players of Seattle]: https://www.WildGeeseSeattle.org/
 [Project Gutenberg]: https://www.gutenberg.org/files/4300/4300-h/4300-h.htm
@@ -111,6 +121,7 @@ e.g., `xelatex sirens.tex`
 [MacTeX]: http://www.tug.org/mactex/
 [TeX Live]: http://www.tug.org/texlive/
 [Libertinus fonts]: https://github.com/alerque/libertinus/releases
+[Noto Sans fonts]: https://fonts.google.com/noto/specimen/Noto+Sans
 [PDF viewer]: https://blog.hubspot.com/marketing/best-free-pdf-reader
 [Skim]: https://skim-app.sourceforge.io/
 [Adobe Acrobat Reader]: https://acrobat.adobe.com/
