@@ -63,6 +63,7 @@ such as Microsoft Word.
 
   * Mac: install [MacTeX]
   * Windows or Linux: install [TeX Live]
+  * Or install [Tectonic] on any platform
 
 * Install the [Libertinus fonts]
   to get a high-quality, TeX-friendly seriffed font.
@@ -125,6 +126,7 @@ you will need to rebuild using `make -B pdf`.
 [XeLaTeX]: https://www.overleaf.com/learn/latex/XeLaTeX
 [MacTeX]: http://www.tug.org/mactex/
 [TeX Live]: http://www.tug.org/texlive/
+[Tectonic]: https://tectonic-typesetting.github.io/en-US/install.html
 [Libertinus fonts]: https://github.com/alerque/libertinus/releases
 [Noto Sans fonts]: https://fonts.google.com/noto/specimen/Noto+Sans
 [PDF viewer]: https://blog.hubspot.com/marketing/best-free-pdf-reader
