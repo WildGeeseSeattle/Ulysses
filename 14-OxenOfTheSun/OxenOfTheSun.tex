@@ -1,48 +1,7 @@
 %!TEX TS-program = xelatex
 %!TEX encoding = UTF-8 Unicode
 
-% Oxen of the Sun commands
-
-\newcommand{\role}[1]{\textbf{#1}}
-\newcommand{\stage}[1]{{[}\emph{#1}{]}}
-\newcommand{\histstyle}[1]{\bigskip\centerline{--- \emph{{[}#1{]}} ---}\smallskip}
-
-\newcommand{\song}[1]{\emph{#1}}
-\newcommand{\latin}[1]{\emph{#1}}
-\newcommand{\french}[1]{\emph{#1}}
-\newcommand{\german}[1]{\emph{#1}}
-\newcommand{\italian}[1]{\emph{#1}}
-\newcommand{\spanish}[1]{\emph{#1}}
-
-\newcommand{\N}[1]{\role{N#1}}
-\newcommand{\Nurses}{\role{Nurses}}
-\newcommand{\All}{\role{All}}
-\newcommand{\Ba}{\role{Bannon}}
-\newcommand{\Bl}{\role{Bloom}}
-\newcommand{\BL}{\role{Bantam Lyons}}
-\newcommand{\Br}{\role{Barman}}
-\newcommand{\By}{\role{Bystander}}
-\newcommand{\Cr}{\role{Crotthers}}
-\newcommand{\Dw}{\role{Dowie}}
-\newcommand{\Dx}{\role{Dixon}}
-\newcommand{\Ln}{\role{Lenehan}}
-\newcommand{\Ly}{\role{Lynch}}
-\newcommand{\Md}{\role{Madden}}
-\newcommand{\Mu}{\role{Mulligan}}
-\newcommand{\nc}{\role{Nurse Callan}}
-\newcommand{\nq}{\role{Nurse Quigley}}
-\newcommand{\PC}{\role{Punch}}
-\newcommand{\SD}{\role{Stephen}}
-
-
-\documentclass[12pt]{article}
-\usepackage[super]{nth}
-\usepackage{geometry}
-\geometry{letterpaper}
-
-\usepackage{fontspec,xltxtra,xunicode}
-\defaultfontfeatures{Mapping=tex-text}
-\setmainfont[Mapping=tex-text,Numbers=OldStyle]{Libertinus Serif}
+\input{defs}
 
 \title{\Huge Oxen of the Sun}
 \author{George~V. Reilly\\
@@ -72,22 +31,22 @@ Wild Geese Players of Seattle\\
 \N1 & First narrator. An unreliable sort. \\
 \N2 & Narrator the second. No better. \\
 \N3 & Supplier of tertiary narrative. \\
-\nc & Endued with every quality of modesty. \\
-\nq & An ancient and sad matron. \\
-\Bl & A latter-day Odysseus. \\
-\Dx & Junior; a doctor at the Mater Hospital. \\
-\Ln & An elder franklin and accomplished moocher. \\
-\Ly & Vincent; a student of medicine. \\
-\Md & William; likewise. \\
-\Cr & A Scot; also a doctor. \\
-\SD & Telemachus; intelligent, but not wise. \\
-\PC & Francis, a buffoon. \\
-\Mu & Malachi, a fine young buck. \\
-\Ba & Alec; a confidante of Mulligan's. \\
-\Br & An abettor of drunkeness. \\
-\By & Bemused and befuddled. \\
-\BL & Barfly and gambler. \\
-\Dw & Alexander J. Christ, an excrement yellow gospeller.
+\nursecallan & Endued with every quality of modesty. \\
+\nursequigley & An ancient and sad matron. \\
+\Bloom & A latter-day Odysseus. \\
+\dixon & Junior; a doctor at the Mater Hospital. \\
+\lenehan & An elder franklin and accomplished moocher. \\
+\lynch & Vincent; a student of medicine. \\
+\madden & William; likewise. \\
+\crotthers & A Scot; also a doctor. \\
+\stephen & Telemachus; intelligent, but not wise. \\
+\punch & Francis, a buffoon. \\
+\mulligan & Malachi, a fine young buck. \\
+\bannon & Alec; a confidante of Mulligan's. \\
+\barman & An abettor of drunkeness. \\
+\bystander & Bemused and befuddled. \\
+\bantam & Barfly and gambler. \\
+\dowie & Alexander J. Christ, an excrement yellow gospeller.
 \end{tabular}
 
 \pagebreak
@@ -350,7 +309,7 @@ there was above one quick with child, a gentle dame, whose time hied fast.
 
 \N1: This meanwhile this good sister stood by the door:
 
-\nc: I begged ye at the reverence of Jesu our alther liege Lord
+\nursecallan: I begged ye at the reverence of Jesu our alther liege Lord
 to leave your wassailing for there is above one quick with child,
 a gentle dame, whose time hies fast.
 
@@ -359,19 +318,19 @@ a gentle dame, whose time hies fast.
 \N2: Sir Leopold heard on the upfloor cry on high and he wondered what cry that
 it was whether of child or woman.
 
-\Bl: I marvel that it be not come or now. Meseems it dureth overlong.
+\Bloom: I marvel that it be not come or now. Meseems it dureth overlong.
 
 \N3: And he was ware and saw a franklin that hight Lenehan on that side
 the table that was older than any of the tother and for that they both
 were knights virtuous in the one emprise and eke by cause that he was
 elder he spoke to him full gently.
 
-\Bl: But or it be long too she will bring forth by God His bounty and
+\Bloom: But or it be long too she will bring forth by God His bounty and
 have joy of her childing for she hath waited marvellous long.
 
 \N1: And the franklin that had drunken said:
 
-\Ln: Expecting each moment to be her next.
+\lenehan: Expecting each moment to be her next.
 
 \N2: Also he took the cup that stood tofore him for him needed never none
 asking nor desiring of him to drink and, Now drink, said he, fully
@@ -420,8 +379,8 @@ on with will to wander, loth to leave.
 \N3: For they were right witty scholars. And he heard their aresouns each
 gen other as touching birth and righteousness.
 
-\sout{young Madden maintaining that}
-\Md: I put such case it were hard the wife to die (for so it fell out a
+\sout{young Madden maintaining that}\\
+\madden: I put such case it were hard the wife to die (for so it fell out a
 matter of some year agone with a woman of Eblana in Horne's house that
 now was trespassed out of this world and the self night next before her
 death all leeches and pothecaries had taken counsel of her case).
@@ -431,8 +390,8 @@ said, the woman should bring forth in pain and wherefore they that were of
 this imagination affirmed how young Madden had said truth for he had
 conscience to let her die.
 
-\sout{And not few and of these was young Lynch were}
-\Ly: I am in doubt that the world was now right evil governed as it was
+\sout{And not few and of these was young Lynch were}\\
+\lynch: I am in doubt that the world was now right evil governed as it was
 never other howbeit the mean people believed it otherwise but the law nor
 his judges did provide no remedy. A redress God grant.
 
@@ -446,14 +405,14 @@ with argument and what for their drinking but the franklin Lenehan was
 prompt each when to pour them ale so that at the least way mirth might
 not lack. Then young Madden showed all the whole affair:
 
-\Md: She was dead and how for holy religion sake by rede of palmer and
+\madden: She was dead and how for holy religion sake by rede of palmer and
 bedesman and for a vow he had made to Saint Ultan of Arbraccan her
 goodman husband would not let her death.
 
 \N1: Whereby they were all wondrous grieved.
 To whom young Stephen had these words following:
 
-\SD: Murmur, sirs, is eke oft among lay folk. Both babe and parent now
+\stephen: Murmur, sirs, is eke oft among lay folk. Both babe and parent now
 glorify their Maker, the one in limbo gloom, the other in purgefire. But,
 gramercy, what of those Godpossibled souls that we nightly impossibilise,
 which is the sin against the Holy Ghost, Very God, Lord and Giver of Life?
@@ -483,7 +442,7 @@ occident or by the reek of moonflower or an she lie with a woman which her
 man has but lain with, \latin{effectu secuto}, or peradventure in her bath
 according to the opinions of Averroes and Moses Maimonides.
 
-\SD: At the end of the second month a human soul is infused and how in all
+\stephen: At the end of the second month a human soul is infused and how in all
 our holy mother foldeth ever souls for God's greater glory whereas that
 earthly mother which was but a dam to bear beastly should die by canon for
 so saith he that holdeth the fisherman's seal, even that blessed Peter on
@@ -501,7 +460,7 @@ with his experience of so seldomseen an accident it was good for that
 mother Church belike at one blow had birth and death pence and in such
 sort deliverly he scaped their questions.
 
-\Dx: That is truth, pardy, and, or I err, a pregnant word.
+\dixon: That is truth, pardy, and, or I err, a pregnant word.
 
 \N1: Which hearing young Stephen was a marvellous glad man and he averred
 “he who stealeth from the poor lendeth to the Lord” for he was of a wild
@@ -534,7 +493,7 @@ empty so as there remained but little mo if the prudenter had not shadowed
 their approach from him that still plied it very busily who, praying for
 the intentions of the sovereign pontiff:
 
-\SD: I give ye for a pledge the vicar of Christ which also is vicar of
+\stephen: I give ye for a pledge the vicar of Christ which also is vicar of
 Bray. Now drink we of this mazer and quaff ye this mead which is not
 indeed parcel of my body but my soul's bodiment. Leave ye fraction of
 bread to them that live by bread alone. Be not afeard neither for any want
@@ -545,7 +504,7 @@ notes the worth of two pound nineteen shilling that he had, he said, for a
 song which he writ. They all admired to see the foresaid riches in such
 dearth of money as was herebefore. His words were then these as followeth:
 
-\SD: Know all men, time's ruins build eternity's mansions.
+\stephen: Know all men, time's ruins build eternity's mansions.
 What means this? Desire's wind blasts the thorntree
 but after it becomes from a bramblebush to be a
 rose upon the rood of time. Mark me now. In woman's womb word is made
@@ -573,7 +532,7 @@ but in no case subsubstantiality.
 
 \All: A very scurvy word!
 
-\SD: A pregnancy without joy, a birth without pangs, a body without
+\stephen: A pregnancy without joy, a birth without pangs, a body without
 blemish, a belly without bigness. Let the lewd with faith and fervour
 worship. With will will we withstand, withsay.
 
@@ -584,11 +543,11 @@ sing a bawdy catch \song{Staboo Stabella} about a wench that was
 put in pod of a jolly swashbuckler in Almany which he did straightways
 now attack:
 
-\PC: \song{The first three months she was not well, staboo.}
+\punch: \song{The first three months she was not well, staboo.}
 
 \N1: When here nurse Quigley from the door angerly bid them:
 
-\nq: Hist ye should shame you nor was it not meet as
+\nursequigley: Hist ye should shame you nor was it not meet as
 I remembered you being.
 
 \N2: Her mind was to have all orderly against lord
@@ -602,27 +561,27 @@ incontinently Punch Costello was of them all embraided and they reclaimed
 the churl with civil rudeness some and shaked him with menace of
 blandishments others whiles they all chode with him:
 
-\Ly: A murrain seize the dolt!
+\lynch: A murrain seize the dolt!
 
-\Md: What a devil thee would be at!
+\madden: What a devil thee would be at!
 
-\Cr: Thou chuff!
+\crotthers: Thou chuff!
 
-\Dx: Thou puny!
+\dixon: Thou puny!
 
-\Ln: Thou got in peasestraw!
+\lenehan: Thou got in peasestraw!
 
-\Ly: Thou losel!
+\lynch: Thou losel!
 
-\Md: Thou chitterling!
+\madden: Thou chitterling!
 
-\Cr: Thou spawn of a rebel!
+\crotthers: Thou spawn of a rebel!
 
-\Ln: Thou dykedropt!
+\lenehan: Thou dykedropt!
 
-\Dx: Thou abortion thou!
+\dixon: Thou abortion thou!
 
-\SD: Shut up thy drunken drool out of that like a curse of God ape!
+\stephen: Shut up thy drunken drool out of that like a curse of God ape!
 
 \N1: The good sir Leopold that had for his cognisance
 the flower of quiet, margerain gentle, advising also the time's occasion
@@ -636,22 +595,22 @@ should reign.
 \N2: To be short this passage was scarce by when Master Dixon of Mary in
 Eccles, goodly grinning, asked young Stephen:
 
-\Dx: What was the reason why thou hast not cided to take friar's vows?
+\dixon: What was the reason why thou hast not cided to take friar's vows?
 
-\SD: Obedience in the womb, chastity in the tomb
+\stephen: Obedience in the womb, chastity in the tomb
 but involuntary poverty all mine days.
 
 \N3: Master Lenehan at this made return that he had heard of
 those nefarious deeds.
 
-\Ln: And how, as I heard hereof counted, thou hast besmirched the lily
+\lenehan: And how, as I heard hereof counted, thou hast besmirched the lily
 virtue of a confiding female which was corruption of minors.
 
 \N1: And they all intershowed it too, waxing merry and toasting:
 
 \All: To thy fathership!
 
-\SD: But it was clean contrary to your suppose for I am the
+\stephen: But it was clean contrary to your suppose for I am the
 eternal son and ever virgin.
 
 \N2: Thereat mirth grew in them the more and they
@@ -671,11 +630,11 @@ An exquisite dulcet epithalame of most mollificative suadency for
 juveniles amatory whom the odoriferous flambeaus of the paranymphs have
 escorted to the quadrupedal proscenium of connubial communion.
 
-\Dx: Well met they were, joyed, but, harkee,
+\dixon: Well met they were, joyed, but, harkee,
 young sir, better were they named Beau Mount and Lecher for, by my troth,
 of such a mingling, much might come.
 
-\SD: To my best remembrance they had but the one doxy between them and she
+\stephen: To my best remembrance they had but the one doxy between them and she
 of the stews to make shift with in delights amorous for life ran very high
 in those days and the custom of the country approved with it. Greater love
 than this no man hath that a man lay down his wife for his friend. Go thou
@@ -729,11 +688,11 @@ whenceness.
 \N1: Thereto Punch Costello roared out mainly \french{Étienne chanson}
 but he loudly bid them.
 
-\SD: Lo, wisdom hath built herself a house, this vast majestic
+\stephen: Lo, wisdom hath built herself a house, this vast majestic
 longstablished vault, the crystal palace of the Creator, all in applepie
 order, a penny for him who finds the pea.
 
-\SD: \song{Behold the mansion reared by dedal Jack{}\\
+\stephen: \song{Behold the mansion reared by dedal Jack{}\\
 See the malt stored in many a refluent sack,\\
 In the proud cirque of Jackjohn's bivouac.}
 
@@ -745,7 +704,7 @@ In the proud cirque of Jackjohn's bivouac.}
 Loud on left Thor thundered: in anger awful the hammerhurler.
 Came now the storm that hist his heart.
 
-\Ly: Have a care to flout and witwanton as the god self is angered for
+\lynch: Have a care to flout and witwanton as the god self is angered for
 your hellprate and paganry.
 
 \N3: And he that had erst challenged to be so doughty waxed wan as they
@@ -756,7 +715,7 @@ some mock and some jeer and Punch Costello fell hard again to his yale
 which Master Lenehan vowed he would do after and he was indeed but a word
 and a blow on any the least colour. But the braggart boaster cried:
 
-\SD: An old Nobodaddy is in his cups it was muchwhat indifferent and
+\stephen: An old Nobodaddy is in his cups it was muchwhat indifferent and
 I shall not lag behind his lead.
 
 \N1: But this was only to dye his desperation as cowed he
@@ -766,7 +725,7 @@ so that Master Madden, being godly certain whiles, knocked him on his
 ribs upon that crack of doom and Master Bloom, at the braggart's side,
 spoke to him calming words to slumber his great fear
 
-\Bl: It was no other thing but a hubbub noise that you heard, the
+\Bloom: It was no other thing but a hubbub noise that you heard, the
 discharge of fluid from the thunderhead, look you, having taken place,
 and all of the order of a natural phenomenon.
 
@@ -932,9 +891,9 @@ burst their sides.
 
 \N2: The other, Costello that is, hearing this talk asked:
 
-\PC: Is it poetry or a tale?
+\punch: Is it poetry or a tale?
 
-\Ln: Faith, no, Frank, 'tis all about Kerry cows that are to be butchered
+\lenehan: Faith, no, Frank, 'tis all about Kerry cows that are to be butchered
 along of the plague. But they can go hang, for me with their bully beef, a
 pox on it. There's as good fish in this tin as ever came out of it.
 
@@ -942,7 +901,7 @@ pox on it. There's as good fish in this tin as ever came out of it.
 by which he had eyed wishly in the meantime and found the place which was
 indeed the chief design of his embassy as he was sharpset.
 
-\PC: \french{Mort aux vaches.}
+\punch: \french{Mort aux vaches.}
 
 \N1: Says Frank then in the French language that had been indentured to a
 brandyshipper that has a winelodge in Bordeaux and he spoke French like a
@@ -961,7 +920,7 @@ or choking chicken behind a hedge. He had been off as many times as a cat
 has lives and back again with naked pockets as many more to his father
 the headborough who shed a pint of tears as often as he saw him.
 
-\Bl: What, will they slaughter all? I protest I saw them but this day
+\Bloom: What, will they slaughter all? I protest I saw them but this day
 morning going to the Liverpool boats. I can scarce believe 'tis so bad.
 
 \N3: And he had experience of the like brood beasts and of springers,
@@ -969,7 +928,7 @@ greasy hoggets and wether wool, having been some years before actuary for
 Mr Joseph Cuffe, a worthy salesmaster that drove his trade for live stock
 and meadow auctions hard by Mr Gavin Low's yard in Prussia street.
 
-\Bl: I question with you there.
+\Bloom: I question with you there.
 More like 'tis the hoose or the timber tongue.
 
 \N1: Mr Stephen, a little moved but very handsomely told him no such
@@ -978,37 +937,37 @@ thanking him for the hospitality, that was sending over Doctor
 Rinderpest, the bestquoted cowcatcher in all Muscovy, with a bolus or two
 of physic to take the bull by the horns.
 
-\Ly: Come, come, plain dealing.
+\lynch: Come, come, plain dealing.
 He'll find himself on the horns of a dilemma if he meddles
 with a bull that's Irish.
 
-\SD: Irish by name and Irish by nature.
+\stephen: Irish by name and Irish by nature.
 An Irish bull in an English chinashop.
 
-\Dx: I conceive you. It is that same bull that was sent to our island by
+\dixon: I conceive you. It is that same bull that was sent to our island by
 farmer Nicholas, the bravest cattlebreeder of them all, with an emerald
 ring in his nose.
 
-\Ly: True for you, and a bullseye into the bargain, and a
+\lynch: True for you, and a bullseye into the bargain, and a
 plumper and a portlier bull, never shit on shamrock. He had
 horns galore, a coat of cloth of gold and a sweet smoky breath coming out
 of his nostrils so that the women of our island, leaving doughballs and
 rollingpins, followed after him hanging his bulliness in daisychains.
 
-\Dx: What for that, but before he came over farmer Nicholas
+\dixon: What for that, but before he came over farmer Nicholas
 that was a eunuch had him properly gelded by a college of doctors who
 were no better off than himself. So be off now, says he, and do all my
 cousin german the lord Harry tells you and take a farmer's blessing, and
 with that he slapped his posteriors very soundly.
 
-\Ly: But the slap and the blessing stood him friend, for to make up he
+\lynch: But the slap and the blessing stood him friend, for to make up he
 taught him a trick worth two of the other so that maid, wife, abbess and
 widow to this day affirm that they would rather any time of the month
 whisper in his ear in the dark of a cowhouse or get a lick on the nape
 from his long holy tongue than lie with the finest strapping young
 ravisher in the four fields of all Ireland.
 
-\Md: And they dressed him, in a point shift and petticoat with a tippet
+\madden: And they dressed him, in a point shift and petticoat with a tippet
 and girdle and ruffles on his wrists and clipped his forelock and rubbed
 him all over with spermacetic oil and built stables for him at every turn
 of the road with a gold manger in each full of the best hay in the market
@@ -1020,25 +979,25 @@ was full he would rear up on his hindquarters to show their ladyships a
 mystery and roar and bellow out of him in bulls' language and they all
 after him.
 
-\Ln: Ay, and so pampered was he that he would suffer nought to grow in all
+\lenehan: Ay, and so pampered was he that he would suffer nought to grow in all
 the land but green grass for himself (for that was the only colour to his
 mind) and there was a board put up on a hillock in the middle of the
 island with a printed notice, saying: By the Lord Harry, Green is the
 grass that grows on the ground.
 
-\Dx: And, if ever he got scent of a cattleraider in Roscommon or the wilds
+\dixon: And, if ever he got scent of a cattleraider in Roscommon or the wilds
 of Connemara or a husbandman in Sligo that was sowing as much as a handful
 of mustard or a bag of rapeseed out he'd run amok over half the
 countryside rooting up with his horns whatever was planted and all by lord
 Harry's orders.
 
-\Ly: There was bad blood between them at first,
+\lynch: There was bad blood between them at first,
 and the lord Harry called farmer Nicholas all the old Nicks in
 the world and an old whoremaster that kept seven trulls in his house and
 I'll meddle in his matters, says he. I'll make that animal smell hell,
 says he, with the help of that good pizzle my father left me.
 
-\Dx: But one evening, when the lord Harry was cleaning his royal pelt to
+\dixon: But one evening, when the lord Harry was cleaning his royal pelt to
 go to dinner after winning a boatrace (he had spade oars for himself but
 the first rule of the course was that the others were to row with
 pitchforks) he discovered in himself a wonderful likeness to a bull and on
@@ -1047,7 +1006,7 @@ sure enough that he was a lefthanded descendant of the famous champion
 bull of the Romans, \latin{Bos Bovum}, which is good bog Latin for boss of
 the show.
 
-\Ly: After that, the lord Harry put his head into a cow's drinkingtrough
+\lynch: After that, the lord Harry put his head into a cow's drinkingtrough
 in the presence of all his courtiers and pulling it out again told them
 all his new name. Then, with the water running off him, he got into an old
 smock and skirt that had belonged to his grandmother and bought a grammar
@@ -1058,7 +1017,7 @@ to write it upon what took his fancy, the side of a rock or a teahouse
 table or a bale of cotton or a corkfloat. In short, he and the bull of
 Ireland were soon as fast friends as an arse and a shirt.
 
-\SD: They were, and the end was that the men of the island seeing no help
+\stephen: They were, and the end was that the men of the island seeing no help
 was toward, as the ungrate women were all of one mind, made a wherry raft,
 loaded themselves and their bundles of chattels on shipboard, set all
 masts erect, manned the yards, sprang their luff, heaved to, spread three
@@ -1067,10 +1026,10 @@ ported her helm, ran up the jolly Roger, gave three times three, let the
 bullgine run, pushed off in their bumboat and put to sea to recover the
 main of America.
 
-\Ly: Which was the occasion, of the composing by a boatswain of that
+\lynch: Which was the occasion, of the composing by a boatswain of that
 rollicking chanty:
 
-\Ly: \song{Pope Peter's but a pissabed.\\
+\lynch: \song{Pope Peter's but a pissabed.\\
 A man's a man for a' that.}
 
 \histstyle{Addison, Steele}
@@ -1097,7 +1056,7 @@ idle pleasures such as form the chief business of sir Fopling Popinjay and
 sir Milksop Quidnunc in town and to devote himself to the noblest task for
 which our bodily organism has been framed.
 
-\Dx: Well, let us hear of it, good my friend. I make no doubt it
+\dixon: Well, let us hear of it, good my friend. I make no doubt it
 smacks of wenching. Come, be seated, both. 'Tis as cheap sitting as
 standing.
 
@@ -1105,7 +1064,7 @@ standing.
 design, told his hearers that he had been led into this thought by a
 consideration of the causes of sterility.
 
-\Mu: Both the inhibitory and the prohibitory, whether the inhibition in
+\mulligan: Both the inhibitory and the prohibitory, whether the inhibition in
 its turn are due to conjugal vexations or to a parsimony of the balance as
 well as whether the prohibition proceeds from defects congenital or from
 proclivities acquired. It grieves me plaguily, to see the nuptial couch
@@ -1149,7 +1108,7 @@ Newcastle.
 from the classics which, as it dwelt upon his memory, seemed to him a
 sound and tasteful support of his contention:
 
-\Mu: \latin{Talis ac tanta depravatio hujus seculi, O quirites, ut
+\mulligan: \latin{Talis ac tanta depravatio hujus seculi, O quirites, ut
 matresfamiliarum nostrae lascivas cujuslibet semiviri libici titillationes
 testibus ponderosis atque excelsis erectionibus centurionum Romanorum
 magnopere anteponunt.}
@@ -1172,19 +1131,19 @@ nearest neighbour.
 were those loaves and fishes and, seeing the stranger, he made him a
 civil bow and said:
 
-\Mu: \stage{to Bloom} Pray, sir, was you in need of any professional
+\mulligan: \stage{to Bloom} Pray, sir, was you in need of any professional
 assistance we could give?
 
 \N2: Who, upon his offer, thanked him very heartily,
 though preserving his proper distance, and replied that:
 
-\Bl: I am come here about a lady, now an inmate of Horne's house, that is
+\Bloom: I am come here about a lady, now an inmate of Horne's house, that is
 in an interesting condition, poor body, from woman's woe \stage{sighs} to
 know if her happiness has yet taken place.
 
 \N3: Mr Dixon, to turn the table, took on to ask of Mr Mulligan himself:
 
-\Dx: Whether your incipient ventripotence betokens an ovoblastic gestation
+\dixon: Whether your incipient ventripotence betokens an ovoblastic gestation
 in the prostatic utricle or male womb, or is due, as with the noted
 physician, Mr Austin Meldon, to a wolf in the stomach?
 
@@ -1193,7 +1152,7 @@ himself bravely below the diaphragm, exclaiming with an admirable droll
 mimic of Mother Grogan (the most excellent creature of her sex though 'tis
 pity she's a trollop):
 
-\Mu: There's a belly that never bore a bastard.
+\mulligan: There's a belly that never bore a bastard.
 
 \N2: This was so happy a conceit that it renewed the storm of mirth and
 threw the whole room into the most violent agitations of delight. The spry
@@ -1214,7 +1173,7 @@ achieved so nice a gesture) to which was united an equivalent but
 contrary balance of the bottle asked the narrator as plainly as was ever
 done in words if he might treat him with a cup of it.
 
-\Ba: \french{Mais bien sûr}, noble stranger, \french{et mille compliments}.
+\bannon: \french{Mais bien sûr}, noble stranger, \french{et mille compliments}.
 That you may and very opportunely.
 There wanted nothing but this cup to crown my felicity.
 But, gracious heaven, was I left with but a crust in my wallet and a
@@ -1228,7 +1187,7 @@ popped a locket that hung from a silk riband, that very picture which he
 had cherished ever since her hand had wrote therein. Gazing upon those
 features with a world of tenderness:
 
-\Ba: Ah, Monsieur, had you but beheld her as I did with these eyes at that
+\bannon: Ah, Monsieur, had you but beheld her as I did with these eyes at that
 affecting instant with her dainty tucker and her new coquette cap (a gift
 for her feastday as she told me prettily) in such an artless disorder, of
 so melting a tenderness, 'pon my conscience, even you, Monsieur, had been
@@ -1241,7 +1200,7 @@ favours.
 \N2: A sigh of affection gave eloquence to these words and, having
 replaced the locket in his bosom, he wiped his eye and sighed again.
 
-\Ba: Beneficent Disseminator of blessings to all Thy creatures, how great
+\bannon: Beneficent Disseminator of blessings to all Thy creatures, how great
 and universal must be that sweetest of Thy tyrannies which can hold in
 thrall the free and the bond, the simple swain and the polished coxcomb,
 the lover in the heyday of reckless passion and the husband of maturer
@@ -1257,14 +1216,14 @@ lady from wetting.
 
 \N3: Tut, tut! cries Le Fecondateur, tripping in.
 
-\Mu: My friend Monsieur Moore, that most accomplished traveller (I have
+\mulligan: My friend Monsieur Moore, that most accomplished traveller (I have
 just cracked a half bottle \french{avec lui} in a circle of the best wits
 of the town), is my authority that in Cape Horn, \french{ventre biche},
 they have a rain that will wet through any, even the stoutest cloak. A
 drenching of that violence, he tells me, \french{sans blague}, has sent
 more than one luckless fellow in good earnest posthaste to another world.
 
-\Ly: Pooh! A \french{livre}! The clumsy things are dear at a sou. One
+\lynch: Pooh! A \french{livre}! The clumsy things are dear at a sou. One
 umbrella, were it no bigger than a fairy mushroom, is worth ten such
 stopgaps. No woman of any wit would wear one. My dear Kitty told me today
 that she would dance in a deluge before ever she would starve in such an
@@ -1297,10 +1256,10 @@ departure was the signal for an outbreak of ribaldry.
 
 \N1: Strike me silly, said Costello, a low fellow who was fuddled.
 
-\PC: A monstrous fine bit of cowflesh! I'll be sworn she has rendezvoused
+\punch: A monstrous fine bit of cowflesh! I'll be sworn she has rendezvoused
 you. What, you dog? Have you a way with them?
 
-\Ly: Gad's bud, immensely so. The bedside manner it is that they use in
+\lynch: Gad's bud, immensely so. The bedside manner it is that they use in
 the Mater hospice. Demme, does not Doctor O'Gargle chuck the nuns there
 under the chin. As I look to be saved I had it from my Kitty who has been
 wardmaid there any time these seven months. Lawksamercy, doctor,
@@ -1309,7 +1268,7 @@ body} how you do tease a body! Drat the man! Bless me, I'm all of a wibbly
 wobbly. Why, you're as bad as dear little Father Cantekissem, that you
 are!
 
-\PC: May this pot of four half choke me, if she aint in the family way. I
+\punch: May this pot of four half choke me, if she aint in the family way. I
 knows a lady what's got a white swelling quick as I claps eyes on her.
 
 \N2: The young surgeon, however, rose and begged the company to excuse his
@@ -1318,7 +1277,7 @@ ward. Merciful providence had been pleased to put a period to the
 sufferings of the lady who was \french{enceinte} which she had borne with
 a laudable fortitude and she had given birth to a bouncing boy.
 
-\Dx: I want patience, with those who, without wit to enliven or learning
+\dixon: I want patience, with those who, without wit to enliven or learning
 to instruct, revile an ennobling profession which, saving the reverence
 due to the Deity, is the greatest power for happiness upon the earth. I am
 positive when I say that if need were I could produce a cloud of witnesses
@@ -1339,7 +1298,7 @@ bare deserts had he not abridged his transgression by affirming with a
 horrid imprecation (for he swore a round hand) that he was as good a son
 of the true fold as ever drew breath.
 
-\PC: Stap my vitals, them was always the sentiments of honest Frank
+\punch: Stap my vitals, them was always the sentiments of honest Frank
 Costello which I was bred up most particular to honour thy father and thy
 mother that had the best hand to a rolypoly or a hasty pudding as you ever
 see what I always looks back on with a loving heart.
@@ -1401,7 +1360,7 @@ the Supreme Being.
 express his notion of the thing, his opinion (who ought not perchance to
 express one) is:
 
-\Bl: That one must have a cold constitution and a frigid genius not
+\Bloom: That one must have a cold constitution and a frigid genius not
 to be rejoiced by this freshest news of the fruition of her confinement
 since she had been in such pain through no fault of hers.
 
@@ -1412,7 +1371,7 @@ matron.
 \N3: I must acquaint you, said Mr Crotthers, clapping on the table so as
 to evoke a resonant comment of emphasis.
 
-\Cr: Old Glory Allelujurum was round again today, an elderly man with
+\crotthers: Old Glory Allelujurum was round again today, an elderly man with
 dundrearies, preferring through his nose a request to have word of
 Wilhelmina, my life, as he calls her. I bade him hold himself in readiness
 for that the event would burst anon. 'Slife, I'll be round with you.
@@ -1426,7 +1385,7 @@ itinerant vendor of articles needed in every household.
 
 \N2: Singular, communed the guest with himself.
 
-\Bl: \stage{to himself}
+\Bloom: \stage{to himself}
 The wonderfully unequal faculty of metempsychosis possessed by them, that
 the puerperal dormitory and the dissecting theatre should be the
 seminaries of such frivolity, that the mere acquisition of academic titles
@@ -1714,7 +1673,7 @@ upon the forehead of Taurus.
 school together in Conmee's time. He asked about Glaucon, Alcibiades,
 Pisistratus. Where were they now? Neither knew.
 
-\SD: You have spoken of the past and its phantoms. Why think of them? If I
+\stephen: You have spoken of the past and its phantoms. Why think of them? If I
 call them into life across the waters of Lethe will not the poor ghosts
 troop to my call? Who supposes it? I, Bous Stephanoumenos,
 bullockbefriending bard, am lord and giver of their life.
@@ -1722,13 +1681,13 @@ bullockbefriending bard, am lord and giver of their life.
 \N2: He encircled his gadding hair with a
 coronal of vineleaves, smiling at Vincent.
 
-\Ly: That answer and those leaves, will adorn you more fitly when
+\lynch: That answer and those leaves, will adorn you more fitly when
 something more, and greatly more, than a capful of light odes can call
 your genius father. All who wish you well hope this for you. All desire to
 see you bring forth the work you meditate, to acclaim you Stephaneforos. I
 heartily wish you may not fail them.
 
-\Ln: O no, Vincent. Have no fear.
+\lenehan: O no, Vincent. Have no fear.
 He could not leave his mother an orphan.
 
 \N3: The young man's face grew dark. All could see how hard it was for
@@ -1753,7 +1712,7 @@ undone. But her lover consoled her and brought her a bright casket of gold
 in which lay some oval sugarplums which she partook. A tear fell: one
 only.
 
-\Ln: A whacking fine whip is W. Lane. Four winners yesterday and
+\lenehan: A whacking fine whip is W. Lane. Four winners yesterday and
 three today. What rider is like him? Mount him on the camel or the
 boisterous buffalo the victory in a hack canter is still his. But let us
 bear it as was the ancient wont. Mercy on the luckless! Poor Sceptre!
@@ -1761,7 +1720,7 @@ bear it as was the ancient wont. Mercy on the luckless! Poor Sceptre!
 hand, shall we behold such another. By gad, sir, a queen of them. Do you
 remember her, Vincent?
 
-\Ly: I wish you could have seen my queen today.
+\lynch: I wish you could have seen my queen today.
 How young she was and radiant (Lalage were scarce fair beside her)
 in her yellow shoes and frock of muslin, I do not know the right name of
 it. The chestnuts that shaded us were in bloom: the air drooped with
@@ -1784,7 +1743,7 @@ clung there for the very trees adore her. When Conmee had passed she
 glanced at her lovely echo in that little mirror she carries. But he had
 been kind. In going by he had blessed us.
 
-\Ln: The gods too are ever kind.
+\lenehan: The gods too are ever kind.
 If I had poor luck with Bass's mare perhaps this draught of
 his may serve me more propensely.
 
@@ -1792,12 +1751,12 @@ his may serve me more propensely.
 Malachi saw it and withheld his act, pointing to the stranger and to the
 scarlet label.
 
-\Mu: \stage{whispering} Warily, preserve a druid silence.
+\mulligan: \stage{whispering} Warily, preserve a druid silence.
 His soul is far away. It is as painful perhaps to be awakened from a vision
 as to be born. Any object, intensely regarded, may be a gate of access to
 the incorruptible eon of the gods. Do you not think it, Stephen?
 
-\SD: Theosophos told me so, whom in a previous existence
+\stephen: Theosophos told me so, whom in a previous existence
 Egyptian priests initiated into the mysteries of karmic law. The lords of
 the moon, Theosophos told me, an orangefiery shipload from planet Alpha
 of the lunar chain would not assume the etheric doubles and these were
@@ -1898,7 +1857,7 @@ nemasperm on the one hand and on the other a happily chosen position,
 infant mortality. It is interesting because, as he pertinently remarks, we
 are all born in the same way but we all die in different ways.
 
-\Mu: I blame the sanitary conditions in which our greylunged citizens
+\mulligan: I blame the sanitary conditions in which our greylunged citizens
 contract adenoids, pulmonary complaints etc. by inhaling the bacteria
 which lurk in dust. These factors, and the revolting spectacles offered by
 our streets, hideous publicity posters, religious ministers of all
@@ -1913,7 +1872,7 @@ of prize babies, all these little attentions would enable ladies who were
 in a particular condition to pass the intervening months in a most
 enjoyable manner.
 
-\Cr: I attribute some of these demises to abdominal trauma in the case
+\crotthers: I attribute some of these demises to abdominal trauma in the case
 of women workers subjected to heavy labours in the workshop and to
 marital discipline in the home but by far the vast majority to neglect,
 private or official, culminating in the exposure of newborn infants, the
@@ -1928,7 +1887,7 @@ shortcomings which often baulk nature in her intentions.
 
 \N2: An ingenious suggestion is that thrown out by Mr V. Lynch:
 
-\Ly: Both natality and mortality, as well as all other phenomena of evolution,
+\lynch: Both natality and mortality, as well as all other phenomena of evolution,
 tidal movements, lunar phases, blood temperatures, diseases in general,
 everything, in fine, in nature's vast workshop from the extinction of
 some remote sun to the blossoming of one of the countless flowers which
@@ -1947,7 +1906,7 @@ which, though productive of pain to some of our feelings (notably the
 maternal), is nevertheless, some of us think, in the long run beneficial
 to the race in general in securing thereby the survival of the fittest.
 
-\SD: An omnivorous being which can masticate, deglute,
+\stephen: An omnivorous being which can masticate, deglute,
 digest and apparently pass through the ordinary channel with
 pluterperfect imperturbability such multifarious aliments as cancrenous
 females emaciated by parturition, corpulent professional gentlemen, not
@@ -1971,15 +1930,15 @@ Maternity Hospital, 29, 30 and 31 Holles street, of which, as is well
 known, Dr A. Horne (Licence in Midwifery, F. K. Q. C. P. I.) is the able and
 popular master, he is reported by eyewitnesses as having stated that:
 
-\SD: Once a woman has let the cat into the bag \dots
+\stephen: Once a woman has let the cat into the bag \dots
 
 \N2: (an esthete's allusion, presumably,
 to one of the most complicated and marvellous of all nature's processes---the
 act of sexual congress)
 
-\SD: She must let it out again or give it life to save her own.
+\stephen: She must let it out again or give it life to save her own.
 
-\Bl: At the risk of her own.
+\Bloom: At the risk of her own.
 
 \N3: Was the telling rejoinder of his interlocutor, none the less
 effective for the moderate and measured tone in which it was delivered.
@@ -2094,7 +2053,7 @@ word.
 
 \histstyle{Carlyle}
 
-\SD: Burke's!
+\stephen: Burke's!
 
 \N3: Outflings my lord Stephen, giving the cry, and a tag and bobtail
 of all them after, cockerel, jackanapes, welsher, pilldoctor, punctual
@@ -2116,7 +2075,7 @@ Quiet. Looks she too not other now? Ward of watching in Horne's house has
 told its tale in that washedout pallor. Then all being gone, a glance of
 motherwit helping, he whispers close in going:
 
-\Bl: Madam, when comes the storkbird for thee?
+\Bloom: Madam, when comes the storkbird for thee?
 
 \N1: The air without is impregnated with raindew moisture, life essence
 celestial, glistening on Dublin stone there under starshiny \latin{coelum}.
@@ -2183,17 +2142,17 @@ Where the Henry Nevil's sawbones and ole clo?
 
 Sorra one o' me knows.
 
-\Md: Hurrah there, Dix!
+\madden: Hurrah there, Dix!
 
 \N3: Forward to the ribbon counter.
 
-\Dx: Where's Punch?
+\dixon: Where's Punch?
 
 \N1: All serene.
 
-\By: Jay, look at the drunken minister coming out of the maternity hospal!
+\bystander: Jay, look at the drunken minister coming out of the maternity hospal!
 
-\Mu: \latin{Benedicat vos omnipotens Deus, Pater et Filius}.
+\mulligan: \latin{Benedicat vos omnipotens Deus, Pater et Filius}.
 
 A make, mister.
 
@@ -2205,7 +2164,7 @@ Scoot.
 
 Righto, Isaacs, shove em out of the bleeding limelight.
 
-\PC: Yous join uz, dear sir?
+\punch: Yous join uz, dear sir?
 
 No hentrusion in life.
 
@@ -2213,9 +2172,9 @@ Lou heap good man.
 
 Allee samee dis bunch.
 
-\Ba: \french{En avant, mes enfants}!
+\bannon: \french{En avant, mes enfants}!
 
-\Ln: Fire away number one on the gun.
+\lenehan: Fire away number one on the gun.
 
 \All: Burke's! Burke's!
 
@@ -2225,13 +2184,13 @@ Where's that bleeding awfur?
 
 Parson Steve, apostates' creed!
 
-\Ly: No, no, Mulligan! Abaft there! Shove ahead.
+\lynch: No, no, Mulligan! Abaft there! Shove ahead.
 
-\Ln: Keep a watch on the clock. Chuckingout time.
+\lenehan: Keep a watch on the clock. Chuckingout time.
 
-\Md: Mullee! What's on you?
+\madden: Mullee! What's on you?
 
-\Mu: \french{Ma mère m'a mariée}.
+\mulligan: \french{Ma mère m'a mariée}.
 
 British Beatitudes!
 
@@ -2239,63 +2198,63 @@ British Beatitudes!
 
 Ayes have it.
 
-\SD: To be printed and bound at the Druiddrum press by two designing females.
+\stephen: To be printed and bound at the Druiddrum press by two designing females.
 Calf covers of pissedon green. Last word in art shades.
 Most beautiful book come out of Ireland my time.
 
-\Cr: \latin{Silentium}! Get a spurt on.
+\crotthers: \latin{Silentium}! Get a spurt on.
 
-\Ln: Tention. Proceed to nearest canteen and there annex liquor stores.
+\lenehan: Tention. Proceed to nearest canteen and there annex liquor stores.
 
-\PC: March! Tramp, tramp, tramp, the boys are (atitudes!) parching.
+\punch: March! Tramp, tramp, tramp, the boys are (atitudes!) parching.
 
-\Md: Beer, beef, business, bibles, bulldogs, battleships, buggery and bishops.
+\madden: Beer, beef, business, bibles, bulldogs, battleships, buggery and bishops.
 
-\Dx: Whether on the scaffold high.
+\dixon: Whether on the scaffold high.
 
-\Md: Beer, beef, trample the bibles.
+\madden: Beer, beef, trample the bibles.
 
-\Dx: When for Irelandear.
+\dixon: When for Irelandear.
 
-\Cr: Trample the trampellers.
+\crotthers: Trample the trampellers.
 
-\Ln: Thunderation! Keep the durned millingtary step.
+\lenehan: Thunderation! Keep the durned millingtary step.
 
 We fall.
 
 Bishops boosebox.
 
-\PC: Halt! Heave to.
+\punch: Halt! Heave to.
 
-\Dx: Rugger. Scrum in. No touch kicking.
+\dixon: Rugger. Scrum in. No touch kicking.
 
-\Ly: Wow, my tootsies!
+\lynch: Wow, my tootsies!
 
-\Dx: You hurt? Most amazingly sorry!
+\dixon: You hurt? Most amazingly sorry!
 
 % \histstyle{Coda {\#}2}
 
-\Ln: Query. Who's astanding this here do?
+\lenehan: Query. Who's astanding this here do?
 
-\Md: Proud possessor of damnall.
+\madden: Proud possessor of damnall.
 
-\Ly: Declare misery. Bet to the ropes.
+\lynch: Declare misery. Bet to the ropes.
 
 Me nantee saltee.
 
-\Dx: Not a red at me this week gone.
+\dixon: Not a red at me this week gone.
 
-\Br: Yours?
+\barman: Yours?
 
-\SD: Mead of our fathers for the \german{Übermensch}.
+\stephen: Mead of our fathers for the \german{Übermensch}.
 
-\Ba: Dittoh.
+\bannon: Dittoh.
 
-\SD: Five number ones.
+\stephen: Five number ones.
 
-\Br: You, sir?
+\barman: You, sir?
 
-\Bl: Ginger cordial.
+\Bloom: Ginger cordial.
 
 Chase me, the cabby's caudle.
 
@@ -2305,53 +2264,53 @@ Stimulate the caloric.
 
 Bl: Stopped short never to go again when the old.
 
-\SD: Absinthe for me, savvy?
+\stephen: Absinthe for me, savvy?
 
-\Mu: \spanish{Caramba!} Have an eggnog or a prairie oyster.
+\mulligan: \spanish{Caramba!} Have an eggnog or a prairie oyster.
 
-\Bl: Enemy?
+\Bloom: Enemy?
 
 Avuncular's got my timepiece.
 
-\Md: Ten to.
+\madden: Ten to.
 
-\Bl: Obligated awful.
+\Bloom: Obligated awful.
 
-\Md: Don't mention it.
+\madden: Don't mention it.
 
-\Ly: Got a pectoral trauma, eh, Dix?
+\lynch: Got a pectoral trauma, eh, Dix?
 
-\Dx: Pos fact. Got bet be a boomblebee whenever he wus
+\dixon: Pos fact. Got bet be a boomblebee whenever he wus
 settin sleepin in hes bit garten.
 Digs up near the Mater.
 
 Buckled he is.
 
-\Mu: Know his dona?
+\mulligan: Know his dona?
 
-\Dx: Yup, sartin I do. Full of a dure. See her in her dishybilly.
+\dixon: Yup, sartin I do. Full of a dure. See her in her dishybilly.
 Peels off a credit. Lovey lovekin. None of your lean kine, not much.
 
 Pull down the blind, love.
 
-\Md: Two Ardilauns.
+\madden: Two Ardilauns.
 
-\Ly: Same here.
+\lynch: Same here.
 
 Look slippery.
 
 If you fall don't wait to get up.
 
-\Br: Five, seven, nine.
+\barman: Five, seven, nine.
 
 Fine!
 
-\Dx: Got a prime pair of mincepies, no kid.
+\dixon: Got a prime pair of mincepies, no kid.
 And her take me to rests and her anker of rum.
 Must be seen to be believed.
 Your starving eyes and allbeplastered neck you stole my heart, O gluepot.
 
-\Br: Sir?
+\barman: Sir?
 
 Spud again the rheumatiz?
 
@@ -2371,23 +2330,23 @@ How's the squaws and papooses?
 
 Womanbody after going on the straw?
 
-\Ln: Stand and deliver.
+\lenehan: Stand and deliver.
 
-\Cr: Password.
+\crotthers: Password.
 
-\PC: There's hair.
+\punch: There's hair.
 
-\Bl: Ours the white death and the ruddy birth.
+\Bloom: Ours the white death and the ruddy birth.
 
 Hi!
 
-\Ba: Spit in your own eye, boss!
+\bannon: Spit in your own eye, boss!
 
 Mummer's wire.
 
 Cribbed out of Meredith.
 
-\Mu: Jesified, orchidised, polycimical jesuit!
+\mulligan: Jesified, orchidised, polycimical jesuit!
 Aunty mine's writing Pa Kinch.
 Baddybad Stephen lead astray goodygood Malachi.
 
@@ -2399,21 +2358,21 @@ Collar the leather, youngun.
 
 Roun wi the nappy.
 
-\Ln: Here, Jock braw Hielentman's your barleybree.
+\lenehan: Here, Jock braw Hielentman's your barleybree.
 
-\Cr: Lang may your lum reek and your kailpot boil!
+\crotthers: Lang may your lum reek and your kailpot boil!
 
 My tipple.
 
 \french{Merci}.
 
-\Dx: Here's to us.
+\dixon: Here's to us.
 
-\Md: How's that?
+\madden: How's that?
 
-\Ly: Leg before wicket.
+\lynch: Leg before wicket.
 
-\Mu: Don't stain my brandnew sitinems.
+\mulligan: Don't stain my brandnew sitinems.
 
 Give's a shake of pepper, you there.
 
@@ -2431,7 +2390,7 @@ Venus Pandemos.
 
 \french{Les petites femmes}.
 
-\Ba: Bold bad girl from the town of Mullingar.
+\bannon: Bold bad girl from the town of Mullingar.
 Tell her I was axing at her.
 Hauding Sara by the wame.
 
@@ -2441,13 +2400,13 @@ Me?
 
 If she who seduced me had left but the name.
 
-\Ln: What do you want for ninepence?
+\lenehan: What do you want for ninepence?
 
-\SD: Machree, macruiskeen.
+\stephen: Machree, macruiskeen.
 
-\Ly: Smutty Moll for a mattress jig.
+\lynch: Smutty Moll for a mattress jig.
 
-\PC: And a pull all together.
+\punch: And a pull all together.
 
 \All: \latin{Ex!}
 
@@ -2547,20 +2506,20 @@ O, cheese it!
 
 Shut his blurry Dutch oven with a firm hand.
 
-\Ln: Had the winner today till I tipped him a dead cert.
+\lenehan: Had the winner today till I tipped him a dead cert.
 The ruffin cly the nab of Stephen Hand as give me the jady coppaleen.
 
 He strike a telegramboy paddock wire big bug Bass to the depot.
 
 Shove him a joey and grahamise.
 
-\Ln: Mare on form hot order.
+\lenehan: Mare on form hot order.
 
 Guinea to a goosegog.
 
 Tell a cram, that.
 
-\Ln: Gospeltrue.
+\lenehan: Gospeltrue.
 
 Criminal diversion?
 
@@ -2572,27 +2531,27 @@ Land him in chokeechokee if the harman beck copped the game.
 
 Madden back Madden's a maddening back.
 
-\Ly: O lust our refuge and our strength.
+\lynch: O lust our refuge and our strength.
 
-\Md: Decamping.
+\madden: Decamping.
 
-\Ba: Must you go?
+\bannon: Must you go?
 
-\Md: Off to mammy.
+\madden: Off to mammy.
 
-\Dx: Stand by.
+\dixon: Stand by.
 
-\Md: Hide my blushes someone.
+\madden: Hide my blushes someone.
 
 \stage{Exit Madden. Enter Bantam Lyons}
 
-\Bl: All in if he spots me.
+\Bloom: All in if he spots me.
 
-\PC: Come ahome, our Bantam.
+\punch: Come ahome, our Bantam.
 
-\Dx: Horryvar, mong vioo.
+\dixon: Horryvar, mong vioo.
 
-\Cr: Dinna forget the cowslips for hersel.
+\crotthers: Dinna forget the cowslips for hersel.
 
 Cornfide.
 
@@ -2620,62 +2579,62 @@ Through yerd our lord, Amen.
 
 % \histstyle{Coda {\#}6}
 
-\SD: You move a motion?
+\stephen: You move a motion?
 
-\Ln: Steve boy, you're going it some.
+\lenehan: Steve boy, you're going it some.
 
-\Dx: More bluggy drunkables?
+\dixon: More bluggy drunkables?
 
-\Ly: Will immensely splendiferous stander permit one stooder of
+\lynch: Will immensely splendiferous stander permit one stooder of
 most extreme poverty and one largesize grandacious thirst to terminate
 one expensive inaugurated libation?
 
-\Cr: Give's a breather.
+\crotthers: Give's a breather.
 
-\PC: Landlord, landlord, have you good wine, staboo?
+\punch: Landlord, landlord, have you good wine, staboo?
 
-\Cr: Hoots, mon, a wee drap to pree.
+\crotthers: Hoots, mon, a wee drap to pree.
 
-\Ln: Cut and come again.
+\lenehan: Cut and come again.
 
-\Br: Right.
+\barman: Right.
 
 Boniface!
 
-\SD: Absinthe the lot.
+\stephen: Absinthe the lot.
 \latin{Nos omnes biberimus viridum toxicum diabolus capiat posterioria nostria}.
 
-\Br: Closingtime, gents.
+\barman: Closingtime, gents.
 
 Eh?
 
-\SD: Rome boose for the Bloom toff.
+\stephen: Rome boose for the Bloom toff.
 
 I hear you say onions?
 
-\Ba: Bloo?
+\bannon: Bloo?
 
-\Dx: Cadges ads.
+\dixon: Cadges ads.
 
-\Ba: Photo's papli, by all that's gorgeous.
+\bannon: Photo's papli, by all that's gorgeous.
 Play low, pardner.
 Slide.
 
-\Mu: \french{Bonsoir la compagnie}.
+\mulligan: \french{Bonsoir la compagnie}.
 
 \stage{Exit Mulligan and Bannon}
 
-\SD: And snares of the poxfiend.
+\stephen: And snares of the poxfiend.
 
-\BL: Where's the buck and Namby Amby?
+\bantam: Where's the buck and Namby Amby?
 
-\SD: Skunked?
+\stephen: Skunked?
 
-\Ln: Leg bail.
+\lenehan: Leg bail.
 
-\Cr: Aweel, ye maun e'en gang yer gates.
+\crotthers: Aweel, ye maun e'en gang yer gates.
 
-\SD: Checkmate. King to tower.
+\stephen: Checkmate. King to tower.
 
 Kind Kristyann wil yu help yung man hoose frend
 tuk bungellow kee tu find plais whear tu lay crown of his hed 2 night.
@@ -2685,50 +2644,50 @@ Crickey, I'm about sprung.
 Tarnally dog gone my shins if this beent the
 bestest puttiest longbreak yet.
 
-\PC: Item, curate, couple of cookies for this child.
+\punch: Item, curate, couple of cookies for this child.
 
 Cot's plood and prandypalls, none!
 
 Not a pite of sheeses?
 
-\SD: Thrust syphilis down to hell and with him those other licensed spirits.
+\stephen: Thrust syphilis down to hell and with him those other licensed spirits.
 
-\Br: Time, gents!
+\barman: Time, gents!
 
-\SD: Who wander through the world.
+\stephen: Who wander through the world.
 
-\PC: Health all!
+\punch: Health all!
 
-\Dx: \french{À la vôtre}!
+\dixon: \french{À la vôtre}!
 
 % \histstyle{Coda {\#}7}
 
-\Cr: Golly, whatten tunket's yon guy in the mackintosh?
+\crotthers: Golly, whatten tunket's yon guy in the mackintosh?
 
-\Ln: Dusty Rhodes.
+\lenehan: Dusty Rhodes.
 
-\Ly: Peep at his wearables.
+\lynch: Peep at his wearables.
 
-\Cr: By mighty!
+\crotthers: By mighty!
 
-\SD: What's he got?
+\stephen: What's he got?
 
-\Dx: Jubilee mutton.
+\dixon: Jubilee mutton.
 Bovril, by James.
 
-\Ln: Wants it real bad.
+\lenehan: Wants it real bad.
 
-\Cr: D'ye ken bare socks?
+\crotthers: D'ye ken bare socks?
 Seedy cuss in the Richmond?
 
-\Dx: Rawthere!
+\dixon: Rawthere!
 Thought he had a deposit of lead in his penis.
 Trumpery insanity.
 Bartle the Bread we calls him.
 
-\Ly: That, sir, was once a prosperous cit.
+\lynch: That, sir, was once a prosperous cit.
 
-\Bl: Man all tattered and torn that married a maiden all forlorn.
+\Bloom: Man all tattered and torn that married a maiden all forlorn.
 Slung her hook, she did.
 Here see lost love.
 Walking Mackintosh of lonely canyon.
@@ -2772,62 +2731,62 @@ Sunk by war specials.
 
 Be worse for him, says he, nor any Rooshian.
 
-\Br: Time all. There's eleven of them. Get ye gone.
+\barman: Time all. There's eleven of them. Get ye gone.
 
-\Ln: Forward, woozy wobblers!
+\lenehan: Forward, woozy wobblers!
 
-\Ly: Night.
+\lynch: Night.
 
-\PC: Night.
+\punch: Night.
 
-\Dx: May Allah the Excellent One your soul this night ever
+\dixon: May Allah the Excellent One your soul this night ever
 tremendously conserve.
 
 % \histstyle{Coda {\#}8}
 
-\Ln: Your attention!
+\lenehan: Your attention!
 
-\Cr: We're nae tha fou.
+\crotthers: We're nae tha fou.
 
-\Ly: The Leith police dismisseth us.
+\lynch: The Leith police dismisseth us.
 
-\Ln: The least tholice.
+\lenehan: The least tholice.
 
-\PC: Ware hawks for the chap puking.
+\punch: Ware hawks for the chap puking.
 Unwell in his abominable regions.
 
-\SD: Yooka.
+\stephen: Yooka.
 
 Night.
 
-\Cr: Mona, my true love.
+\crotthers: Mona, my true love.
 
-\Ly: Yook.
+\lynch: Yook.
 
-\Cr: Mona, my own love.
+\crotthers: Mona, my own love.
 
 Ook.
 
 % \histstyle{Coda {\#}9}
 
-\Ly: Hark!
+\lynch: Hark!
 Shut your obstropolos.
 
 \N2: Pflaap!
 
 \N3: Pflaap!
 
-\Ln: Blaze on.
+\lenehan: Blaze on.
 There she goes.
 Brigade!
 
-\PC: Bout ship.
+\punch: Bout ship.
 Mount street way.
 Cut up!
 
 \N1: Pflaap!
 
-\Ly: Tally ho.
+\lynch: Tally ho.
 
 You not come?
 
@@ -2837,45 +2796,45 @@ Run, skelter, race.
 
 % \histstyle{Coda {\#}10}
 
-\SD: Lynch!
+\stephen: Lynch!
 Hey?
 Sign on long o' me.
 
-\Ly: Denzille lane this way.
+\lynch: Denzille lane this way.
 Change here for Bawdyhouse.
 
-\SD: We two, she said, will seek the kips where shady Mary is.
+\stephen: We two, she said, will seek the kips where shady Mary is.
 
-\Ly: Righto, any old time.
+\lynch: Righto, any old time.
 
-\SD: \latin{Laetabuntur in cubilibus suis}.
+\stephen: \latin{Laetabuntur in cubilibus suis}.
 
-\Ly: You coming long?
+\lynch: You coming long?
 
-\SD: Who the sooty hell's the johnny in the black duds?
+\stephen: Who the sooty hell's the johnny in the black duds?
 
-\Ly: Hush!
+\lynch: Hush!
 
-\Dw: Sinned against the light and even now that day is at hand
+\dowie: Sinned against the light and even now that day is at hand
 when he shall come to judge the world by fire.
 
 \N3: Pflaap!
 
-\SD: \latin{Ut implerentur scripturae}.
+\stephen: \latin{Ut implerentur scripturae}.
 Strike up a ballad.
 
 \N1: Then outspake medical Dick to his comrade medical Davy.
 
-\By: Christicle, who's this excrement yellow gospeller on the Merrion hall?
+\bystander: Christicle, who's this excrement yellow gospeller on the Merrion hall?
 
-\Dw: Elijah is coming! Washed in the blood of the Lamb.
+\dowie: Elijah is coming! Washed in the blood of the Lamb.
 
-\Dw: Come on you winefizzling, ginsizzling, booseguzzling existences!
+\dowie: Come on you winefizzling, ginsizzling, booseguzzling existences!
 Come on, you dog-gone, bullnecked, beetlebrowed, hogjowled,
 peanutbrained, weaseleyed fourflushers, false alarms and excess baggage!
 Come on, you triple extract of infamy!
 
-\Dw: Alexander J Christ Dowie, that's my name, that's
+\dowie: Alexander J Christ Dowie, that's my name, that's
 yanked to glory most half this planet from Frisco beach to Vladivostok.
 The Deity aint no nickel dime bumshow. I put it to you that He's on the
 square and a corking fine business proposition. He's the grandest thing
@@ -2885,9 +2844,9 @@ Almighty God.
 
 \N2: Pflaaaap!
 
-\SD: Not half.
+\stephen: Not half.
 
-\Dw: He's got a coughmixture with a punch in it for you, my friend,
+\dowie: He's got a coughmixture with a punch in it for you, my friend,
 in his back pocket. Just you try it on.
 
 \end{document}

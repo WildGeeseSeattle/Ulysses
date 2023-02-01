@@ -1,69 +1,165 @@
-nnoremap <silent> ;n0 0i<Bar>N0<Bar> <Esc>
-nnoremap <silent> ;n1 0i<Bar>N1<Bar> <Esc>
-nnoremap <silent> ;n2 0i<Bar>N2<Bar> <Esc>
-nnoremap <silent> ;n3 0i<Bar>N3<Bar> <Esc>
-nnoremap <silent> ;al 0i<Bar>All<Bar> <Esc>
-nnoremap <silent> ;ba 0i<Bar>Ba<Bar> <Esc>
-nnoremap <silent> ;bl 0i<Bar>Bl<Bar> <Esc>
-nnoremap <silent> ;cr 0i<Bar>Cr<Bar> <Esc>
-nnoremap <silent> ;dx 0i<Bar>Dx<Bar> <Esc>
-nnoremap <silent> ;ln 0i<Bar>Ln<Bar> <Esc>
-nnoremap <silent> ;ly 0i<Bar>Ly<Bar> <Esc>
-nnoremap <silent> ;md 0i<Bar>Md<Bar> <Esc>
-nnoremap <silent> ;mu 0i<Bar>Mu<Bar> <Esc>
-nnoremap <silent> ;nc 0i<Bar>nc<Bar> <Esc>
-nnoremap <silent> ;nq 0i<Bar>nq<Bar> <Esc>
-nnoremap <silent> ;pc 0i<Bar>PC<Bar> <Esc>
-nnoremap <silent> ;sd 0i<Bar>SD<Bar> <Esc>
-"
-vnoremap <silent> ;cm :s/^/.. /<Bar>noh<CR>
-"
-" function! TagSeln(map, tag)
-"     execute "vnoremap <silent> ;" . a:map . " <Esc>" .
-"     \   "`>" . "a</" . a:tag . "><Esc>" .
-"     \   "`<" . "i<" . a:tag . "><Esc>".
-"     \   "`><CR><CR>"
-" endfunction
-" 
-" function! TagSeln1(map, tag)
-"     execute "vnoremap <silent> ;" . a:map . " <Esc>" .
-"     \   "`>" . "a</" . a:tag . "><Esc>" .
-"     \   "`<" . "i<" . a:tag . "><Esc>".
-"     \   "`>"
-" endfunction
-"
-"
-" call TagSeln("al", "all")
-" call TagSeln("bg", "bergan")
-" call TagSeln("bl", "bloom")
-" call TagSeln("ci", "citizen")
-" call TagSeln("cr", "crofton")
-" call TagSeln("cu", "cunningham")
-" call TagSeln("do", "doran")
-" call TagSeln("em", "em")
-" call TagSeln("fr", "french")
-" call TagSeln("ge", "german")
-" call TagSeln("go", "garryowen")
-" call TagSeln("jo", "joe")
-" call TagSeln("ir", "irish")
-" call TagSeln("jj", "jjomolloy")
-" call TagSeln("jw", "johnwyse")
-" call TagSeln("la", "latin")
-" call TagSeln("lm", "lambert")
-" call TagSeln("ln", "lenehan")
-" call TagSeln1("om", "omit")
-" call TagSeln("pw", "power")
-" call TagSeln("rg", "ragamuffin")
-" call TagSeln("sg", "stage")
-" call TagSeln("ti", "title")
-" call TagSeln("to", "tomlinson")
-" call TagSeln("ty", "terry")
-" call TagSeln("af", "allfours")
-" call TagSeln("co", "conacre")
-" call TagSeln("or", "oreilly")
-" call TagSeln("sw", "staylewit")
-" call TagSeln("sp", "speaker")
-" call TagSeln("nq", "nq")
-" call TagSeln("n1", "n1")
-" call TagSeln("n2", "n2")
-" call TagSeln("n3", "n3")
+
+" ;- => selection -> --- selection ---
+vnoremap <buffer> <silent> ;- <Esc>`>c$ ---<Esc>`<i--- <Esc>gv>
+" ;s => selection -> \stage{selection}
+vnoremap <buffer> <silent> ;s <Esc>`>a}<Esc>`<i\stage{<Esc>
+" ;S => SELECTION -> \stage{selection}
+vnoremap <buffer> <silent> ;S u`>a}<Esc>`<i\stage{<Esc>
+" ;e => selection -> \emph{selection}
+vnoremap <buffer> <silent> ;e u`>a}<Esc>`<i\emph{<Esc>
+" ;l => SELECTION -> \latin{selection}
+vnoremap <buffer> <silent> ;l u`>a}<Esc>`<i\latin{<Esc>
+" ;h => SELECTION -> \hebrew{selection}
+vnoremap <buffer> <silent> ;h u`>a}<Esc>`<i\hebrew{<Esc>
+" ;y => SELECTION -> \yiddish{selection}
+vnoremap <buffer> <silent> ;y u`>a}<Esc>`<i\yiddish{<Esc>
+" ;f => SELECTION -> \french{selection}
+vnoremap <buffer> <silent> ;f u`>a}<Esc>`<i\french{<Esc>
+" ;g => SELECTION -> \german{selection}
+vnoremap <buffer> <silent> ;g u`>a}<Esc>`<i\german{<Esc>
+" ;G => SELECTION -> \greek{selection}
+vnoremap <buffer> <silent> ;G u`>a}<Esc>`<i\greek{<Esc>
+" ;E => SELECTION -> \spanish{selection}
+vnoremap <buffer> <silent> ;E u`>a}<Esc>`<i\spanish{<Esc>
+" ;i => SELECTION -> \italian{selection}
+vnoremap <buffer> <silent> ;i u`>a}<Esc>`<i\italian{<Esc>
+" ;I => SELECTION -> \irish{selection}
+vnoremap <buffer> <silent> ;I u`>a}<Esc>`<i\irish{<Esc>
+" ;q => selection -> \Quote{selection}
+vnoremap <buffer> <silent> ;q u`>a}<Esc>`<i\Quote{<Esc>
+" ;t => SELECTION -> \Title{selection}
+vnoremap <buffer> <silent> ;t u`>a}<Esc>`<i\Title{<Esc>
+" ;v => selection -> \begin{verse}\rselection\r\end{verse}
+vnoremap <buffer> <silent> ;v <Esc>`>o<C-D>\end{verse}<Esc>`<O<C-D>\begin{verse}<Esc>
+" ;z => selection -> \sout{selection}
+vnoremap <buffer> <silent> ;z <Esc>`>a}<Esc>`<i\sout{<Esc>
+
+
+" | => append " |" to line
+nnoremap <buffer> <silent> \| A \|<Esc>
+" ;; => insert " |", break line
+nnoremap <buffer> <silent> ;; s \|<CR><Esc>
+" ;m => reformat NAME: to \Name:
+nnoremap <buffer> <silent> ;m 0i\<Esc>2lguw
+" ;n => reformat A NAME: to \Name:
+nnoremap <buffer> <silent> ;n 0cf \<Esc>2lguw
+" ;N => reformat SOME NAME: to \SomeName:
+nnoremap <buffer> <silent> ;N 0i\<Esc>2lguwf xlguw
+" ;r => reformat \SomeName: to \newcommand{\SomeName}{\role{SomeName}}
+nnoremap <buffer> <silent> ;r $x0lywI\newcommand{<Esc>A}{\role{}}<Esc>hPb
+
+" ;D => puts previous \gab+10 after current line
+nnoremap <buffer> <silent> ;D ma?\\gab<Cr>yy'ap2w10<C-A>zz
+
+" ;1 => Change current \Name: to \Name[1]:
+nnoremap <buffer> <silent> ;1 $i[1]<Esc>
+
+" ;2 => Change current \Name: to \Name[2]:
+nnoremap <buffer> <silent> ;2 $i[2]<Esc>
+
+" -0 => \stage{( some text )}  ->  some text
+vnoremap <buffer> <silent> -0 <Esc>`>h2x`<8x
+
+" -1 => \stage{( some text )}  ->  N1: Some text.
+vnoremap <buffer> <silent> -1 <Esc>`>hC.<Esc>`<8cl\N1:<CR><Esc>~
+
+" -2 => \stage{( some text )}  ->  N2: Some text.
+vnoremap <buffer> <silent> -2 <Esc>`>hC.<Esc>`<8cl\N2:<CR><Esc>~
+
+" \1 => \stage{(Some text.)}  ->  N1: Some text.
+vnoremap <buffer> <silent> \1 <Esc>`>hD`<8cl\N1:<CR><Esc>
+
+" \2 => \stage{(Some text.)}  ->  N2: Some text.
+vnoremap <buffer> <silent> \2 <Esc>`>hD`<8cl\N2:<CR><Esc>
+
+" nnoremap <silent> ;n1 0gUli\N1:<CR><Esc>
+nnoremap <silent> ;n1 0i<CR>\N1:<CR><Esc>
+nnoremap <silent> ;n2 0i<CR>\N2:<CR><Esc>
+nnoremap <silent> ;n3 0i<CR>\N3:<CR><Esc>
+nnoremap <silent> ;n4 0i<CR>\N4:<CR><Esc>
+nnoremap <silent> ;n5 0i<CR>\N5:<CR><Esc>
+nnoremap <silent> ;n6 0i<CR>\N6:<CR><Esc>
+
+nnoremap <silent> ;nn 0i\N{19}:<CR><Esc>
+nnoremap <silent> ;nN 0i<CR>\Nnovel:<CR><Esc>
+nnoremap <silent> ;nR 0i<CR>\Nrelig:<CR><Esc>
+nnoremap <silent> ;nr 0i<CR>\Nreal:<CR><Esc>
+
+nnoremap <silent> ;f1 0i<CR>\F1:<CR><Esc>
+nnoremap <silent> ;f2 0i<CR>\F2:<CR><Esc>
+nnoremap <silent> ;f3 0i<CR>\F3:<CR><Esc>
+nnoremap <silent> ;f4 0i<CR>\F4:<CR><Esc>
+nnoremap <silent> ;f5 0i<CR>\F5:<CR><Esc>
+nnoremap <silent> ;f6 0i<CR>\F6:<CR><Esc>
+
+nnoremap <silent> ;m1 0i<CR>\M1:<CR><Esc>
+nnoremap <silent> ;m2 0i<CR>\M2:<CR><Esc>
+nnoremap <silent> ;m3 0i<CR>\M3:<CR><Esc>
+nnoremap <silent> ;m4 0i<CR>\M4:<CR><Esc>
+nnoremap <silent> ;m5 0i<CR>\M5:<CR><Esc>
+nnoremap <silent> ;m6 0i<CR>\M6:<CR><Esc>
+
+nnoremap <silent> ;aa 0i\A:<CR><Esc>
+nnoremap <silent> ;qq 0i\Q:<CR><Esc>
+nnoremap <silent> ;q1 0i\Q1:<CR><Esc>
+nnoremap <silent> ;q2 0i\Q2:<CR><Esc>
+nnoremap <silent> ;al 0i\All:<CR><Esc>
+
+nnoremap <silent> ;bl 02xi\Bloom:<CR><Esc>
+nnoremap <silent> ;bi 0i<CR>\BloomInt:<CR><Esc>
+nnoremap <silent> ;ba 0i<CR>\BloomAbstract:<CR><Esc>
+nnoremap <silent> ;bc 0i<CR>\BloomCurrent:<CR><Esc>
+nnoremap <silent> ;bh 0i<CR>\BloomHist:<CR><Esc>
+nnoremap <silent> ;bo 0i<CR>\BloomOther:<CR><Esc>
+nnoremap <silent> ;bt 0i<CR>\BloomToday:<CR><Esc>
+nnoremap <silent> ;sd 02xi\Stephen:<CR><Esc>
+nnoremap <silent> ;si 0i<CR>\StephenInt:<CR><Esc>
+
+nnoremap <silent> ;gj 0i<CR>\gertyJudgy:<CR><Esc>
+nnoremap <silent> ;gn 0i<CR>\gertyNovel:<CR><Esc>
+nnoremap <silent> ;gr 0i<CR>\gertyReal:<CR><Esc>
+nnoremap <silent> ;gR 0i<CR>\gertyRomantic:<CR><Esc>
+nnoremap <silent> ;gs 0i<CR>\gertySex:<CR><Esc>
+
+nnoremap <silent> ;cm 02xi\conmee:<CR><Esc>
+nnoremap <silent> ;ci 0i\conmeeint:<CR><Esc>
+nnoremap <silent> ;ms 02xi\mrssheehy:<CR><Esc>
+nnoremap <silent> ;bd 02xi\boody:<CR><Esc>
+nnoremap <silent> ;kd 02xi\katey:<CR><Esc>
+nnoremap <silent> ;md 02xi\maggy:<CR><Esc>
+nnoremap <silent> ;bb 02xi\boylan:<CR><Esc>
+nnoremap <silent> ;by 02xi\boy{}:<CR><Esc>
+nnoremap <silent> ;gl 02xi\girl{}:<CR><Esc>
+nnoremap <silent> ;bg 02xi\blondgirl:<CR><Esc>
+nnoremap <silent> ;aa 02xi\artifoni:<CR><Esc>
+nnoremap <silent> ;du 0i\missdunne:<CR><Esc>
+nnoremap <silent> ;di 0i\dunneint:<CR><Esc>
+nnoremap <silent> ;jj 02xi\jjom:<CR><Esc>
+nnoremap <silent> ;nl 02xi\lambert:<CR><Esc>
+nnoremap <silent> ;rl 02xi\revlove:<CR><Esc>
+nnoremap <silent> ;tr 02xi\rochford:<CR><Esc>
+nnoremap <silent> ;nf 02xi\nosey:<CR><Esc>
+nnoremap <silent> ;lh 02xi\lenehan:<CR><Esc>
+nnoremap <silent> ;MC 02xi\mcoy:<CR><Esc>
+nnoremap <silent> ;sm 02xi\shopman:<CR><Esc>
+nnoremap <silent> ;dd 02xi\dilly:<CR><Esc>
+nnoremap <silent> ;SD 02xi\simon:<CR><Esc>
+nnoremap <silent> ;ki 0i\kernanint:<CR><Esc>
+nnoremap <silent> ;kn 0i\kernan:<CR><Esc>
+nnoremap <silent> ;cr 0i\crimmins:<CR><Esc>
+nnoremap <silent> ;cw 02xi\cowley:<CR><Esc>
+nnoremap <silent> ;bd 02xi\dollard:<CR><Esc>
+nnoremap <silent> ;mc 02xi\cunningham:<CR><Esc>
+nnoremap <silent> ;jw 02xi\johnwyse:<CR><Esc>
+nnoremap <silent> ;pw 02xi\power:<CR><Esc>
+nnoremap <silent> ;lj 02xi\longjohn:<CR><Esc>
+nnoremap <silent> ;jh 02xi\jimmyhenry:<CR><Esc>
+nnoremap <silent> ;bm 02xi\mulligan:<CR><Esc>
+nnoremap <silent> ;ha 02xi\haines:<CR><Esc>
+nnoremap <silent> ;md 0i<CR>\masterdignam:<CR><Esc>
+
+nnoremap <silent> ;x  0o<CR><Esc>
+nnoremap <silent> ;h  A \|<Esc>j2dd
+
+nnoremap <silent> ;(  i\paren{<Esc>l%a}<Esc>l
+nnoremap <silent> ;{  i<CR>\paren{<Esc>l%a}<Esc>l
