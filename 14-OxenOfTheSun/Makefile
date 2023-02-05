@@ -4,7 +4,7 @@ all: pdf
 
 pdf: $(TARGET).pdf
 
-%.pdf : %.tex
+%.pdf : %.tex defs.tex
 	tectonic $<
 
 clean:

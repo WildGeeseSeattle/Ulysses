@@ -38,7 +38,9 @@ vnoremap <buffer> <silent> ;z <Esc>`>a}<Esc>`<i\sout{<Esc>
 " | => append " |" to line
 nnoremap <buffer> <silent> \| A \|<Esc>
 " ;; => insert " |", break line
-nnoremap <buffer> <silent> ;; s \|<CR><Esc>
+nnoremap <buffer> <silent> ;; hs \|<CR><Esc>
+" ;. => insert · (middle dot) as a pseudo·hyphen
+nnoremap <buffer> <silent> ;. i·<Esc>
 " ;m => reformat NAME: to \Name:
 nnoremap <buffer> <silent> ;m 0i\<Esc>2lguw
 " ;n => reformat A NAME: to \Name:
