@@ -43,7 +43,8 @@
 \newcounter{questions}
 
 % Narrators 0-9
-\newcommand{\N}[1]              {\Narr[{\ifthenelse{\equal{#1}{3}}{\hskip 2em}{}}N]{#1}}
+%\newcommand{\N}[1]              {\Narr[{\ifthenelse{\equal{#1}{3}}{\hskip 2em}{}}N]{#1}}
+\newcommand{\N}[1]              {\Narr[N]{#1}}
 \newcommand{\n}[1]              {\narr[n\/]{#1}}
 \newcommand{\F}[1]              {\Narr[F]{#1}}
 \newcommand{\f}[1]              {\narr[f\/]{#1}}
@@ -73,7 +74,7 @@
 
 \newcommand{\slfrac}[2]{\left.#1\middle/#2\right.}
 
-\newcommand{\stage}[1]    {\textit{\textsc{#1}}\/}
+\newcommand{\stage}[1]    {[\textit{\textsc{#1}}\/]}
 \newcommand{\he}[1]       {\stage{#1}}
 \newcommand{\she}[1]      {\stage{#1}}
 \newcommand{\arse}        {\stage{arse}}
