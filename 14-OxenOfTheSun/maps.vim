@@ -35,7 +35,7 @@ vnoremap <buffer> <silent> ;v <Esc>`>o<C-D>\end{verse}<Esc>`<O<C-D>\begin{verse}
 vnoremap <buffer> <silent> ;z <Esc>`>a}<Esc>`<i\sout{<Esc>
 
 
-" | => append " |" to line
+" \| => append " |" to line
 nnoremap <buffer> <silent> \| A \|<Esc>
 " ;; => insert " |", break line
 nnoremap <buffer> <silent> ;; hs \|<CR><Esc>
