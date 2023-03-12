@@ -76,6 +76,7 @@ such as Microsoft Word.
 
   * Mac: use Preview (built-in) or install [Skim]
   * Windows: install [Adobe Acrobat Reader]
+  * Linux: install [Okular]
 
 * If you want to make changes to the scripts,
   you'll need a good [text editor],
@@ -112,6 +113,12 @@ Otherwise, run `xelatex` against the main TeX file:
 xelatex sirens.tex
 ```
 
+Or run `tectonic`:
+
+```bash
+tectonic sirens.tex
+```
+
 If you see a warning like
 "LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right",
 you will need to rebuild using `make -B pdf`.
@@ -132,6 +139,7 @@ you will need to rebuild using `make -B pdf`.
 [PDF viewer]: https://blog.hubspot.com/marketing/best-free-pdf-reader
 [Skim]: https://skim-app.sourceforge.io/
 [Adobe Acrobat Reader]: https://acrobat.adobe.com/
+[Okular]: https://okular.kde.org/
 [text editor]: https://kinsta.com/blog/best-text-editors/
 [syntax highlighting]: https://en.wikipedia.org/wiki/Syntax_highlighting
 [pull request]: https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests
