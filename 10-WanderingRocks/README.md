@@ -5,6 +5,7 @@ Small vignettes of many characters around Dublin.
 ## Commentary
 
 - [Text of Chapter 10](http://www.online-literature.com/james_joyce/ulysses/10/)
+- [U22 Podcast: Wandering Rocks](https://u22pod.com/episodes/episode-10-wandering-rocks)
 - [The Joyce Project: Wandering Rocks](http://m.joyceproject.com/chapters/wrocks.html)
 - [Ulysses Guide](http://www.ulyssesguide.com/10-wandering-rocks)
 - [Kennesaw Guide](http://web.archive.org/web/20120515105005/http://ksumail.kennesaw.edu:80/~mglosup/ulysses/rocks.htm)

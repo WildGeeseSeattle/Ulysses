@@ -5,6 +5,7 @@
 ## Commentary
 
 - [Text of Chapter 14](http://www.online-literature.com/james_joyce/ulysses/14/)
+- [U22 Podcast: Oxen of the Sun](https://u22pod.com/episodes/episode-14-oxen-of-the-sun)
 - [The Joyce Project: Oxen of the Sun](http://m.joyceproject.com/chapters/oxen.html)
 - [Ulysses Guide](http://www.ulyssesguide.com/14-nausicaa)
 - [Kennesaw Guide](http://web.archive.org/web/20120515105005/http://ksumail.kennesaw.edu:80/~mglosup/ulysses/nausicaa.htm)

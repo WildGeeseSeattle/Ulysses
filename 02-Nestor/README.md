@@ -6,6 +6,7 @@ dealing with his pupils and his headmaster, Mr Deasy.
 ## Commentary
 
 - [Text of Chapter 2](http://www.online-literature.com/james_joyce/ulysses/2/)
+- [U22 Podcast: Nestor](https://u22pod.com/episodes/t9rvimwzwk9uto5mmlxss25gx4dndi)
 - [The Joyce Project: Nestor](http://m.joyceproject.com/chapters/nestor.html)
 - [Kennesaw Guide](http://web.archive.org/web/20120618124805/http://ksumail.kennesaw.edu/~mglosup/ulysses/nestor.htm)
 - [Cliff Notes](http://www.cliffsnotes.com/literature/u/ulysses/summary-and-analysis/chapter-2)

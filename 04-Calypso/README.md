@@ -5,6 +5,7 @@ Mr Bloom breaks his fast
 ## Commentary
 
 - [Text of Chapter 4](http://www.online-literature.com/james_joyce/ulysses/4/)
+- [U22 Podcast: Calypso](https://u22pod.com/episodes/episode-4-calypso)
 - [The Joyce Project: Calypso](http://m.joyceproject.com/chapters/calypso.html)
 - [Kennesaw Guide](http://ksumail.kennesaw.edu/~mglosup/ulysses/calypso.htm)
 - [Cliff Notes](http://www.cliffsnotes.com/literature/u/ulysses/summary-and-analysis/chapter-4)

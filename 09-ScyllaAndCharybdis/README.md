@@ -5,6 +5,7 @@ Stephen is holding forth in the National Library of Ireland.
 ## Commentary
 
 - [Text of Chapter 9](http://www.online-literature.com/james_joyce/ulysses/9/)
+- [U22 Podcast: Scylla and Charybdis](https://u22pod.com/episodes/episode-9-scylla-and-charybdis)
 - [The Joyce Project: Scylla and Charybdis](http://m.joyceproject.com/chapters/scylla.html)
 - [Kennesaw Guide](http://web.archive.org/web/20120618124805/http://ksumail.kennesaw.edu/~mglosup/ulysses/scylla.htm)
 - [Cliff Notes](http://www.cliffsnotes.com/literature/u/ulysses/summary-and-analysis/chapter-9)

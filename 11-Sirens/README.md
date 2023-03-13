@@ -5,6 +5,7 @@ The musical chapter at the Ormond Hotel.
 ## Commentary
 
 - [Text of Chapter 11](http://www.online-literature.com/james_joyce/ulysses/11/)
+- [U22 Podcast: Sirens](https://u22pod.com/episodes/hl1py869cwe46hxf1t8ala40cpgjux)
 - [The Joyce Project: Sirens](http://m.joyceproject.com/chapters/sirens.html)
 - [Ulysses Guide](http://www.ulyssesguide.com/11-sirens)
 - [Kennesaw Guide](http://web.archive.org/web/20120515105005/http://ksumail.kennesaw.edu:80/~mglosup/ulysses/sirens.htm)

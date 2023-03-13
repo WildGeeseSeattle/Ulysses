@@ -5,6 +5,7 @@ Bloom searches for lunch and finds satisfaction at Davy Byrne's.
 ## Commentary
 
 - [Text of Chapter 8](http://www.online-literature.com/james_joyce/ulysses/8/)
+- [U22 Podcast: Lestrygonians](https://u22pod.com/episodes/episode-8-lestrygonians)
 - [The Joyce Project: Lestrygonians](http://m.joyceproject.com/chapters/lestry.html)
 - [Kennesaw Guide](http://web.archive.org/web/20120513110015/http://ksumail.kennesaw.edu:80/~mglosup/ulysses/lystrygon.htm)
 - [Cliff Notes](http://www.cliffsnotes.com/literature/u/ulysses/summary-and-analysis/chapter-8)

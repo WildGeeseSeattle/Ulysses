@@ -5,6 +5,7 @@ Bloom runs some errands.
 ## Commentary
 
 - [Text of Chapter 5](http://www.online-literature.com/james_joyce/ulysses/5/)
+- [U22 Podcast: Lotus Eaters](https://u22pod.com/episodes/episode-5-lotus-eaters)
 - [The Joyce Project: Lotus Eaters](http://m.joyceproject.com/chapters/lotus.html)
 - [Kennesaw Guide](http://web.archive.org/web/20120614235446/http://ksumail.kennesaw.edu/~mglosup/ulysses/lotus.htm)
 - [Cliff Notes](http://www.cliffsnotes.com/literature/u/ulysses/summary-and-analysis/chapter-5)

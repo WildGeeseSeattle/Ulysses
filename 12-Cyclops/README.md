@@ -5,6 +5,7 @@ Bloom encounters The Citizen at Barney Kiernan's.
 ## Commentary
 
 - [Text of Chapter 12](http://www.online-literature.com/james_joyce/ulysses/12/)
+- [U22 Podcast: Cyclops](https://u22pod.com/episodes/episode-12-cyclops)
 - [The Joyce Project: Cyclops](http://m.joyceproject.com/chapters/cyclops.html)
 - [Ulysses Guide](http://www.ulyssesguide.com/12-cyclops)
 - [Kennesaw Guide](http://web.archive.org/web/20120515105005/http://ksumail.kennesaw.edu:80/~mglosup/ulysses/cyclops.htm)

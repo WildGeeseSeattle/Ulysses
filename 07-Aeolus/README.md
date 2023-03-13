@@ -5,6 +5,7 @@ Bloom and Stephen fail to meet each other at the office of the *Freeman's Journa
 ## Commentary
 
 - [Text of Chapter 7](http://www.online-literature.com/james_joyce/ulysses/7/)
+- [U22 Podcast: Aeolus](https://u22pod.com/episodes/episode-7-aeolus)
 - [The Joyce Project: Aeolus](http://m.joyceproject.com/chapters/aeolus.html)
 - [Kennesaw Guide](http://web.archive.org/web/20120618124805/http://ksumail.kennesaw.edu/~mglosup/ulysses/aeolus.htm)
 - [Cliff Notes](http://www.cliffsnotes.com/literature/u/ulysses/summary-and-analysis/chapter-7)

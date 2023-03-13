@@ -5,6 +5,7 @@ The Brothel Chapter
 ## Commentary
 
 - [Text of Chapter 15](http://www.online-literature.com/james_joyce/ulysses/15/)
+- [U22 Podcast: Circe](https://u22pod.com/episodes/episode-15-circe)
 - [The Joyce Project: Circe](http://m.joyceproject.com/chapters/circe.html)
 - [Ulysses Guide](http://www.ulyssesguide.com/15-circe)
 - [Kennesaw Guide](http://web.archive.org/web/20120515105005/http://ksumail.kennesaw.edu:80/~mglosup/ulysses/circe.htm)
