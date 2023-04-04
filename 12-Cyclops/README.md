@@ -20,3 +20,4 @@ Bloom encounters The Citizen at Barney Kiernan's.
 - [Joyce’s Moraculous Sindbook: Suzette Henke — “Cyclops”: Giant and Jew](https://kb.osu.edu/bitstream/handle/1811/24647/JOYCES_MORACULOUS_SINDBOOK.pdf?sequence=1&isAllowed=y)
 - [The Modern Word](http://web.archive.org/web/20150423131232/http://www.themodernword.com/joyce/)
 - [James Joyce's Ulysses: Where It's Always June 16, 1904](http://loki.stockton.edu/~kinsellt/projects/ulysses/storyReader$50.html) and [Cyclops II](http://loki.stockton.edu/~kinsellt/projects/ulysses/storyReader$56.html)
+- [1982 RTÉ Recording](https://archive.org/download/Ulysses-Audiobook-Merged/12__Cyclops.mp)

@@ -17,3 +17,4 @@ Bloom goes to Paddy Dignam's funeral.
 - [Shmoop Summary](http://www.shmoop.com/ulysses-joyce/episode-6-hades-summary.html) and [Analysis](http://www.shmoop.com/ulysses-joyce/hades-analysis-summary.html)
 - [Groden Notes](http://www.michaelgroden.com/notes/open06.html)
 - [Joyce’s Moraculous Sindbook: Suzette Henke](https://ohiostatepress.org/Books/Complete%20PDFs/Henke%20Joyces/07.pdf)
+- [1982 RTÉ Recording](https://archive.org/download/Ulysses-Audiobook-Merged/06__Hades.mp3)

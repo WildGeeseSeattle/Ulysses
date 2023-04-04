@@ -16,3 +16,4 @@ Bloom searches for lunch and finds satisfaction at Davy Byrne's.
 - [Shmoop Summary](http://www.shmoop.com/ulysses-joyce/episode-8-lestrygonians-summary.html) and [Analysis](http://www.shmoop.com/ulysses-joyce/lestrygonians-analysis-summary.html)
 - [Groden Notes](http://www.michaelgroden.com/notes/open08.html)
 - [Joyce’s Moraculous Sindbook: Suzette Henke — “Lestrygonians” and “Sirens”: Food for Men and Gods](https://ohiostatepress.org/books/Complete%20PDFs/Henke%20Joyces/08.pdf)
+- [1982 RTÉ Recording](https://archive.org/download/Ulysses-Audiobook-Merged/08__Lestrygonians.mp3)

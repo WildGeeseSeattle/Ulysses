@@ -15,3 +15,4 @@ Mr Bloom breaks his fast
 - [Paul Debraski](http://ijustreadaboutthat.wordpress.com/2010/07/19/james-joyce%E2%80%93week-2-ulysses-1922/)
 - [Shmoop Summary](http://www.shmoop.com/ulysses-joyce/episode-4-calypso-summary.html) and [Analysis](http://www.shmoop.com/ulysses-joyce/calypso-analysis-summary.html)
 - [Groden Notes](http://michaelgroden.com/notes/open4.html)
+- [1982 RTÉ Recording](https://archive.org/download/Ulysses-Audiobook-Merged/04__Calypso.mp3)

@@ -15,3 +15,4 @@ Stephen begins his day at the Martello Tower with Buck Mulligan and Haines.
 - [Paul Debraski](http://ijustreadaboutthat.wordpress.com/2010/07/12/james-joyce-week-1-ulysses-1922/)
 - [Shmoop Summary](http://www.shmoop.com/ulysses-joyce/episode-1-telemachus-summary.html) and [Analysis](http://www.shmoop.com/ulysses-joyce/telemachus-analysis-summary.html)
 - [Groden Notes](http://michaelgroden.com/notes/open1.html)
+- [1982 RTÉ Recording](https://archive.org/download/Ulysses-Audiobook-Merged/01__Telemachus.mp3)

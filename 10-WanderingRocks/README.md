@@ -19,3 +19,4 @@ Small vignettes of many characters around Dublin.
 - [Groden Notes](http://www.michaelgroden.com/notes/open10.html)
 - [Joyce’s Moraculous Sindbook: Suzette Henke — “Hades”: The Hibernian Underworld, “Aelous” and “Wandering Rocks”: The World as Machine](https://ohiostatepress.org/books/Complete%20PDFs/Henke%20Joyces/07.pdf)
 - [James Joyce's Ulysses: Where It's Always June 16, 1904](http://loki.stockton.edu/~kinsellt/projects/ulysses/storyReader$27.html) and [Wandering Rocks II](http://loki.stockton.edu/~kinsellt/projects/ulysses/storyReader$28.html)
+- [1982 RTÉ Recording](https://archive.org/download/Ulysses-Audiobook-Merged/10__Wandering_Rocks.mp3)

@@ -17,3 +17,4 @@ Bloom and Stephen fail to meet each other at the office of the *Freeman's Journa
 - [Shmoop Summary](http://www.shmoop.com/ulysses-joyce/episode-7-aeolus-summary.html) and [Analysis](http://www.shmoop.com/ulysses-joyce/aeolus-analysis-summary.html)
 - [Groden Notes](http://www.michaelgroden.com/notes/open07.html)
 - [Joyce’s Moraculous Sindbook: Suzette Henke — “Hades”: The Hibernian Underworld, “Aelous” and “Wandering Rocks”: The World as Machine](https://ohiostatepress.org/books/Complete%20PDFs/Henke%20Joyces/07.pdf)
+- [1982 RTÉ Recording](https://archive.org/download/Ulysses-Audiobook-Merged/07__Aeolus.mp3)

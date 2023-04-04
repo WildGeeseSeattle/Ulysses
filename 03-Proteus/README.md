@@ -17,3 +17,4 @@ Stephen muses on Sandymount Strand.
 - [Shmoop Summary](http://www.shmoop.com/ulysses-joyce/episode-3-proteus-summary.html) and [Analysis](http://www.shmoop.com/ulysses-joyce/proteus-analysis-summary.html)
 - [Groden Notes](http://www.michaelgroden.com/notes/open03.html)
 - [Joyce’s Moraculous Sindbook: Suzette Henke](https://ohiostatepress.org/Books/Complete%20PDFs/Henke%20Joyces/05.pdf)
+- [1982 RTÉ Recording](https://archive.org/download/Ulysses-Audiobook-Merged/03__Proteus.mp3)

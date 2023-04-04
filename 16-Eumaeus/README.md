@@ -19,3 +19,4 @@ Stephen and Bloom talk at the Cabman's Shelter.
 - [Joyce’s Moraculous Sindbook: Suzette Henke — “Eumaeus” and “Ithaca”: *Nostos*](https://kb.osu.edu/bitstream/handle/1811/24647/JOYCES_MORACULOUS_SINDBOOK.pdf?sequence=1&isAllowed=y)
 - [The Modern Word](http://web.archive.org/web/20150423131232/http://www.themodernword.com/joyce/)
 - [James Joyce's Ulysses: Where It's Always June 16, 1904](http://loki.stockton.edu/~kinsellt/projects/ulysses/storyReader$52.html) and [Eumaeus II](http://loki.stockton.edu/~kinsellt/projects/ulysses/storyReader$60.html)
+- [1982 RTÉ Recording](https://archive.org/download/Ulysses-Audiobook-Merged/16__Eumaeus.mp3)

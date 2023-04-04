@@ -20,3 +20,4 @@ The Brothel Chapter
 - [Joyce’s Moraculous Sindbook: Suzette Henke — “Circe”: Ulysses in Nighttown](https://kb.osu.edu/bitstream/handle/1811/24647/JOYCES_MORACULOUS_SINDBOOK.pdf?sequence=1&isAllowed=y)
 - [The Modern Word](http://web.archive.org/web/20150423131232/http://www.themodernword.com/joyce/)
 - [James Joyce's Ulysses: Where It's Always June 16, 1904](http://loki.stockton.edu/~kinsellt/projects/ulysses/storyReader$55.html), [Circe II](http://loki.stockton.edu/~kinsellt/projects/ulysses/storyReader$59.html), and [Circe III](http://loki.stockton.edu/~kinsellt/projects/ulysses/storyReader$58.html)
+- [1982 RTÉ Recording](https://archive.org/download/Ulysses-Audiobook-Merged/15__Circe.mp3)

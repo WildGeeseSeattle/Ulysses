@@ -18,3 +18,4 @@ dealing with his pupils and his headmaster, Mr Deasy.
 - [Shmoop Summary](http://www.shmoop.com/ulysses-joyce/episode-2-nestor-summary.html) and [Analysis](http://www.shmoop.com/ulysses-joyce/nestor-analysis-summary.html)
 - [Groden Notes](http://www.michaelgroden.com/notes/open02.html)
 - [Joyce’s Moraculous Sindbook: Suzette Henke](https://ohiostatepress.org/Books/Complete%20PDFs/Henke%20Joyces/04.pdf)
+- [1982 RTÉ Recording](https://archive.org/download/Ulysses-Audiobook-Merged/02__Nestor.mp3)

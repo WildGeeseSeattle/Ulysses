@@ -17,3 +17,4 @@ Bloom runs some errands.
 - [Shmoop Summary](http://www.shmoop.com/ulysses-joyce/episode-5-lotus-eaters-summary.html) and [Analysis](http://www.shmoop.com/ulysses-joyce/lotus-eaters-analysis-summary.html)
 - [Groden Notes](http://www.michaelgroden.com/notes/open05.html)
 - [Joyce’s Moraculous Sindbook: Suzette Henke](https://ohiostatepress.org/Books/Complete%20PDFs/Henke%20Joyces/06.pdf)
+- [1982 RTÉ Recording](https://archive.org/download/Ulysses-Audiobook-Merged/05__Lotus_Eaters.mp3)

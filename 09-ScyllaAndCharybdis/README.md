@@ -17,3 +17,4 @@ Stephen is holding forth in the National Library of Ireland.
 - [Shmoop Summary](http://www.shmoop.com/ulysses-joyce/episode-9-scylla-and-charybdis-summary.html) and [Analysis](http://www.shmoop.com/ulysses-joyce/scylla-and-charybdis-analysis-summary.html)
 - [Groden Notes](http://www.michaelgroden.com/notes/open09.html)
 - [Joyce’s Moraculous Sindbook: Suzette Henke — "Proteus": The Art of Perception, "Scylla and Charybdis": The Artist as God](https://ohiostatepress.org/books/Complete%20PDFs/Henke%20Joyces/05.pdf)
+- [1982 RTÉ Recording](https://archive.org/download/Ulysses-Audiobook-Merged/09__Scylla_And_Charybdis.mp3)

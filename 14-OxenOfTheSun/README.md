@@ -20,3 +20,4 @@
 - [Joyce’s Moraculous Sindbook: Suzette Henke — “Nausicaa”: Romantic Fantasy; “Oxen of the Sun”: Procreative Fantasy](https://kb.osu.edu/bitstream/handle/1811/24647/JOYCES_MORACULOUS_SINDBOOK.pdf?sequence=1&isAllowed=y)
 - [The Modern Word](http://web.archive.org/web/20150423131232/http://www.themodernword.com/joyce/)
 - [James Joyce's Ulysses: Where It's Always June 16, 1904](http://loki.stockton.edu/~kinsellt/projects/ulysses/storyReader$57.html) and [Oxen of the Sun II](http://loki.stockton.edu/~kinsellt/projects/ulysses/storyReader$61.html)
+- [1982 RTÉ Recording](https://archive.org/download/Ulysses-Audiobook-Merged/14__Oxen_Of_The_Sun.mp3)
