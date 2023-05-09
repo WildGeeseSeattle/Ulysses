@@ -7,6 +7,7 @@ Bloom and Stephen fail to meet each other at the office of the *Freeman's Journa
 - [Text of Chapter 7](http://www.online-literature.com/james_joyce/ulysses/7/)
 - [U22 Podcast: Aeolus](https://u22pod.com/episodes/episode-7-aeolus)
 - [The Joyce Project: Aeolus](http://m.joyceproject.com/chapters/aeolus.html)
+- [Ulysses Guide](http://www.ulyssesguide.com/7-aeolus)
 - [Kennesaw Guide](http://web.archive.org/web/20120618124805/http://ksumail.kennesaw.edu/~mglosup/ulysses/aeolus.htm)
 - [Cliff Notes](http://www.cliffsnotes.com/literature/u/ulysses/summary-and-analysis/chapter-7)
 - [Sparknotes](http://www.sparknotes.com/lit/ulysses/section7.rhtml)
@@ -17,4 +18,5 @@ Bloom and Stephen fail to meet each other at the office of the *Freeman's Journa
 - [Shmoop Summary](http://www.shmoop.com/ulysses-joyce/episode-7-aeolus-summary.html) and [Analysis](http://www.shmoop.com/ulysses-joyce/aeolus-analysis-summary.html)
 - [Groden Notes](http://www.michaelgroden.com/notes/open07.html)
 - [Joyce’s Moraculous Sindbook: Suzette Henke — “Hades”: The Hibernian Underworld, “Aelous” and “Wandering Rocks”: The World as Machine](https://ohiostatepress.org/books/Complete%20PDFs/Henke%20Joyces/07.pdf)
+- [James Joyce's Ulysses: Where It's Always June 16, 1904](http://loki.stockton.edu/~kinsellt/projects/ulysses/storyReader$13.html)
 - [1982 RTÉ Recording](https://archive.org/download/Ulysses-Audiobook-Merged/07__Aeolus.mp3)

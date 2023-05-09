@@ -8,6 +8,7 @@ dealing with his pupils and his headmaster, Mr Deasy.
 - [Text of Chapter 2](http://www.online-literature.com/james_joyce/ulysses/2/)
 - [U22 Podcast: Nestor](https://u22pod.com/episodes/t9rvimwzwk9uto5mmlxss25gx4dndi)
 - [The Joyce Project: Nestor](http://m.joyceproject.com/chapters/nestor.html)
+- [Ulysses Guide](http://www.ulyssesguide.com/nestor)
 - [Kennesaw Guide](http://web.archive.org/web/20120618124805/http://ksumail.kennesaw.edu/~mglosup/ulysses/nestor.htm)
 - [Cliff Notes](http://www.cliffsnotes.com/literature/u/ulysses/summary-and-analysis/chapter-2)
 - [Sparknotes](http://www.sparknotes.com/lit/ulysses/section1/page/2/)
@@ -18,4 +19,5 @@ dealing with his pupils and his headmaster, Mr Deasy.
 - [Shmoop Summary](http://www.shmoop.com/ulysses-joyce/episode-2-nestor-summary.html) and [Analysis](http://www.shmoop.com/ulysses-joyce/nestor-analysis-summary.html)
 - [Groden Notes](http://www.michaelgroden.com/notes/open02.html)
 - [Joyce’s Moraculous Sindbook: Suzette Henke](https://ohiostatepress.org/Books/Complete%20PDFs/Henke%20Joyces/04.pdf)
+- [James Joyce's Ulysses: Where It's Always June 16, 1904](http://loki.stockton.edu/~kinsellt/projects/ulysses/nestor.html)
 - [1982 RTÉ Recording](https://archive.org/download/Ulysses-Audiobook-Merged/02__Nestor.mp3)

@@ -7,6 +7,7 @@ Bloom runs some errands.
 - [Text of Chapter 5](http://www.online-literature.com/james_joyce/ulysses/5/)
 - [U22 Podcast: Lotus Eaters](https://u22pod.com/episodes/episode-5-lotus-eaters)
 - [The Joyce Project: Lotus Eaters](http://m.joyceproject.com/chapters/lotus.html)
+- [Ulysses Guide](http://www.ulyssesguide.com/5-lotuseaters)
 - [Kennesaw Guide](http://web.archive.org/web/20120614235446/http://ksumail.kennesaw.edu/~mglosup/ulysses/lotus.htm)
 - [Cliff Notes](http://www.cliffsnotes.com/literature/u/ulysses/summary-and-analysis/chapter-5)
 - [Sparknotes](http://www.sparknotes.com/lit/ulysses/section5.rhtml)
@@ -17,4 +18,5 @@ Bloom runs some errands.
 - [Shmoop Summary](http://www.shmoop.com/ulysses-joyce/episode-5-lotus-eaters-summary.html) and [Analysis](http://www.shmoop.com/ulysses-joyce/lotus-eaters-analysis-summary.html)
 - [Groden Notes](http://www.michaelgroden.com/notes/open05.html)
 - [Joyce’s Moraculous Sindbook: Suzette Henke](https://ohiostatepress.org/Books/Complete%20PDFs/Henke%20Joyces/06.pdf)
+- [James Joyce's Ulysses: Where It's Always June 16, 1904](http://loki.stockton.edu/~kinsellt/projects/ulysses/storyReader$16.html) and [Lotus Eaters II](http://loki.stockton.edu/~kinsellt/projects/ulysses/storyReader$18.html)
 - [1982 RTÉ Recording](https://archive.org/download/Ulysses-Audiobook-Merged/05__Lotus_Eaters.mp3)
