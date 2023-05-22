@@ -141,7 +141,6 @@ nnoremap <silent> ;nl 02xi\lambert:<CR><Esc>
 nnoremap <silent> ;rl 02xi\revlove:<CR><Esc>
 nnoremap <silent> ;tr 02xi\rochford:<CR><Esc>
 nnoremap <silent> ;nf 02xi\nosey:<CR><Esc>
-nnoremap <silent> ;lh 02xi\lenehan:<CR><Esc>
 nnoremap <silent> ;MC 02xi\mcoy:<CR><Esc>
 nnoremap <silent> ;sm 02xi\shopman:<CR><Esc>
 nnoremap <silent> ;dd 02xi\dilly:<CR><Esc>
@@ -156,9 +155,18 @@ nnoremap <silent> ;jw 02xi\johnwyse:<CR><Esc>
 nnoremap <silent> ;pw 02xi\power:<CR><Esc>
 nnoremap <silent> ;lj 02xi\longjohn:<CR><Esc>
 nnoremap <silent> ;jh 02xi\jimmyhenry:<CR><Esc>
-nnoremap <silent> ;bm 02xi\mulligan:<CR><Esc>
+nnoremap <silent> ;mm 02xi\mulligan:<CR><Esc>
 nnoremap <silent> ;ha 02xi\haines:<CR><Esc>
 nnoremap <silent> ;md 0i<CR>\masterdignam:<CR><Esc>
+
+nnoremap <silent> ;dx 0i\dixon:<CR><Esc>
+nnoremap <silent> ;lh 0i\lenehan:<CR><Esc>
+nnoremap <silent> ;ly 0i\lynch:<CR><Esc>
+nnoremap <silent> ;ct 0i\crotthers:<CR><Esc>
+nnoremap <silent> ;pu 0i\punch:<CR><Esc>
+nnoremap <silent> ;ba 0i\bantam:<CR><Esc>
+nnoremap <silent> ;mn 0i\madden:<CR><Esc>
+nnoremap <silent> ;ab 0i\bannon:<CR><Esc>
 
 nnoremap <silent> ;x  0o<CR><Esc>
 nnoremap <silent> ;h  A \|<Esc>j2dd
