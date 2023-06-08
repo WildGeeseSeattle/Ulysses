@@ -4,7 +4,6 @@
 \usepackage{ifthen}
 
 \newcommand{\sentence}[1]{\pagebreak[3]\section{#1}\indent}
-\newcommand{\histstyle}[2]{\bigskip\centerline{--- \emph{{[}#1 @ #2{]}} ---}\smallskip}
 
 \newcommand{\headline}[1]{\pagebreak[3]\subsection*{\textsc{#1}}\indent}
 
@@ -320,3 +319,4 @@
 \newcommand{\gab}[1]{\marginpar[\raggedleft\small #1]{\raggedright\small #1}}
 % TODO: eat the preceding line ending
 \newcommand{\week}[1]{\medbreak\marginpar[\raggedleft\small Week #1]{\raggedright\small Week #1}}
+\newcommand{\histstyle}[2]{\pagebreak[3]\bigskip\centerline{--- \emph{{[}#1 @ #2{]}} ---}\smallskip}
