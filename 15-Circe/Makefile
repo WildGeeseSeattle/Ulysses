@@ -1,12 +1,10 @@
 TARGET=Circe
 
-all: pdf1 pdf2
+all: pdf
 
-pdf1: $(TARGET)1.pdf
+pdf: $(TARGET).pdf
 
-pdf2: $(TARGET)2.pdf
-
-%.pdf: %.tex defs.tex
+%.pdf: Circe*.tex defs.tex
 	tectonic $<
 
 clean:

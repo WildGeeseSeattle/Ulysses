@@ -30,13 +30,15 @@ Scripts for each episode.
 
 ## Combined Scripts
 
-To make for better 90–120-minute readings, some episodes have been combined.
+To make for better 90–120-minute readings, some episodes have been combined or split.
 
 * [01-04-Beginnings](./01-04-Beginnings/)
 * [02-05-Mornings](./02-05-Mornings/)
 * [03-06-Isolation](./03-06-Isolation/)
 * [07-08-Windiness](./07-08-Windiness/)
 * [08-09-ShakyLibraries](./08-09-ShakyLibraries/)
+* [15i-Circe](./15i-Circe/)
+* [15ii-Circe](./15ii-Circe/)
 
 ## Resources
 
@@ -74,7 +76,7 @@ such as Microsoft Word.
 * Install a [PDF viewer],
   if you don't have one already
 
-  * Mac: use Preview (built-in) or install [Skim]
+  * Mac: use Preview (built-in) or install [Skim] or [Adobe Acrobat Reader]
   * Windows: install [Adobe Acrobat Reader]
   * Linux: install [Okular]
 
