@@ -5,7 +5,7 @@ all: pdf
 pdf: $(TARGET).pdf
 
 %.pdf: %.tex defs.tex
-	xelatex $<
+	tectonic $<
 
 clean:
 	-rm *.log *.aux *.pdf *.synctex.gz *.zip
