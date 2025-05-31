@@ -24,17 +24,16 @@
 \newcommand{\Quotation}[1]{\emph{#1}}
 \newcommand{\russian}[1]{\emph{#1}}
 
-\newcommand{\role}[2]{%
-% #1 is role name; #2 is the trailing ":"
+\newcommand{\role}[2]{% #1 is role name; #2 is the trailing ":"
 {\pagebreak[0]\textbf{#1}%
-{\nobreak\hskip 0.1em plus 0.25em\Large\char58\hskip 0.1em plus 0.1em minus 0.05em\relax}~}}
+{\nobreak\hskip 0.1em plus 0.25em\large\char58\hskip 0.1em plus 0.1em minus 0.05em\relax}~}}
 \newcommand{\Role}[2]{%
-{\pagebreak[1]\vspace{6.5pt plus 3pt minus 2.5pt}\textbf{#1}%
-{\nobreak\hskip 0.1em plus 0.25em\Large\char58\hskip 0.1em plus 0.1em minus 0.05em\relax}~}}
+{\pagebreak[1]\vspace{3.0pt plus 3pt minus 2.5pt}\textbf{#1}%
+{\nobreak\hskip 0.1em plus 0.25em\large\char58\hskip 0.1em plus 0.1em minus 0.05em\relax}~}}
 \newcommand{\narr}[2][N]{\role{#1#2}}
 \newcommand{\Narr}[2][N]{\Role{#1#2}}
 \newcommand{\nrole}[2]{\Narr{#1}: #2.\par\Role{#2}}
-\newcommand{\optrole}[2][0]{\ifthenelse {#1>0} {\nrole{#1}{#2}} {\Role{#2}}}
+\newcommand{\optrole}[2][0]{\ifthenelse {\equal{#1}{0}} {\Role{#2}} {\nrole{#1}{#2}}}
 \newcommand{\Man}[2][Man]{\Role{#1 \##2}}
 \newcommand{\Woman}[2][Woman]{\Role{#1 \##2}}
 \newcommand{\Boy}[2][Boy]{\Role{#1 \##2}}
@@ -248,7 +247,7 @@
 \newcommand{\Bidder}[1][0]  {\optrole[#1]{A Bidder}}
 \newcommand{\Lacquey}[1][0]  {\optrole[#1]{The Lacquey}}
 \newcommand{\Marsh}[1][0]  {\optrole[#1]{Charles Alberta Marsh}}
-\newcommand{\DarkvisagedMan}[1][0]  {\optrole[#1]{A Darkvisaged Man}}
+\newcommand{\DarkvisagedMan}[1][0]  {\optrole[#1]{A Dark·visaged Man}}
 \newcommand{\SleepyHollow}[1][0]  {\optrole[#1]{SleepyHollow}}
 \newcommand{\Milly}[1][0]  {\optrole[#1]{Milly}}
 \newcommand{\Circumcised}[1][0]  {\optrole[#1]{The Circumcised}}
@@ -359,7 +358,7 @@
 {\medskip\pagebreak[2]\begin{mdframed}}
 {\smallskip\end{mdframed}}
 
-\newcommand{\commentary}[1]{\bigskip\pagebreak[2]\fb{\centering #1}\bigskip}
+\newcommand{\commentary}[2]{\bigskip\pagebreak[2]\fb{\centering #1 \hfill RTÉ: #2}\bigskip}
 
 % Parenthetical remarks
 \newcommand{\paren}[1]{\hskip 0.75em{\examplefont \emph{#1}}\hskip 0.75em}
@@ -378,5 +377,6 @@
 \usepackage{marginfit}
 \newcommand{\gab}[1]{\marginpar[\raggedleft\small #1]{\raggedright\small #1}}
 % TODO: eat the preceding line ending
+% \newcommand{\rte}[1]{\marginpar[\raggedleft\small RTÉ: #1]{\raggedright\small RTÉ: #1}}
 \newcommand{\week}[1]{\medbreak\marginpar[\raggedleft\small Week #1]{\raggedright\small Week #1}}
 \newcommand{\histstyle}[2]{\pagebreak[3]\bigskip\centerline{--- \emph{{[}#1 @ #2{]}} ---}\smallskip}
